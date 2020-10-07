@@ -1,0 +1,14 @@
+             id             |         pid         |  character  
+----------------------------+---------------------+-------------
+ The Matrix (1999)          | Fishburne, Laurence | Morpheus
+ The Matrix (1999)          | Foster, Gloria (I)  | Oracle
+ The Matrix (1999)          | Moss, Carrie-Anne   | Trinity
+ The Matrix (1999)          | Reeves, Keanu       | Neo
+ The Matrix (1999)          | Weaving, Hugo       | Agent Smith
+ The Matrix Reloaded (2003) | Fishburne, Laurence | Morpheus
+ The Matrix Reloaded (2003) | Foster, Gloria (I)  | The Oracle
+ The Matrix Reloaded (2003) | Moss, Carrie-Anne   | Trinity
+ The Matrix Reloaded (2003) | Reeves, Keanu       | Neo
+ The Matrix Reloaded (2003) | Weaving, Hugo       | Agent Smith
+(10 rows)
+
