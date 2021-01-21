@@ -1,0 +1,9001 @@
+Read 1000 babies. Starting year 1920. Each baby has 500 entries.
+YWLDVPAOMS
+ Total: 25730
+ Years: 495
+ 2419: 97
+ First: 1920 25
+ Last: 2419 97
+ Min: 2148 1
+ Max: 2400 100
+ Avg: 51.46
+YBKBWZVYUI
+ Total: 23905
+ Years: 493
+ 2419: 85
+ First: 1920 13
+ Last: 2419 85
+ Min: 2145 1
+ Max: 2072 100
+ Avg: 47.81
+LLGKRFRDJD
+ Total: 25209
+ Years: 496
+ 2419: 86
+ First: 1920 38
+ Last: 2419 86
+ Min: 1938 1
+ Max: 2304 100
+ Avg: 50.418
+VDDSWGKWFP
+ Total: 24502
+ Years: 494
+ 2419: 13
+ First: 1920 36
+ Last: 2419 13
+ Min: 2072 1
+ Max: 2314 100
+ Avg: 49.004
+SPLVILDLMK
+ Total: 25021
+ Years: 496
+ 2419: 19
+ First: 1920 78
+ Last: 2419 19
+ Min: 2038 1
+ Max: 2299 100
+ Avg: 50.042
+UIYVHVPMSL
+ Total: 24567
+ Years: 494
+ 2419: 0
+ First: 1920 40
+ Last: 2418 6
+ Min: 1963 1
+ Max: 2326 100
+ Avg: 49.134
+MSNCXGXGVZ
+ Total: 24912
+ Years: 496
+ 2419: 67
+ First: 1920 4
+ Last: 2419 67
+ Min: 1936 1
+ Max: 2327 100
+ Avg: 49.824
+BKITTHYFNQ
+ Total: 25374
+ Years: 498
+ 2419: 29
+ First: 1920 95
+ Last: 2419 29
+ Min: 2125 1
+ Max: 2398 100
+ Avg: 50.748
+XJCRPIDXXI
+ Total: 24468
+ Years: 496
+ 2419: 81
+ First: 1920 84
+ Last: 2419 81
+ Min: 2144 1
+ Max: 2212 100
+ Avg: 48.936
+DFHNCCSOXQ
+ Total: 24993
+ Years: 492
+ 2419: 71
+ First: 1920 36
+ Last: 2419 71
+ Min: 2029 1
+ Max: 2351 100
+ Avg: 49.986
+MDEXAPPBBM
+ Total: 24134
+ Years: 497
+ 2419: 38
+ First: 1920 94
+ Last: 2419 38
+ Min: 2087 1
+ Max: 2305 100
+ Avg: 48.268
+KKOABKUFEB
+ Total: 24244
+ Years: 491
+ 2419: 72
+ First: 1920 10
+ Last: 2419 72
+ Min: 1974 1
+ Max: 2317 100
+ Avg: 48.488
+GCIMWAKTJJ
+ Total: 24954
+ Years: 497
+ 2419: 53
+ First: 1920 25
+ Last: 2419 53
+ Min: 1962 1
+ Max: 2393 100
+ Avg: 49.908
+AWBGMAMKXX
+ Total: 23500
+ Years: 494
+ 2419: 57
+ First: 1920 53
+ Last: 2419 57
+ Min: 1939 1
+ Max: 2382 100
+ Avg: 47.0
+OJPYHLSVTH
+ Total: 24635
+ Years: 496
+ 2419: 47
+ First: 1920 23
+ Last: 2419 47
+ Min: 2041 1
+ Max: 2399 100
+ Avg: 49.27
+QYZBTUKHPN
+ Total: 25033
+ Years: 495
+ 2419: 49
+ First: 1920 44
+ Last: 2419 49
+ Min: 1947 1
+ Max: 2411 100
+ Avg: 50.066
+UBLEWZLQGY
+ Total: 25438
+ Years: 498
+ 2419: 11
+ First: 1920 45
+ Last: 2419 11
+ Min: 2019 1
+ Max: 2299 100
+ Avg: 50.876
+LGGKEITUYP
+ Total: 24636
+ Years: 496
+ 2419: 2
+ First: 1920 9
+ Last: 2419 2
+ Min: 2105 1
+ Max: 2244 100
+ Avg: 49.272
+VWYDFBXOGJ
+ Total: 25315
+ Years: 495
+ 2419: 42
+ First: 1920 67
+ Last: 2419 42
+ Min: 1997 1
+ Max: 2340 100
+ Avg: 50.63
+EUPSCJJZPB
+ Total: 23663
+ Years: 491
+ 2419: 52
+ First: 1920 71
+ Last: 2419 52
+ Min: 1921 1
+ Max: 2411 100
+ Avg: 47.326
+ZSMZRZOEMI
+ Total: 25618
+ Years: 494
+ 2419: 82
+ First: 1920 78
+ Last: 2419 82
+ Min: 1947 1
+ Max: 2180 100
+ Avg: 51.236
+VCYPGNOUGQ
+ Total: 24801
+ Years: 497
+ 2419: 1
+ First: 1920 21
+ Last: 2419 1
+ Min: 1972 1
+ Max: 2289 100
+ Avg: 49.602
+YOAQCKLWIO
+ Total: 26417
+ Years: 495
+ 2419: 66
+ First: 1920 32
+ Last: 2419 66
+ Min: 2175 1
+ Max: 2214 100
+ Avg: 52.834
+AKLMMZGUMD
+ Total: 24828
+ Years: 491
+ 2419: 13
+ First: 1920 72
+ Last: 2419 13
+ Min: 2080 1
+ Max: 2347 100
+ Avg: 49.656
+RNIMWBFZXW
+ Total: 25518
+ Years: 493
+ 2419: 40
+ First: 1920 38
+ Last: 2419 40
+ Min: 1996 1
+ Max: 2124 100
+ Avg: 51.036
+QJXXYJVBJY
+ Total: 24920
+ Years: 496
+ 2419: 67
+ First: 1920 59
+ Last: 2419 67
+ Min: 1965 1
+ Max: 2361 100
+ Avg: 49.84
+FQHFOWBCZX
+ Total: 25697
+ Years: 498
+ 2419: 85
+ First: 1920 13
+ Last: 2419 85
+ Min: 2117 1
+ Max: 2122 100
+ Avg: 51.394
+CSFQNPJDEM
+ Total: 26012
+ Years: 499
+ 2419: 15
+ First: 1920 51
+ Last: 2419 15
+ Min: 2005 1
+ Max: 2383 100
+ Avg: 52.024
+RZNVJIEIYT
+ Total: 26054
+ Years: 497
+ 2419: 92
+ First: 1920 92
+ Last: 2419 92
+ Min: 1972 1
+ Max: 2368 100
+ Avg: 52.108
+XCLRVUYIAW
+ Total: 24547
+ Years: 497
+ 2419: 44
+ First: 1920 73
+ Last: 2419 44
+ Min: 1997 1
+ Max: 2315 100
+ Avg: 49.094
+FLWFTJAPKP
+ Total: 25771
+ Years: 494
+ 2419: 12
+ First: 1920 38
+ Last: 2419 12
+ Min: 1956 1
+ Max: 2370 100
+ Avg: 51.542
+BLLRIKAGNS
+ Total: 25801
+ Years: 498
+ 2419: 73
+ First: 1920 5
+ Last: 2419 73
+ Min: 1941 1
+ Max: 2372 100
+ Avg: 51.602
+WFRYBVDJBF
+ Total: 26073
+ Years: 497
+ 2419: 92
+ First: 1920 40
+ Last: 2419 92
+ Min: 2026 1
+ Max: 2402 100
+ Avg: 52.146
+DNFWNLFWXS
+ Total: 25531
+ Years: 497
+ 2419: 27
+ First: 1920 79
+ Last: 2419 27
+ Min: 1961 1
+ Max: 2398 100
+ Avg: 51.062
+DTIVMTPKEV
+ Total: 24933
+ Years: 497
+ 2419: 3
+ First: 1920 90
+ Last: 2419 3
+ Min: 2084 1
+ Max: 2346 100
+ Avg: 49.866
+ERCFSWKABK
+ Total: 25036
+ Years: 491
+ 2419: 16
+ First: 1920 29
+ Last: 2419 16
+ Min: 1930 1
+ Max: 2364 100
+ Avg: 50.072
+NJPQVGXJDS
+ Total: 24774
+ Years: 490
+ 2419: 47
+ First: 1920 3
+ Last: 2419 47
+ Min: 1934 1
+ Max: 2197 100
+ Avg: 49.548
+VZWZAMEXWS
+ Total: 25166
+ Years: 494
+ 2419: 46
+ First: 1920 67
+ Last: 2419 46
+ Min: 1980 1
+ Max: 2412 100
+ Avg: 50.332
+FATNVZUCQE
+ Total: 24165
+ Years: 493
+ 2419: 88
+ First: 1920 15
+ Last: 2419 88
+ Min: 2006 1
+ Max: 2332 100
+ Avg: 48.33
+QVLZSNYDSW
+ Total: 25083
+ Years: 495
+ 2419: 67
+ First: 1920 64
+ Last: 2419 67
+ Min: 1961 1
+ Max: 2321 100
+ Avg: 50.166
+CROGTRULGS
+ Total: 24960
+ Years: 496
+ 2419: 89
+ First: 1920 57
+ Last: 2419 89
+ Min: 2201 1
+ Max: 2106 100
+ Avg: 49.92
+XEAWKWHKAA
+ Total: 25107
+ Years: 495
+ 2419: 99
+ First: 1920 73
+ Last: 2419 99
+ Min: 1930 1
+ Max: 2418 100
+ Avg: 50.214
+QMUKWKXVLX
+ Total: 25752
+ Years: 496
+ 2419: 84
+ First: 1920 45
+ Last: 2419 84
+ Min: 2213 1
+ Max: 2272 100
+ Avg: 51.504
+VKPYVRVMTC
+ Total: 25099
+ Years: 495
+ 2419: 97
+ First: 1920 47
+ Last: 2419 97
+ Min: 2165 1
+ Max: 2402 100
+ Avg: 50.198
+DCABVNSKRU
+ Total: 24233
+ Years: 493
+ 2419: 70
+ First: 1920 80
+ Last: 2419 70
+ Min: 1984 1
+ Max: 2345 100
+ Avg: 48.466
+WAPHQDBSXO
+ Total: 24846
+ Years: 495
+ 2419: 92
+ First: 1920 69
+ Last: 2419 92
+ Min: 1937 1
+ Max: 2377 100
+ Avg: 49.692
+SZOSGFDDST
+ Total: 26015
+ Years: 498
+ 2419: 72
+ First: 1920 6
+ Last: 2419 72
+ Min: 2047 1
+ Max: 2145 100
+ Avg: 52.03
+THPXPTTRPN
+ Total: 25126
+ Years: 490
+ 2419: 71
+ First: 1920 16
+ Last: 2419 71
+ Min: 2067 1
+ Max: 2199 100
+ Avg: 50.252
+YLUEMSOUZZ
+ Total: 26021
+ Years: 496
+ 2419: 63
+ First: 1920 11
+ Last: 2419 63
+ Min: 1921 1
+ Max: 2358 100
+ Avg: 52.042
+XXXSEGOHOI
+ Total: 24140
+ Years: 496
+ 2419: 10
+ First: 1920 9
+ Last: 2419 10
+ Min: 1979 1
+ Max: 2242 100
+ Avg: 48.28
+ATZLAZGOYO
+ Total: 25031
+ Years: 497
+ 2419: 66
+ First: 1920 88
+ Last: 2419 66
+ Min: 2206 1
+ Max: 2395 100
+ Avg: 50.062
+MDXWVRATHT
+ Total: 25608
+ Years: 494
+ 2419: 81
+ First: 1920 24
+ Last: 2419 81
+ Min: 1942 1
+ Max: 2401 100
+ Avg: 51.216
+BQFPBCEYGD
+ Total: 24650
+ Years: 498
+ 2419: 3
+ First: 1920 75
+ Last: 2419 3
+ Min: 2090 1
+ Max: 2254 100
+ Avg: 49.3
+TLTWCGAUFS
+ Total: 24217
+ Years: 498
+ 2419: 44
+ First: 1920 75
+ Last: 2419 44
+ Min: 1923 1
+ Max: 2392 100
+ Avg: 48.434
+EXRQRSVJTA
+ Total: 24178
+ Years: 497
+ 2419: 60
+ First: 1920 29
+ Last: 2419 60
+ Min: 1970 1
+ Max: 2366 100
+ Avg: 48.356
+LMXVBBUCFD
+ Total: 24236
+ Years: 493
+ 2419: 66
+ First: 1920 63
+ Last: 2419 66
+ Min: 1932 1
+ Max: 2361 99
+ Avg: 48.472
+MHQTEZVYUX
+ Total: 25970
+ Years: 496
+ 2419: 83
+ First: 1920 79
+ Last: 2419 83
+ Min: 1970 1
+ Max: 2409 100
+ Avg: 51.94
+JVIFVNWPFQ
+ Total: 24396
+ Years: 494
+ 2419: 77
+ First: 1920 95
+ Last: 2419 77
+ Min: 1924 1
+ Max: 2409 100
+ Avg: 48.792
+OCOBPQNXEZ
+ Total: 24713
+ Years: 491
+ 2419: 75
+ First: 1920 92
+ Last: 2419 75
+ Min: 1985 1
+ Max: 2379 100
+ Avg: 49.426
+VXGNPNQIXH
+ Total: 24376
+ Years: 491
+ 2419: 34
+ First: 1920 41
+ Last: 2419 34
+ Min: 1943 1
+ Max: 2411 100
+ Avg: 48.752
+JNGRHYTGLH
+ Total: 25124
+ Years: 496
+ 2419: 18
+ First: 1920 40
+ Last: 2419 18
+ Min: 1956 1
+ Max: 2413 100
+ Avg: 50.248
+LJHYNRGXUE
+ Total: 25591
+ Years: 497
+ 2419: 58
+ First: 1920 43
+ Last: 2419 58
+ Min: 1950 1
+ Max: 2343 100
+ Avg: 51.182
+BHMGNRYLEL
+ Total: 25626
+ Years: 495
+ 2419: 70
+ First: 1920 33
+ Last: 2419 70
+ Min: 1955 1
+ Max: 2142 100
+ Avg: 51.252
+ISFNKULAKZ
+ Total: 24849
+ Years: 490
+ 2419: 9
+ First: 1920 93
+ Last: 2419 9
+ Min: 1955 1
+ Max: 2407 100
+ Avg: 49.698
+HSFAFVNQAY
+ Total: 24947
+ Years: 496
+ 2419: 8
+ First: 1920 84
+ Last: 2419 8
+ Min: 1940 1
+ Max: 2197 100
+ Avg: 49.894
+NHPEYZTKYO
+ Total: 24394
+ Years: 494
+ 2419: 34
+ First: 1920 37
+ Last: 2419 34
+ Min: 2023 1
+ Max: 2406 100
+ Avg: 48.788
+HUDFWSRRFD
+ Total: 24631
+ Years: 496
+ 2419: 80
+ First: 1921 19
+ Last: 2419 80
+ Min: 1990 1
+ Max: 2358 100
+ Avg: 49.262
+ERFGQQESIX
+ Total: 24915
+ Years: 499
+ 2419: 3
+ First: 1920 21
+ Last: 2419 3
+ Min: 1990 1
+ Max: 2414 100
+ Avg: 49.83
+AGCFDAFIWS
+ Total: 25025
+ Years: 497
+ 2419: 15
+ First: 1920 70
+ Last: 2419 15
+ Min: 1930 1
+ Max: 2293 99
+ Avg: 50.05
+PBECRISTBP
+ Total: 26363
+ Years: 495
+ 2419: 38
+ First: 1920 27
+ Last: 2419 38
+ Min: 2131 1
+ Max: 2273 100
+ Avg: 52.726
+YPNUPOYGDL
+ Total: 25142
+ Years: 496
+ 2419: 91
+ First: 1920 72
+ Last: 2419 91
+ Min: 1956 1
+ Max: 2366 100
+ Avg: 50.284
+NNCCMJHOSN
+ Total: 25492
+ Years: 489
+ 2419: 71
+ First: 1920 64
+ Last: 2419 71
+ Min: 2158 1
+ Max: 2315 100
+ Avg: 50.984
+TSODKIKSVO
+ Total: 25436
+ Years: 498
+ 2419: 88
+ First: 1920 74
+ Last: 2419 88
+ Min: 1968 1
+ Max: 2411 100
+ Avg: 50.872
+DSGQLPUKGI
+ Total: 24157
+ Years: 491
+ 2419: 64
+ First: 1920 2
+ Last: 2419 64
+ Min: 2081 1
+ Max: 2385 100
+ Avg: 48.314
+GZLOSXFDEH
+ Total: 24824
+ Years: 494
+ 2419: 29
+ First: 1920 13
+ Last: 2419 29
+ Min: 1950 1
+ Max: 2313 100
+ Avg: 49.648
+EJEARPQSVJ
+ Total: 23354
+ Years: 494
+ 2419: 31
+ First: 1920 48
+ Last: 2419 31
+ Min: 1955 1
+ Max: 2195 100
+ Avg: 46.708
+UUSNKXVXRA
+ Total: 24241
+ Years: 492
+ 2419: 93
+ First: 1920 36
+ Last: 2419 93
+ Min: 1922 1
+ Max: 2410 100
+ Avg: 48.482
+MRVAGGKJGQ
+ Total: 24944
+ Years: 497
+ 2419: 95
+ First: 1920 72
+ Last: 2419 95
+ Min: 1986 1
+ Max: 2294 100
+ Avg: 49.888
+VRODTVYRVR
+ Total: 25820
+ Years: 495
+ 2419: 35
+ First: 1920 88
+ Last: 2419 35
+ Min: 2031 1
+ Max: 2314 100
+ Avg: 51.64
+ZCEDSRWSVA
+ Total: 25281
+ Years: 495
+ 2419: 5
+ First: 1920 29
+ Last: 2419 5
+ Min: 1943 1
+ Max: 2342 100
+ Avg: 50.562
+UKDKRTAFXN
+ Total: 24069
+ Years: 493
+ 2419: 15
+ First: 1920 29
+ Last: 2419 15
+ Min: 1929 1
+ Max: 2379 100
+ Avg: 48.138
+BRKOCLSCDZ
+ Total: 24825
+ Years: 496
+ 2419: 34
+ First: 1920 8
+ Last: 2419 34
+ Min: 1973 1
+ Max: 2277 100
+ Avg: 49.65
+JPYOSDBHUD
+ Total: 25084
+ Years: 495
+ 2419: 100
+ First: 1920 70
+ Last: 2419 100
+ Min: 2060 1
+ Max: 2419 100
+ Avg: 50.168
+FJLLCLAUWC
+ Total: 25489
+ Years: 498
+ 2419: 52
+ First: 1920 33
+ Last: 2419 52
+ Min: 2131 1
+ Max: 2387 100
+ Avg: 50.978
+EPPZCIYCIE
+ Total: 25017
+ Years: 492
+ 2419: 48
+ First: 1920 39
+ Last: 2419 48
+ Min: 1930 1
+ Max: 2289 100
+ Avg: 50.034
+YGKIVZYNON
+ Total: 24823
+ Years: 491
+ 2419: 85
+ First: 1920 16
+ Last: 2419 85
+ Min: 1922 1
+ Max: 2326 100
+ Avg: 49.646
+VGZRUBWUPU
+ Total: 26668
+ Years: 496
+ 2419: 39
+ First: 1920 49
+ Last: 2419 39
+ Min: 1955 1
+ Max: 2418 100
+ Avg: 53.336
+QJOAQYIVOV
+ Total: 25439
+ Years: 498
+ 2419: 32
+ First: 1920 39
+ Last: 2419 32
+ Min: 1954 1
+ Max: 2390 100
+ Avg: 50.878
+HVQHURZHYE
+ Total: 24785
+ Years: 498
+ 2419: 67
+ First: 1920 9
+ Last: 2419 67
+ Min: 2098 1
+ Max: 2365 100
+ Avg: 49.57
+ONAJUOKIDQ
+ Total: 25237
+ Years: 496
+ 2419: 99
+ First: 1920 68
+ Last: 2419 99
+ Min: 1945 1
+ Max: 2127 100
+ Avg: 50.474
+PNXYANGGVI
+ Total: 24869
+ Years: 497
+ 2419: 17
+ First: 1920 82
+ Last: 2419 17
+ Min: 2009 1
+ Max: 2276 100
+ Avg: 49.738
+CPGVKWXAVQ
+ Total: 24425
+ Years: 494
+ 2419: 32
+ First: 1920 19
+ Last: 2419 32
+ Min: 1956 1
+ Max: 2418 100
+ Avg: 48.85
+OTCLUWFMOC
+ Total: 25704
+ Years: 496
+ 2419: 76
+ First: 1920 72
+ Last: 2419 76
+ Min: 1938 1
+ Max: 2292 100
+ Avg: 51.408
+GIEIMTNBPY
+ Total: 25318
+ Years: 496
+ 2419: 16
+ First: 1920 28
+ Last: 2419 16
+ Min: 1950 1
+ Max: 2335 100
+ Avg: 50.636
+IUPJYIIJCG
+ Total: 23929
+ Years: 492
+ 2419: 81
+ First: 1920 40
+ Last: 2419 81
+ Min: 2163 1
+ Max: 2340 100
+ Avg: 47.858
+YFRUKSCYDY
+ Total: 25170
+ Years: 493
+ 2419: 18
+ First: 1920 67
+ Last: 2419 18
+ Min: 1987 1
+ Max: 2356 100
+ Avg: 50.34
+WROXVMDERZ
+ Total: 25468
+ Years: 497
+ 2419: 25
+ First: 1920 47
+ Last: 2419 25
+ Min: 1936 1
+ Max: 2289 100
+ Avg: 50.936
+OHDXZYGLSU
+ Total: 24951
+ Years: 495
+ 2419: 96
+ First: 1920 39
+ Last: 2419 96
+ Min: 2114 1
+ Max: 2291 100
+ Avg: 49.902
+FKYGRWPORU
+ Total: 25875
+ Years: 495
+ 2419: 39
+ First: 1920 24
+ Last: 2419 39
+ Min: 1984 1
+ Max: 2364 100
+ Avg: 51.75
+UGTYOXCYLR
+ Total: 24645
+ Years: 495
+ 2419: 46
+ First: 1920 74
+ Last: 2419 46
+ Min: 2250 1
+ Max: 2417 100
+ Avg: 49.29
+HHXQLZGRJG
+ Total: 26000
+ Years: 496
+ 2419: 57
+ First: 1920 98
+ Last: 2419 57
+ Min: 1940 1
+ Max: 2366 100
+ Avg: 52.0
+USUNNRZDEJ
+ Total: 23707
+ Years: 496
+ 2419: 89
+ First: 1920 31
+ Last: 2419 89
+ Min: 1922 1
+ Max: 2085 100
+ Avg: 47.414
+YCKANMHSTQ
+ Total: 24976
+ Years: 495
+ 2419: 17
+ First: 1920 84
+ Last: 2419 17
+ Min: 1932 1
+ Max: 2238 100
+ Avg: 49.952
+EELGMKKPRP
+ Total: 24997
+ Years: 495
+ 2419: 47
+ First: 1920 15
+ Last: 2419 47
+ Min: 1989 1
+ Max: 2103 100
+ Avg: 49.994
+LJGEWVUWAO
+ Total: 25545
+ Years: 498
+ 2419: 74
+ First: 1920 62
+ Last: 2419 74
+ Min: 2080 1
+ Max: 2262 100
+ Avg: 51.09
+RZMWSRQTLT
+ Total: 25840
+ Years: 493
+ 2419: 11
+ First: 1920 13
+ Last: 2419 11
+ Min: 2041 1
+ Max: 2322 100
+ Avg: 51.68
+HKXNUGXGYU
+ Total: 25737
+ Years: 494
+ 2419: 14
+ First: 1920 40
+ Last: 2419 14
+ Min: 2062 1
+ Max: 2405 100
+ Avg: 51.474
+AOKIIQCCIS
+ Total: 24188
+ Years: 495
+ 2419: 20
+ First: 1920 32
+ Last: 2419 20
+ Min: 1922 1
+ Max: 2416 100
+ Avg: 48.376
+DNGEKRSTIL
+ Total: 24902
+ Years: 496
+ 2419: 66
+ First: 1920 19
+ Last: 2419 66
+ Min: 2052 1
+ Max: 2338 100
+ Avg: 49.804
+YMNDQREZWY
+ Total: 25334
+ Years: 500
+ 2419: 3
+ First: 1920 40
+ Last: 2419 3
+ Min: 2003 1
+ Max: 2250 100
+ Avg: 50.668
+AMQILGDCTS
+ Total: 24405
+ Years: 495
+ 2419: 58
+ First: 1920 65
+ Last: 2419 58
+ Min: 2052 1
+ Max: 2144 100
+ Avg: 48.81
+IFODZIXAYY
+ Total: 23763
+ Years: 496
+ 2419: 3
+ First: 1920 67
+ Last: 2419 3
+ Min: 1977 1
+ Max: 2379 99
+ Avg: 47.526
+ZKDFKYZMKA
+ Total: 24904
+ Years: 495
+ 2419: 46
+ First: 1920 3
+ Last: 2419 46
+ Min: 1979 1
+ Max: 2370 100
+ Avg: 49.808
+IZAXAQUJOZ
+ Total: 24531
+ Years: 489
+ 2419: 45
+ First: 1920 49
+ Last: 2419 45
+ Min: 2095 1
+ Max: 2366 100
+ Avg: 49.062
+SONQRNHGKI
+ Total: 25315
+ Years: 495
+ 2419: 97
+ First: 1920 37
+ Last: 2419 97
+ Min: 1996 1
+ Max: 2322 100
+ Avg: 50.63
+SQKFPZDFMI
+ Total: 26441
+ Years: 498
+ 2419: 39
+ First: 1920 68
+ Last: 2419 39
+ Min: 2002 1
+ Max: 2342 100
+ Avg: 52.882
+XWLJLRQGDF
+ Total: 24788
+ Years: 493
+ 2419: 95
+ First: 1920 20
+ Last: 2419 95
+ Min: 1947 1
+ Max: 2205 100
+ Avg: 49.576
+WKNGRHESFE
+ Total: 25672
+ Years: 498
+ 2419: 36
+ First: 1920 25
+ Last: 2419 36
+ Min: 2088 1
+ Max: 1923 100
+ Avg: 51.344
+KIJYUCAMHU
+ Total: 24850
+ Years: 499
+ 2419: 63
+ First: 1920 94
+ Last: 2419 63
+ Min: 1936 1
+ Max: 2392 100
+ Avg: 49.7
+JHEKBKJQUV
+ Total: 24217
+ Years: 498
+ 2419: 33
+ First: 1920 77
+ Last: 2419 33
+ Min: 1935 1
+ Max: 2386 100
+ Avg: 48.434
+NGAXOPLIYX
+ Total: 25228
+ Years: 497
+ 2419: 30
+ First: 1920 95
+ Last: 2419 30
+ Min: 1943 1
+ Max: 2188 100
+ Avg: 50.456
+UFJNTIZVMP
+ Total: 24800
+ Years: 494
+ 2419: 9
+ First: 1920 88
+ Last: 2419 9
+ Min: 1946 1
+ Max: 1938 100
+ Avg: 49.6
+KJZMJBYHHS
+ Total: 23952
+ Years: 496
+ 2419: 78
+ First: 1920 87
+ Last: 2419 78
+ Min: 1948 1
+ Max: 2218 100
+ Avg: 47.904
+ZNIGNJNIHG
+ Total: 23903
+ Years: 497
+ 2419: 80
+ First: 1920 99
+ Last: 2419 80
+ Min: 2040 1
+ Max: 2239 100
+ Avg: 47.806
+YWTWWWPWIZ
+ Total: 25855
+ Years: 499
+ 2419: 72
+ First: 1920 14
+ Last: 2419 72
+ Min: 1965 1
+ Max: 2351 100
+ Avg: 51.71
+MDKTVDARUP
+ Total: 25009
+ Years: 495
+ 2419: 87
+ First: 1920 37
+ Last: 2419 87
+ Min: 1965 1
+ Max: 2130 100
+ Avg: 50.018
+REACIHFCYV
+ Total: 25106
+ Years: 497
+ 2419: 12
+ First: 1920 29
+ Last: 2419 12
+ Min: 2033 1
+ Max: 2407 100
+ Avg: 50.212
+QOUDBVBSYX
+ Total: 24808
+ Years: 497
+ 2419: 96
+ First: 1920 22
+ Last: 2419 96
+ Min: 2071 1
+ Max: 2405 100
+ Avg: 49.616
+RFXTTBABQX
+ Total: 24846
+ Years: 491
+ 2419: 44
+ First: 1920 58
+ Last: 2419 44
+ Min: 2024 1
+ Max: 2343 100
+ Avg: 49.692
+CZNDPHHSEG
+ Total: 24922
+ Years: 497
+ 2419: 37
+ First: 1920 82
+ Last: 2419 37
+ Min: 1940 1
+ Max: 2301 100
+ Avg: 49.844
+DYSEYFNDNG
+ Total: 24080
+ Years: 495
+ 2419: 77
+ First: 1920 30
+ Last: 2419 77
+ Min: 1942 1
+ Max: 2348 100
+ Avg: 48.16
+XZMDQCYFGU
+ Total: 24932
+ Years: 496
+ 2419: 86
+ First: 1920 61
+ Last: 2419 86
+ Min: 2038 1
+ Max: 2416 100
+ Avg: 49.864
+IZUUKYSVYV
+ Total: 24094
+ Years: 493
+ 2419: 46
+ First: 1920 20
+ Last: 2419 46
+ Min: 1937 1
+ Max: 2409 100
+ Avg: 48.188
+VIOIYFNJJX
+ Total: 23963
+ Years: 491
+ 2419: 24
+ First: 1920 79
+ Last: 2419 24
+ Min: 1959 1
+ Max: 2318 100
+ Avg: 47.926
+UOLBXRKLVD
+ Total: 25184
+ Years: 495
+ 2419: 41
+ First: 1920 85
+ Last: 2419 41
+ Min: 2055 1
+ Max: 2229 100
+ Avg: 50.368
+QEUNSTUGLR
+ Total: 24745
+ Years: 496
+ 2419: 100
+ First: 1920 12
+ Last: 2419 100
+ Min: 1995 1
+ Max: 2419 100
+ Avg: 49.49
+WTEQMZNSVE
+ Total: 24430
+ Years: 491
+ 2419: 97
+ First: 1920 13
+ Last: 2419 97
+ Min: 1943 1
+ Max: 2249 100
+ Avg: 48.86
+VCTQASMOLY
+ Total: 24708
+ Years: 493
+ 2419: 100
+ First: 1920 54
+ Last: 2419 100
+ Min: 1967 1
+ Max: 2419 100
+ Avg: 49.416
+XYLNHMQJHZ
+ Total: 25978
+ Years: 499
+ 2419: 80
+ First: 1920 72
+ Last: 2419 80
+ Min: 1952 1
+ Max: 2312 100
+ Avg: 51.956
+KTBDSCTTZH
+ Total: 25997
+ Years: 496
+ 2419: 40
+ First: 1920 79
+ Last: 2419 40
+ Min: 1950 1
+ Max: 2351 100
+ Avg: 51.994
+MKYRPFGVQW
+ Total: 25145
+ Years: 492
+ 2419: 82
+ First: 1920 69
+ Last: 2419 82
+ Min: 2086 1
+ Max: 2305 100
+ Avg: 50.29
+EMDZEZMDKK
+ Total: 26461
+ Years: 498
+ 2419: 19
+ First: 1920 72
+ Last: 2419 19
+ Min: 1978 1
+ Max: 2360 100
+ Avg: 52.922
+SKDSDJYWXY
+ Total: 25439
+ Years: 498
+ 2419: 91
+ First: 1920 88
+ Last: 2419 91
+ Min: 1921 1
+ Max: 2362 100
+ Avg: 50.878
+XRSDZYXEHQ
+ Total: 24853
+ Years: 498
+ 2419: 69
+ First: 1920 9
+ Last: 2419 69
+ Min: 1972 1
+ Max: 2354 100
+ Avg: 49.706
+CRHVZBOOKA
+ Total: 26115
+ Years: 496
+ 2419: 68
+ First: 1920 6
+ Last: 2419 68
+ Min: 1962 1
+ Max: 2274 100
+ Avg: 52.23
+IIBETCTXZF
+ Total: 24490
+ Years: 492
+ 2419: 46
+ First: 1920 31
+ Last: 2419 46
+ Min: 1949 1
+ Max: 2352 100
+ Avg: 48.98
+DRHLOAZCIR
+ Total: 25066
+ Years: 496
+ 2419: 83
+ First: 1920 22
+ Last: 2419 83
+ Min: 1921 1
+ Max: 2376 100
+ Avg: 50.132
+SGARSGNVOV
+ Total: 25028
+ Years: 492
+ 2419: 97
+ First: 1920 44
+ Last: 2419 97
+ Min: 2019 1
+ Max: 2392 100
+ Avg: 50.056
+AYGOPCCZJZ
+ Total: 25608
+ Years: 496
+ 2419: 53
+ First: 1920 93
+ Last: 2419 53
+ Min: 1997 1
+ Max: 2378 100
+ Avg: 51.216
+PDNXLGYYWC
+ Total: 25356
+ Years: 496
+ 2419: 100
+ First: 1920 3
+ Last: 2419 100
+ Min: 2136 1
+ Max: 2419 100
+ Avg: 50.712
+SFFPSAWKBA
+ Total: 24672
+ Years: 494
+ 2419: 24
+ First: 1920 72
+ Last: 2419 24
+ Min: 2111 1
+ Max: 2403 100
+ Avg: 49.344
+YTEUOJCGNP
+ Total: 25237
+ Years: 494
+ 2419: 4
+ First: 1920 55
+ Last: 2419 4
+ Min: 2076 1
+ Max: 2330 100
+ Avg: 50.474
+GRDYJJLKFV
+ Total: 26570
+ Years: 494
+ 2419: 66
+ First: 1920 40
+ Last: 2419 66
+ Min: 1998 1
+ Max: 2362 100
+ Avg: 53.14
+NJONWRPBJS
+ Total: 24677
+ Years: 496
+ 2419: 42
+ First: 1920 41
+ Last: 2419 42
+ Min: 1945 1
+ Max: 2407 100
+ Avg: 49.354
+XJAKGTULUZ
+ Total: 25190
+ Years: 497
+ 2419: 5
+ First: 1920 14
+ Last: 2419 5
+ Min: 1956 1
+ Max: 2359 100
+ Avg: 50.38
+DKXBNLETIZ
+ Total: 26266
+ Years: 495
+ 2419: 82
+ First: 1920 31
+ Last: 2419 82
+ Min: 1957 1
+ Max: 2392 100
+ Avg: 52.532
+RZFDJKWQGL
+ Total: 23520
+ Years: 492
+ 2419: 28
+ First: 1920 81
+ Last: 2419 28
+ Min: 1927 1
+ Max: 2278 100
+ Avg: 47.04
+IWDTKQWHCK
+ Total: 24983
+ Years: 495
+ 2419: 37
+ First: 1920 86
+ Last: 2419 37
+ Min: 1979 1
+ Max: 2380 100
+ Avg: 49.966
+IOQLPOUCHG
+ Total: 24949
+ Years: 497
+ 2419: 13
+ First: 1920 21
+ Last: 2419 13
+ Min: 1956 1
+ Max: 2408 100
+ Avg: 49.898
+WUOCIDZZIJ
+ Total: 25728
+ Years: 497
+ 2419: 77
+ First: 1920 90
+ Last: 2419 77
+ Min: 2193 1
+ Max: 2361 100
+ Avg: 51.456
+OEJAIKORSF
+ Total: 24071
+ Years: 495
+ 2419: 67
+ First: 1920 63
+ Last: 2419 67
+ Min: 2020 1
+ Max: 2312 100
+ Avg: 48.142
+ZESAXFOEHL
+ Total: 24517
+ Years: 493
+ 2419: 83
+ First: 1920 75
+ Last: 2419 83
+ Min: 1964 1
+ Max: 2408 100
+ Avg: 49.034
+LBJMMRTWDR
+ Total: 24789
+ Years: 496
+ 2419: 76
+ First: 1920 83
+ Last: 2419 76
+ Min: 1992 1
+ Max: 2415 100
+ Avg: 49.578
+VVOZZXKINM
+ Total: 24674
+ Years: 498
+ 2419: 8
+ First: 1920 25
+ Last: 2419 8
+ Min: 1961 1
+ Max: 2210 100
+ Avg: 49.348
+CRGGNIYZVB
+ Total: 24020
+ Years: 495
+ 2419: 87
+ First: 1920 10
+ Last: 2419 87
+ Min: 2335 1
+ Max: 2377 100
+ Avg: 48.04
+VKAIJZGGMY
+ Total: 24633
+ Years: 493
+ 2419: 92
+ First: 1920 50
+ Last: 2419 92
+ Min: 1924 1
+ Max: 2394 100
+ Avg: 49.266
+THEOFHSRMN
+ Total: 25108
+ Years: 494
+ 2419: 4
+ First: 1920 57
+ Last: 2419 4
+ Min: 2033 1
+ Max: 2208 100
+ Avg: 50.216
+JMORWOCYCA
+ Total: 24774
+ Years: 490
+ 2419: 42
+ First: 1920 57
+ Last: 2419 42
+ Min: 1996 1
+ Max: 2412 100
+ Avg: 49.548
+KMAFCGYLLZ
+ Total: 24970
+ Years: 496
+ 2419: 77
+ First: 1920 19
+ Last: 2419 77
+ Min: 2037 1
+ Max: 2297 100
+ Avg: 49.94
+MZDUZLQIXH
+ Total: 23900
+ Years: 496
+ 2419: 84
+ First: 1920 68
+ Last: 2419 84
+ Min: 1997 1
+ Max: 2360 100
+ Avg: 47.8
+YUCBCBITZS
+ Total: 24887
+ Years: 497
+ 2419: 93
+ First: 1920 51
+ Last: 2419 93
+ Min: 2265 1
+ Max: 2125 100
+ Avg: 49.774
+XIWTMQPSRA
+ Total: 25402
+ Years: 497
+ 2419: 25
+ First: 1920 35
+ Last: 2419 25
+ Min: 2165 1
+ Max: 2411 100
+ Avg: 50.804
+BUAGGIJZJU
+ Total: 24315
+ Years: 492
+ 2419: 69
+ First: 1920 44
+ Last: 2419 69
+ Min: 2013 1
+ Max: 2303 100
+ Avg: 48.63
+DBWOUZITBI
+ Total: 25563
+ Years: 493
+ 2419: 59
+ First: 1920 68
+ Last: 2419 59
+ Min: 1927 1
+ Max: 2333 100
+ Avg: 51.126
+KHNMCZQTIO
+ Total: 25086
+ Years: 496
+ 2419: 100
+ First: 1920 56
+ Last: 2419 100
+ Min: 2124 1
+ Max: 2419 100
+ Avg: 50.172
+IDYMZMDWUU
+ Total: 25608
+ Years: 493
+ 2419: 22
+ First: 1920 52
+ Last: 2419 22
+ Min: 1927 1
+ Max: 2384 100
+ Avg: 51.216
+VBMSJMOESI
+ Total: 24583
+ Years: 497
+ 2419: 19
+ First: 1920 12
+ Last: 2419 19
+ Min: 1933 1
+ Max: 2376 100
+ Avg: 49.166
+DBFUTACOKZ
+ Total: 24207
+ Years: 492
+ 2419: 88
+ First: 1920 47
+ Last: 2419 88
+ Min: 2024 1
+ Max: 2261 100
+ Avg: 48.414
+WWAARAFZQH
+ Total: 25067
+ Years: 499
+ 2419: 7
+ First: 1920 78
+ Last: 2419 7
+ Min: 1922 1
+ Max: 2353 100
+ Avg: 50.134
+ERKYTZLKFW
+ Total: 25385
+ Years: 494
+ 2419: 37
+ First: 1920 43
+ Last: 2419 37
+ Min: 1959 1
+ Max: 2373 100
+ Avg: 50.77
+XAJVSKWPJN
+ Total: 25387
+ Years: 495
+ 2419: 75
+ First: 1920 23
+ Last: 2419 75
+ Min: 2041 1
+ Max: 2416 100
+ Avg: 50.774
+ANJERNBADN
+ Total: 24538
+ Years: 489
+ 2419: 36
+ First: 1920 11
+ Last: 2419 36
+ Min: 2156 1
+ Max: 2374 100
+ Avg: 49.076
+UNSYZNOHJC
+ Total: 24218
+ Years: 495
+ 2419: 87
+ First: 1920 47
+ Last: 2419 87
+ Min: 2002 1
+ Max: 2342 100
+ Avg: 48.436
+OCLIHVOZAA
+ Total: 24514
+ Years: 495
+ 2419: 47
+ First: 1920 7
+ Last: 2419 47
+ Min: 1928 1
+ Max: 2387 100
+ Avg: 49.028
+COGPWDFADJ
+ Total: 24313
+ Years: 498
+ 2419: 8
+ First: 1920 8
+ Last: 2419 8
+ Min: 2075 1
+ Max: 2390 100
+ Avg: 48.626
+UMXTSXWSCG
+ Total: 24454
+ Years: 494
+ 2419: 8
+ First: 1920 69
+ Last: 2419 8
+ Min: 2055 1
+ Max: 2343 100
+ Avg: 48.908
+LCEZSRKINT
+ Total: 24283
+ Years: 497
+ 2419: 6
+ First: 1920 2
+ Last: 2419 6
+ Min: 1985 1
+ Max: 2327 100
+ Avg: 48.566
+DBXQFDPXLD
+ Total: 25586
+ Years: 494
+ 2419: 66
+ First: 1920 48
+ Last: 2419 66
+ Min: 2084 1
+ Max: 2287 100
+ Avg: 51.172
+MKFHGFZCXJ
+ Total: 25287
+ Years: 498
+ 2419: 97
+ First: 1920 96
+ Last: 2419 97
+ Min: 2244 1
+ Max: 2403 100
+ Avg: 50.574
+QHUEQESQTI
+ Total: 25293
+ Years: 492
+ 2419: 12
+ First: 1920 85
+ Last: 2419 12
+ Min: 2114 1
+ Max: 2342 100
+ Avg: 50.586
+QPLZUQDIEK
+ Total: 24301
+ Years: 493
+ 2419: 15
+ First: 1920 92
+ Last: 2419 15
+ Min: 2129 1
+ Max: 2329 100
+ Avg: 48.602
+AOZWTIJHTX
+ Total: 25440
+ Years: 497
+ 2419: 41
+ First: 1920 73
+ Last: 2419 41
+ Min: 1974 1
+ Max: 2362 100
+ Avg: 50.88
+JEETDYEUJF
+ Total: 24487
+ Years: 496
+ 2419: 4
+ First: 1920 68
+ Last: 2419 4
+ Min: 2180 1
+ Max: 2346 100
+ Avg: 48.974
+NUXYCBKAAX
+ Total: 26071
+ Years: 496
+ 2419: 99
+ First: 1920 11
+ Last: 2419 99
+ Min: 1994 1
+ Max: 2382 100
+ Avg: 52.142
+IJPDWNHCVO
+ Total: 25428
+ Years: 497
+ 2419: 98
+ First: 1920 6
+ Last: 2419 98
+ Min: 2047 1
+ Max: 2288 100
+ Avg: 50.856
+LQQGIXCQQA
+ Total: 24539
+ Years: 494
+ 2419: 8
+ First: 1920 51
+ Last: 2419 8
+ Min: 1928 1
+ Max: 2279 100
+ Avg: 49.078
+ZVGHBPWGRH
+ Total: 25383
+ Years: 498
+ 2419: 50
+ First: 1920 80
+ Last: 2419 50
+ Min: 1972 1
+ Max: 2405 100
+ Avg: 50.766
+OGZJGAWVTD
+ Total: 24312
+ Years: 495
+ 2419: 72
+ First: 1920 27
+ Last: 2419 72
+ Min: 2219 1
+ Max: 2203 100
+ Avg: 48.624
+RVNYDHNEZJ
+ Total: 25712
+ Years: 494
+ 2419: 87
+ First: 1920 76
+ Last: 2419 87
+ Min: 2036 1
+ Max: 2369 100
+ Avg: 51.424
+KZVZQXCGOD
+ Total: 24597
+ Years: 496
+ 2419: 13
+ First: 1920 29
+ Last: 2419 13
+ Min: 1988 1
+ Max: 2408 100
+ Avg: 49.194
+FHZXKEDDEG
+ Total: 26041
+ Years: 499
+ 2419: 71
+ First: 1920 28
+ Last: 2419 71
+ Min: 1999 1
+ Max: 2391 100
+ Avg: 52.082
+SORPRNAAFY
+ Total: 25767
+ Years: 493
+ 2419: 71
+ First: 1920 22
+ Last: 2419 71
+ Min: 2062 1
+ Max: 2392 100
+ Avg: 51.534
+XRWZYTZIFM
+ Total: 25882
+ Years: 497
+ 2419: 5
+ First: 1920 57
+ Last: 2419 5
+ Min: 2055 1
+ Max: 2375 100
+ Avg: 51.764
+LZQRNTSGYO
+ Total: 24244
+ Years: 494
+ 2419: 62
+ First: 1920 65
+ Last: 2419 62
+ Min: 1975 1
+ Max: 2388 100
+ Avg: 48.488
+AWZFQCRSQO
+ Total: 23157
+ Years: 498
+ 2419: 12
+ First: 1920 53
+ Last: 2419 12
+ Min: 1986 1
+ Max: 2350 100
+ Avg: 46.314
+KPVHTYLHBJ
+ Total: 25728
+ Years: 493
+ 2419: 73
+ First: 1920 87
+ Last: 2419 73
+ Min: 2001 1
+ Max: 2397 100
+ Avg: 51.456
+LNSBWQIMAC
+ Total: 25338
+ Years: 494
+ 2419: 95
+ First: 1920 100
+ Last: 2419 95
+ Min: 2007 1
+ Max: 2092 100
+ Avg: 50.676
+WTFSPKCJQT
+ Total: 24315
+ Years: 498
+ 2419: 48
+ First: 1920 100
+ Last: 2419 48
+ Min: 1963 1
+ Max: 2391 100
+ Avg: 48.63
+HQYOHOXQEV
+ Total: 24967
+ Years: 496
+ 2419: 24
+ First: 1920 92
+ Last: 2419 24
+ Min: 2081 1
+ Max: 2392 100
+ Avg: 49.934
+HKQKSGBCBE
+ Total: 24707
+ Years: 497
+ 2419: 97
+ First: 1920 21
+ Last: 2419 97
+ Min: 2110 1
+ Max: 2380 100
+ Avg: 49.414
+XCZZHEFQUV
+ Total: 24883
+ Years: 493
+ 2419: 22
+ First: 1920 85
+ Last: 2419 22
+ Min: 1961 1
+ Max: 2391 100
+ Avg: 49.766
+IKBLAYZXQG
+ Total: 24276
+ Years: 489
+ 2419: 25
+ First: 1920 47
+ Last: 2419 25
+ Min: 2072 1
+ Max: 2216 100
+ Avg: 48.552
+GUVDPXTOJE
+ Total: 24661
+ Years: 494
+ 2419: 34
+ First: 1920 60
+ Last: 2419 34
+ Min: 2009 1
+ Max: 2383 100
+ Avg: 49.322
+KFSBCPCTEM
+ Total: 24937
+ Years: 496
+ 2419: 64
+ First: 1920 52
+ Last: 2419 64
+ Min: 2074 1
+ Max: 2056 100
+ Avg: 49.874
+NOXTNAIQUQ
+ Total: 24797
+ Years: 497
+ 2419: 85
+ First: 1920 55
+ Last: 2419 85
+ Min: 1925 1
+ Max: 2357 100
+ Avg: 49.594
+ELRSVALMEM
+ Total: 25867
+ Years: 496
+ 2419: 39
+ First: 1920 22
+ Last: 2419 39
+ Min: 1994 1
+ Max: 2223 100
+ Avg: 51.734
+TOELMEJTHT
+ Total: 24758
+ Years: 493
+ 2419: 59
+ First: 1920 42
+ Last: 2419 59
+ Min: 1926 1
+ Max: 2264 100
+ Avg: 49.516
+CBZFLEYHMU
+ Total: 24854
+ Years: 494
+ 2419: 88
+ First: 1920 28
+ Last: 2419 88
+ Min: 2028 1
+ Max: 2333 100
+ Avg: 49.708
+DAOYXHIZLE
+ Total: 24403
+ Years: 490
+ 2419: 39
+ First: 1921 73
+ Last: 2419 39
+ Min: 1968 1
+ Max: 2350 100
+ Avg: 48.806
+CNWHCNMGUY
+ Total: 24432
+ Years: 496
+ 2419: 57
+ First: 1920 26
+ Last: 2419 57
+ Min: 2098 1
+ Max: 2399 100
+ Avg: 48.864
+COBSFJYGPJ
+ Total: 25682
+ Years: 495
+ 2419: 30
+ First: 1920 57
+ Last: 2419 30
+ Min: 2001 1
+ Max: 2398 100
+ Avg: 51.364
+FGQXWMOGEK
+ Total: 24028
+ Years: 495
+ 2419: 95
+ First: 1920 2
+ Last: 2419 95
+ Min: 1981 1
+ Max: 2349 100
+ Avg: 48.056
+BNBUCSYFHK
+ Total: 25226
+ Years: 495
+ 2419: 62
+ First: 1920 96
+ Last: 2419 62
+ Min: 1947 1
+ Max: 2318 100
+ Avg: 50.452
+UGURNHBORZ
+ Total: 24104
+ Years: 495
+ 2419: 73
+ First: 1920 31
+ Last: 2419 73
+ Min: 1929 1
+ Max: 2336 100
+ Avg: 48.208
+ITMOHSRPTB
+ Total: 25501
+ Years: 496
+ 2419: 60
+ First: 1920 77
+ Last: 2419 60
+ Min: 2077 1
+ Max: 2360 100
+ Avg: 51.002
+XSLGXTHLJF
+ Total: 25391
+ Years: 497
+ 2419: 48
+ First: 1920 32
+ Last: 2419 48
+ Min: 2029 1
+ Max: 2386 100
+ Avg: 50.782
+IOZHDZXDMV
+ Total: 25394
+ Years: 497
+ 2419: 87
+ First: 1920 33
+ Last: 2419 87
+ Min: 2230 1
+ Max: 2374 100
+ Avg: 50.788
+GMWWELPHAR
+ Total: 24744
+ Years: 495
+ 2419: 33
+ First: 1920 48
+ Last: 2419 33
+ Min: 2016 1
+ Max: 2366 100
+ Avg: 49.488
+BRCZEMOWCE
+ Total: 24582
+ Years: 496
+ 2419: 95
+ First: 1920 11
+ Last: 2419 95
+ Min: 1942 1
+ Max: 2226 100
+ Avg: 49.164
+MAYKBHOWYY
+ Total: 24727
+ Years: 491
+ 2419: 5
+ First: 1920 100
+ Last: 2419 5
+ Min: 1922 1
+ Max: 2416 100
+ Avg: 49.454
+KPRWMVVFRN
+ Total: 23462
+ Years: 496
+ 2419: 42
+ First: 1920 55
+ Last: 2419 42
+ Min: 2183 1
+ Max: 2333 100
+ Avg: 46.924
+FLGTDRZEMB
+ Total: 25017
+ Years: 495
+ 2419: 35
+ First: 1920 15
+ Last: 2419 35
+ Min: 1965 1
+ Max: 2379 100
+ Avg: 50.034
+YDEYPJDELF
+ Total: 24491
+ Years: 496
+ 2419: 35
+ First: 1920 37
+ Last: 2419 35
+ Min: 2043 1
+ Max: 2383 100
+ Avg: 48.982
+FAKJDEXPNB
+ Total: 24529
+ Years: 497
+ 2419: 87
+ First: 1920 79
+ Last: 2419 87
+ Min: 1935 1
+ Max: 2075 100
+ Avg: 49.058
+SBOEPNHXJT
+ Total: 24789
+ Years: 493
+ 2419: 49
+ First: 1920 27
+ Last: 2419 49
+ Min: 1987 1
+ Max: 2392 100
+ Avg: 49.578
+ZWJTXZTRGN
+ Total: 25293
+ Years: 498
+ 2419: 64
+ First: 1920 89
+ Last: 2419 64
+ Min: 2174 1
+ Max: 2390 100
+ Avg: 50.586
+KNSXVXIRTX
+ Total: 25995
+ Years: 494
+ 2419: 73
+ First: 1920 30
+ Last: 2419 73
+ Min: 2017 2
+ Max: 2413 100
+ Avg: 51.99
+HXBHVUBCGU
+ Total: 25736
+ Years: 496
+ 2419: 39
+ First: 1920 85
+ Last: 2419 39
+ Min: 2034 1
+ Max: 2364 100
+ Avg: 51.472
+NLCPDQLQMY
+ Total: 24657
+ Years: 491
+ 2419: 92
+ First: 1920 9
+ Last: 2419 92
+ Min: 1955 1
+ Max: 2414 100
+ Avg: 49.314
+BQSWIMSECE
+ Total: 24187
+ Years: 496
+ 2419: 61
+ First: 1920 67
+ Last: 2419 61
+ Min: 1925 1
+ Max: 2028 100
+ Avg: 48.374
+AWBDFRLPTJ
+ Total: 23688
+ Years: 494
+ 2419: 43
+ First: 1920 41
+ Last: 2419 43
+ Min: 1945 1
+ Max: 2416 100
+ Avg: 47.376
+DVXQEPXCHS
+ Total: 25387
+ Years: 496
+ 2419: 5
+ First: 1920 94
+ Last: 2419 5
+ Min: 1945 1
+ Max: 2127 100
+ Avg: 50.774
+EDQKPOBIYA
+ Total: 24208
+ Years: 498
+ 2419: 13
+ First: 1920 69
+ Last: 2419 13
+ Min: 2172 1
+ Max: 2384 100
+ Avg: 48.416
+AUMCXPGBVP
+ Total: 23985
+ Years: 498
+ 2419: 66
+ First: 1920 48
+ Last: 2419 66
+ Min: 1971 1
+ Max: 2369 100
+ Avg: 47.97
+PBTZHRXMEU
+ Total: 24957
+ Years: 496
+ 2419: 99
+ First: 1920 55
+ Last: 2419 99
+ Min: 1964 1
+ Max: 2403 100
+ Avg: 49.914
+VSQITBXXVT
+ Total: 25861
+ Years: 495
+ 2419: 49
+ First: 1920 58
+ Last: 2419 49
+ Min: 1978 1
+ Max: 2394 100
+ Avg: 51.722
+WZOHPPLFPR
+ Total: 24463
+ Years: 500
+ 2419: 38
+ First: 1920 28
+ Last: 2419 38
+ Min: 2047 1
+ Max: 2220 100
+ Avg: 48.926
+YERVPJXMVA
+ Total: 23311
+ Years: 496
+ 2419: 42
+ First: 1920 20
+ Last: 2419 42
+ Min: 1972 1
+ Max: 2357 100
+ Avg: 46.622
+YBJTXJYCOT
+ Total: 24062
+ Years: 499
+ 2419: 68
+ First: 1920 62
+ Last: 2419 68
+ Min: 1950 1
+ Max: 2360 100
+ Avg: 48.124
+GAAAVAWCNU
+ Total: 25842
+ Years: 495
+ 2419: 38
+ First: 1920 44
+ Last: 2419 38
+ Min: 1969 1
+ Max: 2327 100
+ Avg: 51.684
+AAWAZVNUKJ
+ Total: 26215
+ Years: 497
+ 2419: 65
+ First: 1920 58
+ Last: 2419 65
+ Min: 2040 1
+ Max: 2368 100
+ Avg: 52.43
+JWAYLVLXAL
+ Total: 24656
+ Years: 496
+ 2419: 59
+ First: 1920 9
+ Last: 2419 59
+ Min: 1939 1
+ Max: 2202 100
+ Avg: 49.312
+FJJYREBGXE
+ Total: 24984
+ Years: 494
+ 2419: 6
+ First: 1920 24
+ Last: 2419 6
+ Min: 1951 1
+ Max: 2268 100
+ Avg: 49.968
+IPPVZMISSQ
+ Total: 25335
+ Years: 498
+ 2419: 20
+ First: 1920 48
+ Last: 2419 20
+ Min: 2036 1
+ Max: 2114 100
+ Avg: 50.67
+VCQHYZSMQE
+ Total: 24380
+ Years: 495
+ 2419: 23
+ First: 1920 93
+ Last: 2419 23
+ Min: 2018 1
+ Max: 2323 100
+ Avg: 48.76
+ZEJHVNNEZG
+ Total: 25581
+ Years: 497
+ 2419: 17
+ First: 1920 57
+ Last: 2419 17
+ Min: 2006 1
+ Max: 2232 100
+ Avg: 51.162
+RWUGRMLKNN
+ Total: 24705
+ Years: 497
+ 2419: 66
+ First: 1920 87
+ Last: 2419 66
+ Min: 1958 1
+ Max: 2391 100
+ Avg: 49.41
+ODEGJESAFT
+ Total: 24857
+ Years: 500
+ 2419: 24
+ First: 1920 63
+ Last: 2419 24
+ Min: 1969 1
+ Max: 2403 100
+ Avg: 49.714
+ZOWXSJWNAL
+ Total: 25261
+ Years: 487
+ 2419: 36
+ First: 1920 48
+ Last: 2419 36
+ Min: 2367 1
+ Max: 2279 100
+ Avg: 50.522
+BNTEGFUWPZ
+ Total: 25480
+ Years: 494
+ 2419: 75
+ First: 1920 92
+ Last: 2419 75
+ Min: 1935 1
+ Max: 2403 100
+ Avg: 50.96
+ZIQHGZHFTO
+ Total: 25759
+ Years: 498
+ 2419: 54
+ First: 1920 42
+ Last: 2419 54
+ Min: 1959 1
+ Max: 2357 100
+ Avg: 51.518
+WXZWKPXSRS
+ Total: 24649
+ Years: 491
+ 2419: 25
+ First: 1920 56
+ Last: 2419 25
+ Min: 1955 1
+ Max: 2276 100
+ Avg: 49.298
+AGZYHIUHHV
+ Total: 24094
+ Years: 494
+ 2419: 16
+ First: 1920 68
+ Last: 2419 16
+ Min: 1964 1
+ Max: 2372 100
+ Avg: 48.188
+LCZBLOXOON
+ Total: 25436
+ Years: 495
+ 2419: 41
+ First: 1920 64
+ Last: 2419 41
+ Min: 2053 1
+ Max: 2313 100
+ Avg: 50.872
+KINBNZBGOK
+ Total: 24699
+ Years: 493
+ 2419: 49
+ First: 1920 22
+ Last: 2419 49
+ Min: 2048 1
+ Max: 2320 100
+ Avg: 49.398
+TEASVVISOO
+ Total: 24931
+ Years: 494
+ 2419: 60
+ First: 1920 47
+ Last: 2419 60
+ Min: 1929 1
+ Max: 2401 100
+ Avg: 49.862
+ADUHOBAAUU
+ Total: 25220
+ Years: 492
+ 2419: 48
+ First: 1920 73
+ Last: 2419 48
+ Min: 1951 1
+ Max: 2360 100
+ Avg: 50.44
+GHTBLSLXMF
+ Total: 24165
+ Years: 494
+ 2419: 59
+ First: 1920 23
+ Last: 2419 59
+ Min: 1921 1
+ Max: 2368 100
+ Avg: 48.33
+IUBBSXCCYD
+ Total: 24788
+ Years: 497
+ 2419: 52
+ First: 1920 75
+ Last: 2419 52
+ Min: 1931 1
+ Max: 2161 100
+ Avg: 49.576
+VJYKQMIGFN
+ Total: 24278
+ Years: 495
+ 2419: 72
+ First: 1920 50
+ Last: 2419 72
+ Min: 1971 1
+ Max: 2111 100
+ Avg: 48.556
+CXGPZCHUBV
+ Total: 24234
+ Years: 494
+ 2419: 95
+ First: 1920 29
+ Last: 2419 95
+ Min: 2008 1
+ Max: 2385 100
+ Avg: 48.468
+SZKDDOCBKY
+ Total: 25510
+ Years: 495
+ 2419: 60
+ First: 1920 4
+ Last: 2419 60
+ Min: 1963 1
+ Max: 2391 100
+ Avg: 51.02
+PJEVHAZGMW
+ Total: 26663
+ Years: 497
+ 2419: 47
+ First: 1920 30
+ Last: 2419 47
+ Min: 2368 1
+ Max: 2344 100
+ Avg: 53.326
+JEEDFIXUUE
+ Total: 23734
+ Years: 492
+ 2419: 99
+ First: 1920 86
+ Last: 2419 99
+ Min: 1972 1
+ Max: 2350 100
+ Avg: 47.468
+LLMPAPFBMB
+ Total: 24485
+ Years: 496
+ 2419: 54
+ First: 1920 97
+ Last: 2419 54
+ Min: 1933 1
+ Max: 2380 100
+ Avg: 48.97
+PXZCXRQLYI
+ Total: 24104
+ Years: 494
+ 2419: 7
+ First: 1920 88
+ Last: 2419 7
+ Min: 2008 1
+ Max: 2143 100
+ Avg: 48.208
+TZVBUKPHBJ
+ Total: 26076
+ Years: 496
+ 2419: 100
+ First: 1920 2
+ Last: 2419 100
+ Min: 1926 1
+ Max: 2419 100
+ Avg: 52.152
+RWQGXAJJBJ
+ Total: 23718
+ Years: 493
+ 2419: 20
+ First: 1920 3
+ Last: 2419 20
+ Min: 1967 1
+ Max: 2369 100
+ Avg: 47.436
+IWBBBURCJR
+ Total: 24432
+ Years: 493
+ 2419: 100
+ First: 1920 55
+ Last: 2419 100
+ Min: 2005 1
+ Max: 2419 100
+ Avg: 48.864
+KQYBVVMJDE
+ Total: 24263
+ Years: 494
+ 2419: 41
+ First: 1920 48
+ Last: 2419 41
+ Min: 2190 1
+ Max: 2379 100
+ Avg: 48.526
+TLCGXBGBJW
+ Total: 25908
+ Years: 494
+ 2419: 57
+ First: 1920 32
+ Last: 2419 57
+ Min: 2073 1
+ Max: 2413 100
+ Avg: 51.816
+XGAETFAGGA
+ Total: 25219
+ Years: 493
+ 2419: 45
+ First: 1920 30
+ Last: 2419 45
+ Min: 2080 1
+ Max: 2397 100
+ Avg: 50.438
+MRVPYCWRWR
+ Total: 25425
+ Years: 496
+ 2419: 87
+ First: 1920 1
+ Last: 2419 87
+ Min: 1920 1
+ Max: 2345 100
+ Avg: 50.85
+UWIRBKQMFG
+ Total: 25339
+ Years: 495
+ 2419: 31
+ First: 1920 57
+ Last: 2419 31
+ Min: 1930 1
+ Max: 2415 100
+ Avg: 50.678
+BTVPRAZNNT
+ Total: 25881
+ Years: 496
+ 2419: 86
+ First: 1920 4
+ Last: 2419 86
+ Min: 1922 1
+ Max: 2049 100
+ Avg: 51.762
+DTGAWEBTEV
+ Total: 23738
+ Years: 497
+ 2419: 35
+ First: 1920 22
+ Last: 2419 35
+ Min: 2164 1
+ Max: 2354 100
+ Avg: 47.476
+YZFVPIKFFY
+ Total: 24587
+ Years: 496
+ 2419: 68
+ First: 1920 40
+ Last: 2419 68
+ Min: 2117 1
+ Max: 2351 100
+ Avg: 49.174
+STCEDPKKTH
+ Total: 25838
+ Years: 496
+ 2419: 4
+ First: 1920 78
+ Last: 2419 4
+ Min: 2189 1
+ Max: 2414 100
+ Avg: 51.676
+BASOXUJKRP
+ Total: 24594
+ Years: 493
+ 2419: 55
+ First: 1920 59
+ Last: 2419 55
+ Min: 1942 1
+ Max: 2373 100
+ Avg: 49.188
+LLDCBKVFAO
+ Total: 25510
+ Years: 497
+ 2419: 57
+ First: 1920 27
+ Last: 2419 57
+ Min: 1923 2
+ Max: 2378 100
+ Avg: 51.02
+RASMFMXZUI
+ Total: 25012
+ Years: 496
+ 2419: 62
+ First: 1920 43
+ Last: 2419 62
+ Min: 1926 1
+ Max: 2376 100
+ Avg: 50.024
+ZJCPWCRBRD
+ Total: 25387
+ Years: 494
+ 2419: 88
+ First: 1920 49
+ Last: 2419 88
+ Min: 1974 1
+ Max: 2234 100
+ Avg: 50.774
+NYXCQUXHCM
+ Total: 24268
+ Years: 495
+ 2419: 97
+ First: 1920 71
+ Last: 2419 97
+ Min: 1987 1
+ Max: 2372 100
+ Avg: 48.536
+NCMAPKHCWP
+ Total: 24170
+ Years: 491
+ 2419: 96
+ First: 1920 29
+ Last: 2419 96
+ Min: 1935 1
+ Max: 2157 100
+ Avg: 48.34
+ENQNVXHSIR
+ Total: 24553
+ Years: 493
+ 2419: 24
+ First: 1920 87
+ Last: 2419 24
+ Min: 1959 1
+ Max: 2325 100
+ Avg: 49.106
+YTVKBBCVUM
+ Total: 24810
+ Years: 496
+ 2419: 71
+ First: 1920 3
+ Last: 2419 71
+ Min: 1972 1
+ Max: 2416 100
+ Avg: 49.62
+LSOSTPHLOG
+ Total: 25198
+ Years: 497
+ 2419: 85
+ First: 1920 100
+ Last: 2419 85
+ Min: 1996 1
+ Max: 2311 100
+ Avg: 50.396
+XJFYUKEYBO
+ Total: 24834
+ Years: 494
+ 2419: 22
+ First: 1920 59
+ Last: 2419 22
+ Min: 1983 1
+ Max: 2386 100
+ Avg: 49.668
+HZMAUNNMPN
+ Total: 25227
+ Years: 496
+ 2419: 65
+ First: 1920 1
+ Last: 2419 65
+ Min: 1920 1
+ Max: 2321 100
+ Avg: 50.454
+EVTIYYFWAI
+ Total: 24873
+ Years: 497
+ 2419: 4
+ First: 1920 18
+ Last: 2419 4
+ Min: 2091 1
+ Max: 2374 100
+ Avg: 49.746
+RVZZXVYGDS
+ Total: 25571
+ Years: 495
+ 2419: 97
+ First: 1920 27
+ Last: 2419 97
+ Min: 1940 1
+ Max: 2418 100
+ Avg: 51.142
+TJNBWXHUQL
+ Total: 25358
+ Years: 498
+ 2419: 5
+ First: 1920 58
+ Last: 2419 5
+ Min: 2218 1
+ Max: 2391 100
+ Avg: 50.716
+PNFMXLGXLV
+ Total: 25152
+ Years: 495
+ 2419: 6
+ First: 1920 95
+ Last: 2419 6
+ Min: 1934 1
+ Max: 2394 100
+ Avg: 50.304
+YEKCYMYYET
+ Total: 24979
+ Years: 494
+ 2419: 61
+ First: 1920 87
+ Last: 2419 61
+ Min: 2004 1
+ Max: 2359 100
+ Avg: 49.958
+IKHWYKMRHQ
+ Total: 24492
+ Years: 494
+ 2419: 94
+ First: 1920 51
+ Last: 2419 94
+ Min: 1967 1
+ Max: 2346 100
+ Avg: 48.984
+QAVRVKBJPB
+ Total: 24761
+ Years: 496
+ 2419: 41
+ First: 1920 70
+ Last: 2419 41
+ Min: 2073 1
+ Max: 2386 100
+ Avg: 49.522
+HKPCQTIXLX
+ Total: 25600
+ Years: 497
+ 2419: 97
+ First: 1920 46
+ Last: 2419 97
+ Min: 1964 1
+ Max: 2376 100
+ Avg: 51.2
+YROHEHPMUR
+ Total: 25691
+ Years: 497
+ 2419: 44
+ First: 1920 29
+ Last: 2419 44
+ Min: 2232 1
+ Max: 2374 100
+ Avg: 51.382
+ISDIFCVCGH
+ Total: 25016
+ Years: 496
+ 2419: 87
+ First: 1920 18
+ Last: 2419 87
+ Min: 2029 1
+ Max: 2321 100
+ Avg: 50.032
+BHIDYZNAVB
+ Total: 25101
+ Years: 495
+ 2419: 54
+ First: 1920 100
+ Last: 2419 54
+ Min: 1954 1
+ Max: 2375 100
+ Avg: 50.202
+SKYGCYQXGJ
+ Total: 25519
+ Years: 494
+ 2419: 24
+ First: 1920 53
+ Last: 2419 24
+ Min: 1962 1
+ Max: 2249 100
+ Avg: 51.038
+VDBIJZLRAN
+ Total: 24810
+ Years: 497
+ 2419: 15
+ First: 1920 73
+ Last: 2419 15
+ Min: 2023 1
+ Max: 2246 100
+ Avg: 49.62
+KHCIMSKECS
+ Total: 23990
+ Years: 497
+ 2419: 34
+ First: 1920 37
+ Last: 2419 34
+ Min: 1983 1
+ Max: 2328 100
+ Avg: 47.98
+XUKPXSADYF
+ Total: 24768
+ Years: 497
+ 2419: 29
+ First: 1920 15
+ Last: 2419 29
+ Min: 1956 1
+ Max: 2151 100
+ Avg: 49.536
+TRPAQWVJFC
+ Total: 24330
+ Years: 496
+ 2419: 79
+ First: 1920 8
+ Last: 2419 79
+ Min: 1935 1
+ Max: 2362 100
+ Avg: 48.66
+JDHEHJMGUH
+ Total: 24743
+ Years: 497
+ 2419: 75
+ First: 1920 95
+ Last: 2419 75
+ Min: 1934 1
+ Max: 2271 100
+ Avg: 49.486
+SBUDUDNJER
+ Total: 24090
+ Years: 496
+ 2419: 44
+ First: 1920 43
+ Last: 2419 44
+ Min: 2002 1
+ Max: 2365 100
+ Avg: 48.18
+HKWEHRASPF
+ Total: 25941
+ Years: 495
+ 2419: 42
+ First: 1920 64
+ Last: 2419 42
+ Min: 1922 1
+ Max: 2364 100
+ Avg: 51.882
+GPKBBJYSLE
+ Total: 24608
+ Years: 491
+ 2419: 60
+ First: 1920 9
+ Last: 2419 60
+ Min: 2163 1
+ Max: 2326 100
+ Avg: 49.216
+QDJZFPSENV
+ Total: 25477
+ Years: 498
+ 2419: 36
+ First: 1920 7
+ Last: 2419 36
+ Min: 2117 1
+ Max: 2400 100
+ Avg: 50.954
+SDTCJUXQWU
+ Total: 25943
+ Years: 497
+ 2419: 30
+ First: 1920 31
+ Last: 2419 30
+ Min: 1989 1
+ Max: 2388 100
+ Avg: 51.886
+OGRCIVAWZL
+ Total: 24251
+ Years: 495
+ 2419: 36
+ First: 1920 69
+ Last: 2419 36
+ Min: 1980 1
+ Max: 2366 100
+ Avg: 48.502
+FZMEFASBUJ
+ Total: 24790
+ Years: 491
+ 2419: 94
+ First: 1920 6
+ Last: 2419 94
+ Min: 2407 1
+ Max: 2346 100
+ Avg: 49.58
+QQSTQLRPGK
+ Total: 25079
+ Years: 495
+ 2419: 51
+ First: 1920 7
+ Last: 2419 51
+ Min: 1935 1
+ Max: 2281 100
+ Avg: 50.158
+JQVRBXZMGH
+ Total: 23849
+ Years: 493
+ 2419: 64
+ First: 1920 47
+ Last: 2419 64
+ Min: 1947 1
+ Max: 2382 100
+ Avg: 47.698
+JKFTCINSYU
+ Total: 24792
+ Years: 495
+ 2419: 70
+ First: 1920 75
+ Last: 2419 70
+ Min: 2159 1
+ Max: 2397 100
+ Avg: 49.584
+KBLSHJPOWZ
+ Total: 25956
+ Years: 494
+ 2419: 43
+ First: 1920 71
+ Last: 2419 43
+ Min: 1976 2
+ Max: 2410 100
+ Avg: 51.912
+YSAOEYAZCH
+ Total: 25353
+ Years: 490
+ 2419: 35
+ First: 1920 31
+ Last: 2419 35
+ Min: 2095 1
+ Max: 2278 100
+ Avg: 50.706
+XVWFPGADHE
+ Total: 24969
+ Years: 494
+ 2419: 37
+ First: 1920 2
+ Last: 2419 37
+ Min: 1939 1
+ Max: 2342 100
+ Avg: 49.938
+XUIOBOXIRH
+ Total: 24057
+ Years: 491
+ 2419: 47
+ First: 1920 16
+ Last: 2419 47
+ Min: 1971 1
+ Max: 2402 100
+ Avg: 48.114
+PCUEOQEXQJ
+ Total: 24670
+ Years: 493
+ 2419: 35
+ First: 1920 55
+ Last: 2419 35
+ Min: 2275 1
+ Max: 2414 100
+ Avg: 49.34
+ZXWWTUKELI
+ Total: 25544
+ Years: 498
+ 2419: 64
+ First: 1920 87
+ Last: 2419 64
+ Min: 2024 1
+ Max: 2377 100
+ Avg: 51.088
+GHKORODHJB
+ Total: 24165
+ Years: 496
+ 2419: 59
+ First: 1920 26
+ Last: 2419 59
+ Min: 1951 1
+ Max: 2389 100
+ Avg: 48.33
+PCQIOFBIZN
+ Total: 26274
+ Years: 492
+ 2419: 32
+ First: 1920 8
+ Last: 2419 32
+ Min: 2049 1
+ Max: 2330 100
+ Avg: 52.548
+WQRBBAIXBZ
+ Total: 25006
+ Years: 495
+ 2419: 18
+ First: 1920 56
+ Last: 2419 18
+ Min: 1921 1
+ Max: 2244 100
+ Avg: 50.012
+NTCYQYUPYV
+ Total: 24847
+ Years: 496
+ 2419: 50
+ First: 1920 34
+ Last: 2419 50
+ Min: 2025 1
+ Max: 2316 100
+ Avg: 49.694
+REFWMGTKUP
+ Total: 25813
+ Years: 498
+ 2419: 42
+ First: 1920 92
+ Last: 2419 42
+ Min: 2351 1
+ Max: 2233 100
+ Avg: 51.626
+XEBRZOUGFN
+ Total: 25468
+ Years: 489
+ 2419: 8
+ First: 1920 94
+ Last: 2419 8
+ Min: 2100 1
+ Max: 2376 100
+ Avg: 50.936
+TQAVKVLEFJ
+ Total: 23811
+ Years: 495
+ 2419: 34
+ First: 1920 58
+ Last: 2419 34
+ Min: 1972 1
+ Max: 2393 100
+ Avg: 47.622
+GXGSATKADZ
+ Total: 25565
+ Years: 499
+ 2419: 51
+ First: 1920 71
+ Last: 2419 51
+ Min: 2055 1
+ Max: 2398 100
+ Avg: 51.13
+FMOVHCBXYG
+ Total: 24490
+ Years: 495
+ 2419: 68
+ First: 1920 4
+ Last: 2419 68
+ Min: 2033 1
+ Max: 2179 100
+ Avg: 48.98
+RXJAKKFTTW
+ Total: 25537
+ Years: 496
+ 2419: 39
+ First: 1920 95
+ Last: 2419 39
+ Min: 2070 1
+ Max: 2386 100
+ Avg: 51.074
+SXXZARMSLP
+ Total: 24793
+ Years: 497
+ 2419: 37
+ First: 1920 73
+ Last: 2419 37
+ Min: 2063 1
+ Max: 2355 100
+ Avg: 49.586
+UKHMNNKOGG
+ Total: 25098
+ Years: 495
+ 2419: 35
+ First: 1920 57
+ Last: 2419 35
+ Min: 1924 1
+ Max: 2345 100
+ Avg: 50.196
+MUPXTLZEKF
+ Total: 24859
+ Years: 495
+ 2419: 27
+ First: 1920 35
+ Last: 2419 27
+ Min: 2009 1
+ Max: 2330 100
+ Avg: 49.718
+QVFKVERQHN
+ Total: 24123
+ Years: 497
+ 2419: 98
+ First: 1920 34
+ Last: 2419 98
+ Min: 1969 1
+ Max: 2367 100
+ Avg: 48.246
+VODVMTQQUO
+ Total: 25847
+ Years: 500
+ 2419: 24
+ First: 1920 63
+ Last: 2419 24
+ Min: 2077 1
+ Max: 2303 100
+ Avg: 51.694
+JJCMZXOADW
+ Total: 25138
+ Years: 496
+ 2419: 95
+ First: 1920 54
+ Last: 2419 95
+ Min: 2136 1
+ Max: 2414 100
+ Avg: 50.276
+ATIFIVCVOH
+ Total: 24876
+ Years: 493
+ 2419: 27
+ First: 1920 45
+ Last: 2419 27
+ Min: 1992 1
+ Max: 2323 100
+ Avg: 49.752
+TIJBOZFAJO
+ Total: 25471
+ Years: 489
+ 2419: 90
+ First: 1920 91
+ Last: 2419 90
+ Min: 1942 1
+ Max: 2374 100
+ Avg: 50.942
+ITHYZAFDNU
+ Total: 24355
+ Years: 492
+ 2419: 17
+ First: 1920 68
+ Last: 2419 17
+ Min: 2140 1
+ Max: 2399 100
+ Avg: 48.71
+LKHYGCSPJA
+ Total: 24978
+ Years: 495
+ 2419: 40
+ First: 1920 65
+ Last: 2419 40
+ Min: 2139 1
+ Max: 2397 100
+ Avg: 49.956
+BSILYJEHYA
+ Total: 25322
+ Years: 495
+ 2419: 55
+ First: 1920 15
+ Last: 2419 55
+ Min: 1966 1
+ Max: 2360 100
+ Avg: 50.644
+WIQXKQXXVV
+ Total: 25354
+ Years: 496
+ 2419: 17
+ First: 1920 29
+ Last: 2419 17
+ Min: 2013 1
+ Max: 2404 100
+ Avg: 50.708
+XXTPDDERSX
+ Total: 25720
+ Years: 498
+ 2419: 99
+ First: 1920 89
+ Last: 2419 99
+ Min: 1972 1
+ Max: 2298 100
+ Avg: 51.44
+RFWSIZLCOZ
+ Total: 25517
+ Years: 491
+ 2419: 39
+ First: 1920 100
+ Last: 2419 39
+ Min: 1994 1
+ Max: 2400 100
+ Avg: 51.034
+XLHHRGTWGO
+ Total: 26014
+ Years: 493
+ 2419: 71
+ First: 1920 25
+ Last: 2419 71
+ Min: 2280 1
+ Max: 2049 100
+ Avg: 52.028
+QNCZESYZMM
+ Total: 25432
+ Years: 496
+ 2419: 5
+ First: 1920 38
+ Last: 2419 5
+ Min: 2332 1
+ Max: 2353 100
+ Avg: 50.864
+WWMXEJFNXB
+ Total: 25065
+ Years: 494
+ 2419: 57
+ First: 1920 65
+ Last: 2419 57
+ Min: 1962 1
+ Max: 2386 100
+ Avg: 50.13
+YMUFTQZUHA
+ Total: 25527
+ Years: 495
+ 2419: 22
+ First: 1920 89
+ Last: 2419 22
+ Min: 1950 1
+ Max: 2290 100
+ Avg: 51.054
+JNSFPBLWMV
+ Total: 24534
+ Years: 497
+ 2419: 77
+ First: 1920 71
+ Last: 2419 77
+ Min: 2039 1
+ Max: 2415 100
+ Avg: 49.068
+GGJHTVYOES
+ Total: 25603
+ Years: 494
+ 2419: 66
+ First: 1920 60
+ Last: 2419 66
+ Min: 1945 1
+ Max: 2356 100
+ Avg: 51.206
+WQPJPTGZJT
+ Total: 25689
+ Years: 496
+ 2419: 28
+ First: 1920 23
+ Last: 2419 28
+ Min: 1944 1
+ Max: 2418 100
+ Avg: 51.378
+GWDXAUGEFJ
+ Total: 25440
+ Years: 494
+ 2419: 70
+ First: 1920 63
+ Last: 2419 70
+ Min: 2097 1
+ Max: 2411 100
+ Avg: 50.88
+XGYHGJTHVI
+ Total: 24226
+ Years: 495
+ 2419: 86
+ First: 1920 40
+ Last: 2419 86
+ Min: 1988 1
+ Max: 2413 100
+ Avg: 48.452
+OMTYJZSQIL
+ Total: 24987
+ Years: 496
+ 2419: 31
+ First: 1920 44
+ Last: 2419 31
+ Min: 1923 1
+ Max: 2304 100
+ Avg: 49.974
+JHNNRMGNCV
+ Total: 24805
+ Years: 497
+ 2419: 84
+ First: 1920 100
+ Last: 2419 84
+ Min: 2174 1
+ Max: 2304 100
+ Avg: 49.61
+UUIZGQILHA
+ Total: 24427
+ Years: 494
+ 2419: 26
+ First: 1920 25
+ Last: 2419 26
+ Min: 2145 1
+ Max: 2261 100
+ Avg: 48.854
+GSYULLAFKJ
+ Total: 25263
+ Years: 496
+ 2419: 94
+ First: 1920 37
+ Last: 2419 94
+ Min: 1976 1
+ Max: 2314 100
+ Avg: 50.526
+OKMVZHQXTW
+ Total: 25818
+ Years: 498
+ 2419: 28
+ First: 1920 17
+ Last: 2419 28
+ Min: 2075 1
+ Max: 2237 100
+ Avg: 51.636
+MYVTXOLGUF
+ Total: 25522
+ Years: 494
+ 2419: 7
+ First: 1920 40
+ Last: 2419 7
+ Min: 2027 1
+ Max: 2393 100
+ Avg: 51.044
+IXRNOYFYUG
+ Total: 25530
+ Years: 493
+ 2419: 12
+ First: 1920 29
+ Last: 2419 12
+ Min: 2002 1
+ Max: 2224 100
+ Avg: 51.06
+LYNDOVJMJN
+ Total: 25158
+ Years: 498
+ 2419: 32
+ First: 1920 69
+ Last: 2419 32
+ Min: 2244 1
+ Max: 2355 100
+ Avg: 50.316
+DZEMWLYLMI
+ Total: 24561
+ Years: 495
+ 2419: 90
+ First: 1920 74
+ Last: 2419 90
+ Min: 1969 1
+ Max: 2371 100
+ Avg: 49.122
+TLJZUIKIAR
+ Total: 25966
+ Years: 493
+ 2419: 45
+ First: 1920 1
+ Last: 2419 45
+ Min: 1920 1
+ Max: 2275 100
+ Avg: 51.932
+HKRGFSFLTO
+ Total: 24063
+ Years: 494
+ 2419: 8
+ First: 1920 48
+ Last: 2419 8
+ Min: 1944 1
+ Max: 2327 100
+ Avg: 48.126
+ULXATOSITB
+ Total: 24110
+ Years: 497
+ 2419: 24
+ First: 1920 100
+ Last: 2419 24
+ Min: 2048 1
+ Max: 2391 100
+ Avg: 48.22
+DGEAXFWBBA
+ Total: 24865
+ Years: 495
+ 2419: 42
+ First: 1920 21
+ Last: 2419 42
+ Min: 2010 1
+ Max: 2399 100
+ Avg: 49.73
+WJGBWUVZLF
+ Total: 25295
+ Years: 493
+ 2419: 97
+ First: 1920 52
+ Last: 2419 97
+ Min: 1985 1
+ Max: 2227 100
+ Avg: 50.59
+TOEPABHNNJ
+ Total: 25141
+ Years: 497
+ 2419: 80
+ First: 1920 76
+ Last: 2419 80
+ Min: 2005 1
+ Max: 2289 100
+ Avg: 50.282
+HNOHZWRWHD
+ Total: 24453
+ Years: 497
+ 2419: 3
+ First: 1920 89
+ Last: 2419 3
+ Min: 2041 1
+ Max: 2326 100
+ Avg: 48.906
+SFIIOMOHYN
+ Total: 25370
+ Years: 498
+ 2419: 68
+ First: 1920 19
+ Last: 2419 68
+ Min: 1948 1
+ Max: 2371 100
+ Avg: 50.74
+QSMRLTWHKB
+ Total: 26360
+ Years: 493
+ 2419: 44
+ First: 1920 50
+ Last: 2419 44
+ Min: 2010 1
+ Max: 2407 100
+ Avg: 52.72
+TYYXREMJFZ
+ Total: 25467
+ Years: 495
+ 2419: 14
+ First: 1920 68
+ Last: 2419 14
+ Min: 2355 1
+ Max: 2399 100
+ Avg: 50.934
+TFQUJSVRXM
+ Total: 25252
+ Years: 493
+ 2419: 87
+ First: 1920 83
+ Last: 2419 87
+ Min: 2174 1
+ Max: 2411 100
+ Avg: 50.504
+AERDKVPOWQ
+ Total: 25090
+ Years: 493
+ 2419: 85
+ First: 1920 37
+ Last: 2419 85
+ Min: 1950 1
+ Max: 2295 100
+ Avg: 50.18
+TNJNHXVWNK
+ Total: 23734
+ Years: 493
+ 2419: 8
+ First: 1920 36
+ Last: 2419 8
+ Min: 2015 1
+ Max: 2296 100
+ Avg: 47.468
+ERDZIAZOGK
+ Total: 25689
+ Years: 495
+ 2419: 78
+ First: 1920 58
+ Last: 2419 78
+ Min: 1923 1
+ Max: 2254 100
+ Avg: 51.378
+TXOLZZEELF
+ Total: 24691
+ Years: 496
+ 2419: 78
+ First: 1920 73
+ Last: 2419 78
+ Min: 2057 1
+ Max: 2397 100
+ Avg: 49.382
+CITFYOQOFS
+ Total: 25639
+ Years: 496
+ 2419: 6
+ First: 1920 20
+ Last: 2419 6
+ Min: 2006 1
+ Max: 2219 100
+ Avg: 51.278
+HRNQBEYPYM
+ Total: 24904
+ Years: 493
+ 2419: 83
+ First: 1920 66
+ Last: 2419 83
+ Min: 2134 1
+ Max: 2406 100
+ Avg: 49.808
+HPWVVBIGCF
+ Total: 25068
+ Years: 495
+ 2419: 76
+ First: 1920 86
+ Last: 2419 76
+ Min: 1947 1
+ Max: 2330 100
+ Avg: 50.136
+WSZGMCIQHH
+ Total: 24422
+ Years: 497
+ 2419: 7
+ First: 1920 23
+ Last: 2419 7
+ Min: 1930 1
+ Max: 2337 100
+ Avg: 48.844
+URAAJOIMZO
+ Total: 24925
+ Years: 498
+ 2419: 90
+ First: 1920 96
+ Last: 2419 90
+ Min: 1983 1
+ Max: 2343 100
+ Avg: 49.85
+REXWRDLELC
+ Total: 25066
+ Years: 496
+ 2419: 12
+ First: 1920 93
+ Last: 2419 12
+ Min: 1935 1
+ Max: 2270 100
+ Avg: 50.132
+LSUPYYMJCY
+ Total: 25772
+ Years: 496
+ 2419: 88
+ First: 1920 75
+ Last: 2419 88
+ Min: 2044 1
+ Max: 2414 100
+ Avg: 51.544
+YNLNGXHWQM
+ Total: 26474
+ Years: 496
+ 2419: 72
+ First: 1920 37
+ Last: 2419 72
+ Min: 2268 1
+ Max: 2296 100
+ Avg: 52.948
+KTKLXWRLTU
+ Total: 24480
+ Years: 496
+ 2419: 62
+ First: 1920 7
+ Last: 2419 62
+ Min: 2051 1
+ Max: 2409 100
+ Avg: 48.96
+CDZDUVPHPL
+ Total: 25804
+ Years: 493
+ 2419: 87
+ First: 1920 12
+ Last: 2419 87
+ Min: 1928 1
+ Max: 2360 100
+ Avg: 51.608
+RANZSKSCZV
+ Total: 25669
+ Years: 499
+ 2419: 24
+ First: 1920 60
+ Last: 2419 24
+ Min: 2008 1
+ Max: 2325 100
+ Avg: 51.338
+DWGALESGHJ
+ Total: 25018
+ Years: 496
+ 2419: 81
+ First: 1920 5
+ Last: 2419 81
+ Min: 2004 1
+ Max: 2322 100
+ Avg: 50.036
+DOKYFXYQIS
+ Total: 25804
+ Years: 495
+ 2419: 90
+ First: 1920 59
+ Last: 2419 90
+ Min: 2016 1
+ Max: 2365 100
+ Avg: 51.608
+TMIMEPXNAM
+ Total: 25231
+ Years: 493
+ 2419: 42
+ First: 1920 24
+ Last: 2419 42
+ Min: 1921 1
+ Max: 2393 100
+ Avg: 50.462
+KMSBCGXRNT
+ Total: 24343
+ Years: 499
+ 2419: 40
+ First: 1920 22
+ Last: 2419 40
+ Min: 2214 1
+ Max: 2391 100
+ Avg: 48.686
+YZMCXEYKJY
+ Total: 23687
+ Years: 497
+ 2419: 76
+ First: 1920 65
+ Last: 2419 76
+ Min: 1927 1
+ Max: 2297 100
+ Avg: 47.374
+JDXPAJEYRA
+ Total: 25114
+ Years: 495
+ 2419: 90
+ First: 1920 29
+ Last: 2419 90
+ Min: 1969 1
+ Max: 2237 100
+ Avg: 50.228
+FYZIBGNNTZ
+ Total: 25202
+ Years: 494
+ 2419: 75
+ First: 1920 20
+ Last: 2419 75
+ Min: 2018 1
+ Max: 2353 100
+ Avg: 50.404
+CPKVPALPCP
+ Total: 25387
+ Years: 496
+ 2419: 80
+ First: 1920 20
+ Last: 2419 80
+ Min: 1958 1
+ Max: 2339 100
+ Avg: 50.774
+XUSYSXDTQV
+ Total: 24757
+ Years: 496
+ 2419: 69
+ First: 1920 69
+ Last: 2419 69
+ Min: 1980 1
+ Max: 2121 100
+ Avg: 49.514
+MSCDYPFEEZ
+ Total: 24920
+ Years: 495
+ 2419: 28
+ First: 1920 36
+ Last: 2419 28
+ Min: 2174 1
+ Max: 2415 100
+ Avg: 49.84
+HWXEDYMWTW
+ Total: 25772
+ Years: 498
+ 2419: 75
+ First: 1920 60
+ Last: 2419 75
+ Min: 2023 1
+ Max: 2304 100
+ Avg: 51.544
+NRXSBBKCCY
+ Total: 25666
+ Years: 494
+ 2419: 28
+ First: 1920 12
+ Last: 2419 28
+ Min: 2055 1
+ Max: 2365 100
+ Avg: 51.332
+ETLWLCJFXP
+ Total: 23753
+ Years: 496
+ 2419: 59
+ First: 1920 25
+ Last: 2419 59
+ Min: 1939 1
+ Max: 2384 100
+ Avg: 47.506
+ACGYUEQMOP
+ Total: 24686
+ Years: 499
+ 2419: 30
+ First: 1920 44
+ Last: 2419 30
+ Min: 1960 1
+ Max: 2414 100
+ Avg: 49.372
+LSDNAQPYQQ
+ Total: 26192
+ Years: 496
+ 2419: 9
+ First: 1920 11
+ Last: 2419 9
+ Min: 2117 1
+ Max: 2409 100
+ Avg: 52.384
+PJCSMDPODR
+ Total: 24225
+ Years: 491
+ 2419: 56
+ First: 1920 36
+ Last: 2419 56
+ Min: 2057 1
+ Max: 2383 100
+ Avg: 48.45
+NPVXRAHJYY
+ Total: 24134
+ Years: 496
+ 2419: 32
+ First: 1920 70
+ Last: 2419 32
+ Min: 1930 1
+ Max: 2283 100
+ Avg: 48.268
+LNBPBEXBMY
+ Total: 24638
+ Years: 497
+ 2419: 47
+ First: 1920 4
+ Last: 2419 47
+ Min: 2077 1
+ Max: 2303 100
+ Avg: 49.276
+VVIPHQWHHT
+ Total: 23959
+ Years: 493
+ 2419: 38
+ First: 1920 83
+ Last: 2419 38
+ Min: 2113 1
+ Max: 2193 100
+ Avg: 47.918
+VUTFNBCZKK
+ Total: 24612
+ Years: 497
+ 2419: 58
+ First: 1920 98
+ Last: 2419 58
+ Min: 1965 1
+ Max: 2404 100
+ Avg: 49.224
+UZIQSRDRIO
+ Total: 24439
+ Years: 496
+ 2419: 84
+ First: 1920 36
+ Last: 2419 84
+ Min: 1922 1
+ Max: 2279 100
+ Avg: 48.878
+YDAMSXDDAV
+ Total: 25083
+ Years: 496
+ 2419: 74
+ First: 1920 15
+ Last: 2419 74
+ Min: 1948 1
+ Max: 2357 100
+ Avg: 50.166
+YINXACQAVJ
+ Total: 25469
+ Years: 495
+ 2419: 39
+ First: 1920 18
+ Last: 2419 39
+ Min: 2254 1
+ Max: 2354 100
+ Avg: 50.938
+NDQXYZDJHE
+ Total: 26415
+ Years: 496
+ 2419: 62
+ First: 1920 70
+ Last: 2419 62
+ Min: 1983 1
+ Max: 2363 100
+ Avg: 52.83
+CPFPAEMMCI
+ Total: 25890
+ Years: 497
+ 2419: 32
+ First: 1920 35
+ Last: 2419 32
+ Min: 1951 1
+ Max: 2259 100
+ Avg: 51.78
+AABENEYLGO
+ Total: 25906
+ Years: 498
+ 2419: 15
+ First: 1920 32
+ Last: 2419 15
+ Min: 1973 1
+ Max: 2229 100
+ Avg: 51.812
+BYOXQCEDTQ
+ Total: 25221
+ Years: 496
+ 2419: 38
+ First: 1920 46
+ Last: 2419 38
+ Min: 2167 1
+ Max: 2328 100
+ Avg: 50.442
+DKDBYEHYAQ
+ Total: 24955
+ Years: 491
+ 2419: 22
+ First: 1920 98
+ Last: 2419 22
+ Min: 2056 1
+ Max: 2314 100
+ Avg: 49.91
+LJWZAWJFCC
+ Total: 23875
+ Years: 494
+ 2419: 46
+ First: 1920 97
+ Last: 2419 46
+ Min: 2056 1
+ Max: 2403 100
+ Avg: 47.75
+JVFAQRGQOX
+ Total: 24993
+ Years: 498
+ 2419: 77
+ First: 1920 93
+ Last: 2419 77
+ Min: 1940 1
+ Max: 1960 100
+ Avg: 49.986
+FBTZZUJUST
+ Total: 25357
+ Years: 490
+ 2419: 27
+ First: 1920 12
+ Last: 2419 27
+ Min: 2147 1
+ Max: 2390 100
+ Avg: 50.714
+QSHTOTKZQG
+ Total: 26324
+ Years: 493
+ 2419: 26
+ First: 1920 85
+ Last: 2419 26
+ Min: 2108 1
+ Max: 2362 100
+ Avg: 52.648
+QBGLOUAQTX
+ Total: 24749
+ Years: 496
+ 2419: 97
+ First: 1920 53
+ Last: 2419 97
+ Min: 1945 1
+ Max: 2407 100
+ Avg: 49.498
+YJLPDJZMZN
+ Total: 25021
+ Years: 494
+ 2419: 20
+ First: 1920 23
+ Last: 2419 20
+ Min: 2077 1
+ Max: 1992 100
+ Avg: 50.042
+ZOFLRUGUPV
+ Total: 24361
+ Years: 497
+ 2419: 72
+ First: 1920 4
+ Last: 2419 72
+ Min: 1957 1
+ Max: 2382 100
+ Avg: 48.722
+BLIJITGAHX
+ Total: 24462
+ Years: 496
+ 2419: 51
+ First: 1920 46
+ Last: 2419 51
+ Min: 1967 1
+ Max: 2361 100
+ Avg: 48.924
+DTTQPZGTNQ
+ Total: 24553
+ Years: 499
+ 2419: 69
+ First: 1920 54
+ Last: 2419 69
+ Min: 2175 1
+ Max: 2246 100
+ Avg: 49.106
+JETBPACUMK
+ Total: 25683
+ Years: 494
+ 2419: 91
+ First: 1920 44
+ Last: 2419 91
+ Min: 1951 1
+ Max: 2356 100
+ Avg: 51.366
+AWHHKULWKL
+ Total: 26091
+ Years: 499
+ 2419: 77
+ First: 1920 37
+ Last: 2419 77
+ Min: 1927 1
+ Max: 2357 100
+ Avg: 52.182
+ZYUJYRIPEE
+ Total: 26331
+ Years: 498
+ 2419: 68
+ First: 1920 53
+ Last: 2419 68
+ Min: 1939 1
+ Max: 2343 100
+ Avg: 52.662
+QADVMVFQBN
+ Total: 24815
+ Years: 494
+ 2419: 10
+ First: 1920 27
+ Last: 2419 10
+ Min: 2085 1
+ Max: 2368 100
+ Avg: 49.63
+ACWAKYZCSB
+ Total: 24784
+ Years: 497
+ 2419: 59
+ First: 1920 90
+ Last: 2419 59
+ Min: 1925 1
+ Max: 2322 100
+ Avg: 49.568
+YTPJMNYAGD
+ Total: 25758
+ Years: 497
+ 2419: 97
+ First: 1920 26
+ Last: 2419 97
+ Min: 1928 1
+ Max: 2414 100
+ Avg: 51.516
+SDWGLKWHLE
+ Total: 24556
+ Years: 498
+ 2419: 75
+ First: 1920 38
+ Last: 2419 75
+ Min: 1957 1
+ Max: 2160 100
+ Avg: 49.112
+VPDTAGGTNO
+ Total: 25044
+ Years: 498
+ 2419: 17
+ First: 1920 25
+ Last: 2419 17
+ Min: 1962 1
+ Max: 2362 100
+ Avg: 50.088
+FYJLYPHVLO
+ Total: 25033
+ Years: 489
+ 2419: 44
+ First: 1920 52
+ Last: 2419 44
+ Min: 2118 1
+ Max: 2411 100
+ Avg: 50.066
+LHFIQCIXXC
+ Total: 24715
+ Years: 493
+ 2419: 50
+ First: 1920 7
+ Last: 2419 50
+ Min: 2015 1
+ Max: 2282 100
+ Avg: 49.43
+QQOOKHDOUA
+ Total: 25379
+ Years: 494
+ 2419: 25
+ First: 1920 71
+ Last: 2419 25
+ Min: 1983 1
+ Max: 2412 100
+ Avg: 50.758
+ONPSINCYWZ
+ Total: 25379
+ Years: 495
+ 2419: 74
+ First: 1920 81
+ Last: 2419 74
+ Min: 1960 1
+ Max: 2368 100
+ Avg: 50.758
+ZOHDPGPLXZ
+ Total: 24347
+ Years: 494
+ 2419: 71
+ First: 1920 14
+ Last: 2419 71
+ Min: 1976 1
+ Max: 2232 100
+ Avg: 48.694
+KFTQUTNYFR
+ Total: 25763
+ Years: 498
+ 2419: 77
+ First: 1920 29
+ Last: 2419 77
+ Min: 2178 1
+ Max: 2235 100
+ Avg: 51.526
+HLFYGDULBS
+ Total: 25582
+ Years: 496
+ 2419: 35
+ First: 1920 45
+ Last: 2419 35
+ Min: 2049 1
+ Max: 2343 100
+ Avg: 51.164
+UJEKROQWND
+ Total: 24624
+ Years: 498
+ 2419: 85
+ First: 1920 56
+ Last: 2419 85
+ Min: 1922 1
+ Max: 2373 100
+ Avg: 49.248
+KYATPOBQWH
+ Total: 25272
+ Years: 494
+ 2419: 71
+ First: 1920 67
+ Last: 2419 71
+ Min: 1976 1
+ Max: 2280 100
+ Avg: 50.544
+ABXBVOMZEK
+ Total: 23788
+ Years: 495
+ 2419: 0
+ First: 1920 93
+ Last: 2418 5
+ Min: 2191 1
+ Max: 2298 100
+ Avg: 47.576
+RISPEXQAIT
+ Total: 24393
+ Years: 497
+ 2419: 44
+ First: 1920 82
+ Last: 2419 44
+ Min: 1992 2
+ Max: 2391 100
+ Avg: 48.786
+FXHMNPNDRI
+ Total: 23742
+ Years: 490
+ 2419: 19
+ First: 1920 31
+ Last: 2419 19
+ Min: 2076 1
+ Max: 2308 100
+ Avg: 47.484
+QBPPGLTXLO
+ Total: 24982
+ Years: 495
+ 2419: 71
+ First: 1920 83
+ Last: 2419 71
+ Min: 1938 1
+ Max: 2330 100
+ Avg: 49.964
+ZCKDZWIJSV
+ Total: 25447
+ Years: 491
+ 2419: 12
+ First: 1920 32
+ Last: 2419 12
+ Min: 2032 1
+ Max: 2414 100
+ Avg: 50.894
+EIQWWPLIWI
+ Total: 26027
+ Years: 495
+ 2419: 85
+ First: 1920 46
+ Last: 2419 85
+ Min: 1925 1
+ Max: 2182 100
+ Avg: 52.054
+JVUWRHTONF
+ Total: 26017
+ Years: 496
+ 2419: 68
+ First: 1920 98
+ Last: 2419 68
+ Min: 2215 1
+ Max: 2369 100
+ Avg: 52.034
+AJFFKHNLCD
+ Total: 23810
+ Years: 496
+ 2419: 3
+ First: 1920 66
+ Last: 2419 3
+ Min: 1969 1
+ Max: 2377 100
+ Avg: 47.62
+UBGIJTBJYK
+ Total: 25927
+ Years: 497
+ 2419: 84
+ First: 1920 73
+ Last: 2419 84
+ Min: 2316 1
+ Max: 2349 100
+ Avg: 51.854
+QNQEBPYUHJ
+ Total: 24424
+ Years: 493
+ 2419: 28
+ First: 1920 4
+ Last: 2419 28
+ Min: 2034 1
+ Max: 2384 100
+ Avg: 48.848
+DHSDPKUOQG
+ Total: 25266
+ Years: 492
+ 2419: 97
+ First: 1920 8
+ Last: 2419 97
+ Min: 1988 1
+ Max: 2397 100
+ Avg: 50.532
+JVPWDOGNPV
+ Total: 25284
+ Years: 497
+ 2419: 92
+ First: 1920 25
+ Last: 2419 92
+ Min: 1933 1
+ Max: 2271 100
+ Avg: 50.568
+JMJSTRCVSS
+ Total: 25298
+ Years: 498
+ 2419: 24
+ First: 1921 33
+ Last: 2419 24
+ Min: 2168 1
+ Max: 2384 100
+ Avg: 50.596
+UMOVKWWTFS
+ Total: 25204
+ Years: 496
+ 2419: 78
+ First: 1920 12
+ Last: 2419 78
+ Min: 1953 1
+ Max: 2340 100
+ Avg: 50.408
+QDCHBDHLEP
+ Total: 24755
+ Years: 496
+ 2419: 42
+ First: 1920 11
+ Last: 2419 42
+ Min: 2270 1
+ Max: 2395 99
+ Avg: 49.51
+JYRHXWKLOB
+ Total: 25714
+ Years: 496
+ 2419: 92
+ First: 1920 94
+ Last: 2419 92
+ Min: 2153 1
+ Max: 2405 100
+ Avg: 51.428
+SVSFSVYCGF
+ Total: 25890
+ Years: 495
+ 2419: 52
+ First: 1920 47
+ Last: 2419 52
+ Min: 1948 1
+ Max: 2405 100
+ Avg: 51.78
+EAWMCKMLRR
+ Total: 25088
+ Years: 494
+ 2419: 37
+ First: 1920 83
+ Last: 2419 37
+ Min: 2129 1
+ Max: 2143 100
+ Avg: 50.176
+RLYYAMWMWP
+ Total: 25163
+ Years: 498
+ 2419: 44
+ First: 1920 17
+ Last: 2419 44
+ Min: 1938 1
+ Max: 2074 100
+ Avg: 50.326
+PQGBFSBFRL
+ Total: 25852
+ Years: 497
+ 2419: 53
+ First: 1920 63
+ Last: 2419 53
+ Min: 2017 1
+ Max: 2385 100
+ Avg: 51.704
+PFROEMBSFA
+ Total: 24609
+ Years: 491
+ 2419: 39
+ First: 1920 6
+ Last: 2419 39
+ Min: 1924 1
+ Max: 2306 100
+ Avg: 49.218
+QTLOHRMVJO
+ Total: 24666
+ Years: 497
+ 2419: 41
+ First: 1920 1
+ Last: 2419 41
+ Min: 1920 1
+ Max: 2327 100
+ Avg: 49.332
+ASWGEQYAJZ
+ Total: 24462
+ Years: 498
+ 2419: 84
+ First: 1920 25
+ Last: 2419 84
+ Min: 1981 1
+ Max: 2405 100
+ Avg: 48.924
+CQVLUZADUF
+ Total: 24224
+ Years: 490
+ 2419: 87
+ First: 1920 34
+ Last: 2419 87
+ Min: 1942 1
+ Max: 2308 100
+ Avg: 48.448
+LUYQTTMKOX
+ Total: 24936
+ Years: 493
+ 2419: 78
+ First: 1920 52
+ Last: 2419 78
+ Min: 1987 1
+ Max: 2322 100
+ Avg: 49.872
+MLJTDLHEGK
+ Total: 24475
+ Years: 496
+ 2419: 5
+ First: 1920 38
+ Last: 2419 5
+ Min: 1966 1
+ Max: 2317 100
+ Avg: 48.95
+SCJWXAAAQH
+ Total: 25568
+ Years: 493
+ 2419: 74
+ First: 1920 100
+ Last: 2419 74
+ Min: 1958 1
+ Max: 2368 100
+ Avg: 51.136
+FEYKVQIWJP
+ Total: 25953
+ Years: 497
+ 2419: 28
+ First: 1920 54
+ Last: 2419 28
+ Min: 2350 1
+ Max: 2334 100
+ Avg: 51.906
+HPPWAIVDER
+ Total: 24438
+ Years: 496
+ 2419: 11
+ First: 1920 55
+ Last: 2419 11
+ Min: 1947 1
+ Max: 2254 100
+ Avg: 48.876
+SYBAHPOSRH
+ Total: 24315
+ Years: 494
+ 2419: 43
+ First: 1920 94
+ Last: 2419 43
+ Min: 2015 1
+ Max: 2303 100
+ Avg: 48.63
+OSIHSYKVRA
+ Total: 24829
+ Years: 496
+ 2419: 23
+ First: 1920 22
+ Last: 2419 23
+ Min: 2085 1
+ Max: 2108 100
+ Avg: 49.658
+NOZPTNUAMW
+ Total: 24910
+ Years: 496
+ 2419: 37
+ First: 1920 94
+ Last: 2419 37
+ Min: 1987 1
+ Max: 2354 100
+ Avg: 49.82
+NFLFHISDYC
+ Total: 25518
+ Years: 495
+ 2419: 58
+ First: 1920 50
+ Last: 2419 58
+ Min: 1963 1
+ Max: 2411 100
+ Avg: 51.036
+WTPKRZQQMT
+ Total: 26076
+ Years: 495
+ 2419: 30
+ First: 1920 62
+ Last: 2419 30
+ Min: 1923 1
+ Max: 2356 100
+ Avg: 52.152
+DPHSHZNWMR
+ Total: 25596
+ Years: 496
+ 2419: 81
+ First: 1920 95
+ Last: 2419 81
+ Min: 2004 1
+ Max: 2352 100
+ Avg: 51.192
+WXOTFSDZTA
+ Total: 25331
+ Years: 494
+ 2419: 59
+ First: 1920 2
+ Last: 2419 59
+ Min: 1988 1
+ Max: 2276 100
+ Avg: 50.662
+ERXFZAKSNG
+ Total: 25142
+ Years: 492
+ 2419: 76
+ First: 1920 60
+ Last: 2419 76
+ Min: 2035 1
+ Max: 2402 100
+ Avg: 50.284
+IQHODIICRO
+ Total: 25379
+ Years: 492
+ 2419: 72
+ First: 1920 79
+ Last: 2419 72
+ Min: 1939 1
+ Max: 2366 100
+ Avg: 50.758
+LRZAIRZJEU
+ Total: 26012
+ Years: 495
+ 2419: 93
+ First: 1920 11
+ Last: 2419 93
+ Min: 1931 1
+ Max: 2379 100
+ Avg: 52.024
+CMVVDIATYV
+ Total: 25574
+ Years: 496
+ 2419: 79
+ First: 1920 13
+ Last: 2419 79
+ Min: 2041 1
+ Max: 2311 100
+ Avg: 51.148
+SRLPDVKGUJ
+ Total: 25478
+ Years: 498
+ 2419: 13
+ First: 1920 40
+ Last: 2419 13
+ Min: 1965 1
+ Max: 2396 100
+ Avg: 50.956
+QNYRZGXUEC
+ Total: 24877
+ Years: 494
+ 2419: 61
+ First: 1920 37
+ Last: 2419 61
+ Min: 1965 1
+ Max: 2317 100
+ Avg: 49.754
+YNMAYSSRCM
+ Total: 24661
+ Years: 493
+ 2419: 4
+ First: 1920 39
+ Last: 2419 4
+ Min: 2153 1
+ Max: 2374 100
+ Avg: 49.322
+RUEPJDYGCT
+ Total: 24500
+ Years: 498
+ 2419: 33
+ First: 1920 14
+ Last: 2419 33
+ Min: 1984 1
+ Max: 2418 100
+ Avg: 49.0
+EMRKWMGEUV
+ Total: 24960
+ Years: 492
+ 2419: 78
+ First: 1920 4
+ Last: 2419 78
+ Min: 2107 1
+ Max: 2256 100
+ Avg: 49.92
+VCSDSMGTYM
+ Total: 24442
+ Years: 494
+ 2419: 89
+ First: 1920 27
+ Last: 2419 89
+ Min: 1922 1
+ Max: 2243 100
+ Avg: 48.884
+KRSGRJPFZO
+ Total: 25552
+ Years: 496
+ 2419: 22
+ First: 1920 67
+ Last: 2419 22
+ Min: 2001 1
+ Max: 2385 100
+ Avg: 51.104
+WTMTTTQKNH
+ Total: 25474
+ Years: 493
+ 2419: 40
+ First: 1920 59
+ Last: 2419 40
+ Min: 1990 1
+ Max: 2360 100
+ Avg: 50.948
+YCVVABGZXM
+ Total: 24545
+ Years: 496
+ 2419: 33
+ First: 1920 18
+ Last: 2419 33
+ Min: 1993 1
+ Max: 2412 100
+ Avg: 49.09
+VRPCSXETUT
+ Total: 24793
+ Years: 497
+ 2419: 58
+ First: 1920 67
+ Last: 2419 58
+ Min: 2036 1
+ Max: 2324 100
+ Avg: 49.586
+JEXGKDWQRP
+ Total: 25000
+ Years: 496
+ 2419: 0
+ First: 1920 8
+ Last: 2418 2
+ Min: 1946 1
+ Max: 2324 100
+ Avg: 50.0
+HCUIAROMRJ
+ Total: 25245
+ Years: 492
+ 2419: 37
+ First: 1920 55
+ Last: 2419 37
+ Min: 2067 1
+ Max: 2308 100
+ Avg: 50.49
+BUKOUDXMGS
+ Total: 24448
+ Years: 496
+ 2419: 87
+ First: 1920 71
+ Last: 2419 87
+ Min: 1950 1
+ Max: 2372 100
+ Avg: 48.896
+CNPAXVXAZA
+ Total: 24954
+ Years: 492
+ 2419: 83
+ First: 1921 7
+ Last: 2419 83
+ Min: 2058 1
+ Max: 2388 100
+ Avg: 49.908
+UKNGOJNJKG
+ Total: 24804
+ Years: 495
+ 2419: 5
+ First: 1920 47
+ Last: 2419 5
+ Min: 1941 1
+ Max: 2332 100
+ Avg: 49.608
+DNZIBTDIXL
+ Total: 24441
+ Years: 494
+ 2419: 74
+ First: 1920 30
+ Last: 2419 74
+ Min: 1993 1
+ Max: 2343 100
+ Avg: 48.882
+XEIFBKYLLN
+ Total: 25958
+ Years: 497
+ 2419: 11
+ First: 1920 47
+ Last: 2419 11
+ Min: 1989 1
+ Max: 2355 100
+ Avg: 51.916
+EDUDWHLLPB
+ Total: 25840
+ Years: 498
+ 2419: 71
+ First: 1920 71
+ Last: 2419 71
+ Min: 2287 1
+ Max: 2353 100
+ Avg: 51.68
+VFVNMAIQRQ
+ Total: 24769
+ Years: 495
+ 2419: 61
+ First: 1920 59
+ Last: 2419 61
+ Min: 2032 1
+ Max: 2326 100
+ Avg: 49.538
+LCRFQRKSND
+ Total: 25274
+ Years: 497
+ 2419: 31
+ First: 1920 8
+ Last: 2419 31
+ Min: 1921 1
+ Max: 2249 100
+ Avg: 50.548
+RJIPJKALJA
+ Total: 25083
+ Years: 496
+ 2419: 48
+ First: 1920 96
+ Last: 2419 48
+ Min: 1947 1
+ Max: 2128 100
+ Avg: 50.166
+AMZEMOBVJZ
+ Total: 26393
+ Years: 493
+ 2419: 75
+ First: 1920 77
+ Last: 2419 75
+ Min: 2013 1
+ Max: 2379 100
+ Avg: 52.786
+JFOHGQQAPR
+ Total: 25311
+ Years: 496
+ 2419: 16
+ First: 1920 67
+ Last: 2419 16
+ Min: 2024 1
+ Max: 2418 100
+ Avg: 50.622
+TQYYEKROES
+ Total: 24231
+ Years: 497
+ 2419: 73
+ First: 1920 53
+ Last: 2419 73
+ Min: 1948 1
+ Max: 2269 100
+ Avg: 48.462
+CHGBEVGRWO
+ Total: 24867
+ Years: 498
+ 2419: 13
+ First: 1920 59
+ Last: 2419 13
+ Min: 2001 1
+ Max: 2309 100
+ Avg: 49.734
+IHKVQYECML
+ Total: 25591
+ Years: 496
+ 2419: 14
+ First: 1920 94
+ Last: 2419 14
+ Min: 2010 1
+ Max: 2368 100
+ Avg: 51.182
+FTBQMEPZET
+ Total: 25540
+ Years: 498
+ 2419: 61
+ First: 1920 26
+ Last: 2419 61
+ Min: 1933 1
+ Max: 2377 100
+ Avg: 51.08
+ZTVXZFXYWK
+ Total: 25036
+ Years: 495
+ 2419: 40
+ First: 1920 14
+ Last: 2419 40
+ Min: 2176 1
+ Max: 2377 100
+ Avg: 50.072
+ZERLUQZMDI
+ Total: 26222
+ Years: 498
+ 2419: 67
+ First: 1920 40
+ Last: 2419 67
+ Min: 2052 2
+ Max: 2250 100
+ Avg: 52.444
+CZEOJTOURG
+ Total: 24527
+ Years: 496
+ 2419: 67
+ First: 1920 65
+ Last: 2419 67
+ Min: 2037 1
+ Max: 2188 100
+ Avg: 49.054
+JVYOEBEVNQ
+ Total: 24185
+ Years: 491
+ 2419: 84
+ First: 1920 94
+ Last: 2419 84
+ Min: 1941 1
+ Max: 2317 100
+ Avg: 48.37
+TSGZQNMABU
+ Total: 24438
+ Years: 495
+ 2419: 59
+ First: 1920 21
+ Last: 2419 59
+ Min: 1968 1
+ Max: 2279 100
+ Avg: 48.876
+FCVRTKMLHT
+ Total: 24977
+ Years: 494
+ 2419: 78
+ First: 1920 10
+ Last: 2419 78
+ Min: 2242 1
+ Max: 2349 100
+ Avg: 49.954
+DUMYIEVEMN
+ Total: 24587
+ Years: 493
+ 2419: 81
+ First: 1920 78
+ Last: 2419 81
+ Min: 1922 1
+ Max: 2405 100
+ Avg: 49.174
+LBKWJGCJYD
+ Total: 24760
+ Years: 496
+ 2419: 34
+ First: 1920 46
+ Last: 2419 34
+ Min: 2074 2
+ Max: 2380 100
+ Avg: 49.52
+QKWTRIYQRT
+ Total: 24751
+ Years: 494
+ 2419: 53
+ First: 1920 41
+ Last: 2419 53
+ Min: 1951 1
+ Max: 2398 100
+ Avg: 49.502
+OFHBABEZNU
+ Total: 25410
+ Years: 495
+ 2419: 27
+ First: 1920 63
+ Last: 2419 27
+ Min: 1957 1
+ Max: 2180 100
+ Avg: 50.82
+AGYQRZQCHQ
+ Total: 26441
+ Years: 497
+ 2419: 81
+ First: 1920 81
+ Last: 2419 81
+ Min: 2282 1
+ Max: 2065 100
+ Avg: 52.882
+DURSCRGKMO
+ Total: 24871
+ Years: 498
+ 2419: 78
+ First: 1920 58
+ Last: 2419 78
+ Min: 2030 1
+ Max: 2418 100
+ Avg: 49.742
+JQLUVXJTXC
+ Total: 25849
+ Years: 495
+ 2419: 70
+ First: 1920 37
+ Last: 2419 70
+ Min: 2000 1
+ Max: 2391 100
+ Avg: 51.698
+FUVLJZMMAT
+ Total: 24440
+ Years: 496
+ 2419: 20
+ First: 1920 79
+ Last: 2419 20
+ Min: 2018 1
+ Max: 2400 100
+ Avg: 48.88
+BMWXQFSILM
+ Total: 25318
+ Years: 497
+ 2419: 15
+ First: 1920 54
+ Last: 2419 15
+ Min: 1935 1
+ Max: 2403 100
+ Avg: 50.636
+KVAHHZBKQX
+ Total: 25456
+ Years: 494
+ 2419: 58
+ First: 1920 61
+ Last: 2419 58
+ Min: 2020 1
+ Max: 2231 99
+ Avg: 50.912
+FWRMYMDQTO
+ Total: 26245
+ Years: 494
+ 2419: 91
+ First: 1920 8
+ Last: 2419 91
+ Min: 1940 1
+ Max: 2401 100
+ Avg: 52.49
+LGYQARONTZ
+ Total: 24497
+ Years: 496
+ 2419: 51
+ First: 1920 20
+ Last: 2419 51
+ Min: 2025 1
+ Max: 2310 100
+ Avg: 48.994
+GXZPKOVYZS
+ Total: 26308
+ Years: 496
+ 2419: 12
+ First: 1920 28
+ Last: 2419 12
+ Min: 1930 1
+ Max: 2285 100
+ Avg: 52.616
+UVZEKRQYLH
+ Total: 24523
+ Years: 494
+ 2419: 55
+ First: 1920 46
+ Last: 2419 55
+ Min: 1967 1
+ Max: 2401 100
+ Avg: 49.046
+IOAVFOCXKP
+ Total: 25801
+ Years: 495
+ 2419: 84
+ First: 1920 100
+ Last: 2419 84
+ Min: 2136 1
+ Max: 2319 100
+ Avg: 51.602
+LJAZGZUYEV
+ Total: 25051
+ Years: 493
+ 2419: 36
+ First: 1920 20
+ Last: 2419 36
+ Min: 2023 1
+ Max: 2187 100
+ Avg: 50.102
+QLERJHXDPB
+ Total: 26150
+ Years: 495
+ 2419: 35
+ First: 1920 7
+ Last: 2419 35
+ Min: 1930 1
+ Max: 2324 100
+ Avg: 52.3
+RTWXMKEQXA
+ Total: 25170
+ Years: 496
+ 2419: 73
+ First: 1920 67
+ Last: 2419 73
+ Min: 1960 1
+ Max: 2313 100
+ Avg: 50.34
+AAPTOXLDHE
+ Total: 25540
+ Years: 494
+ 2419: 48
+ First: 1920 13
+ Last: 2419 48
+ Min: 2109 1
+ Max: 2404 100
+ Avg: 51.08
+BIQZWJGWMZ
+ Total: 24026
+ Years: 499
+ 2419: 88
+ First: 1920 99
+ Last: 2419 88
+ Min: 1968 1
+ Max: 2227 100
+ Avg: 48.052
+POFVLFLUZJ
+ Total: 24101
+ Years: 488
+ 2419: 6
+ First: 1920 1
+ Last: 2419 6
+ Min: 1920 1
+ Max: 2414 100
+ Avg: 48.202
+AOJOSNMXMJ
+ Total: 24960
+ Years: 497
+ 2419: 39
+ First: 1920 58
+ Last: 2419 39
+ Min: 1955 1
+ Max: 2295 100
+ Avg: 49.92
+FRVDDFLFKG
+ Total: 24197
+ Years: 499
+ 2419: 74
+ First: 1920 58
+ Last: 2419 74
+ Min: 2015 1
+ Max: 2389 100
+ Avg: 48.394
+HDWSEERQIB
+ Total: 25088
+ Years: 497
+ 2419: 77
+ First: 1920 99
+ Last: 2419 77
+ Min: 1952 1
+ Max: 2358 100
+ Avg: 50.176
+KDTKLNIGNI
+ Total: 25610
+ Years: 491
+ 2419: 43
+ First: 1920 54
+ Last: 2419 43
+ Min: 1987 1
+ Max: 2388 100
+ Avg: 51.22
+AKFQWCVCWL
+ Total: 24333
+ Years: 496
+ 2419: 98
+ First: 1920 7
+ Last: 2419 98
+ Min: 1999 1
+ Max: 2151 100
+ Avg: 48.666
+JFJHCNJILO
+ Total: 25251
+ Years: 496
+ 2419: 46
+ First: 1920 38
+ Last: 2419 46
+ Min: 1971 1
+ Max: 2244 100
+ Avg: 50.502
+RRZVMBQETC
+ Total: 25535
+ Years: 495
+ 2419: 1
+ First: 1920 67
+ Last: 2419 1
+ Min: 1947 1
+ Max: 2247 100
+ Avg: 51.07
+JMHQEZMOUV
+ Total: 24580
+ Years: 495
+ 2419: 60
+ First: 1920 41
+ Last: 2419 60
+ Min: 2070 1
+ Max: 2410 100
+ Avg: 49.16
+BEELTSMCAW
+ Total: 23665
+ Years: 491
+ 2419: 57
+ First: 1920 70
+ Last: 2419 57
+ Min: 2058 1
+ Max: 2354 99
+ Avg: 47.33
+XNPHTMKGRY
+ Total: 25235
+ Years: 498
+ 2419: 25
+ First: 1920 35
+ Last: 2419 25
+ Min: 2010 1
+ Max: 2351 100
+ Avg: 50.47
+OCFEHSKNEO
+ Total: 25183
+ Years: 495
+ 2419: 65
+ First: 1920 17
+ Last: 2419 65
+ Min: 1942 1
+ Max: 2372 100
+ Avg: 50.366
+DAYMYNFWUT
+ Total: 24959
+ Years: 497
+ 2419: 83
+ First: 1920 99
+ Last: 2419 83
+ Min: 2060 1
+ Max: 2391 100
+ Avg: 49.918
+VIZKKDOXDV
+ Total: 25146
+ Years: 493
+ 2419: 85
+ First: 1920 64
+ Last: 2419 85
+ Min: 2158 1
+ Max: 2414 100
+ Avg: 50.292
+VVTHNDOALT
+ Total: 25235
+ Years: 490
+ 2419: 14
+ First: 1920 10
+ Last: 2419 14
+ Min: 2170 1
+ Max: 2383 100
+ Avg: 50.47
+UTPCNSBYAN
+ Total: 25235
+ Years: 494
+ 2419: 5
+ First: 1920 48
+ Last: 2419 5
+ Min: 2161 1
+ Max: 2396 100
+ Avg: 50.47
+JHWKPLGAPZ
+ Total: 25340
+ Years: 499
+ 2419: 22
+ First: 1920 80
+ Last: 2419 22
+ Min: 1924 1
+ Max: 2371 100
+ Avg: 50.68
+TYDSSWPJUU
+ Total: 25584
+ Years: 495
+ 2419: 55
+ First: 1920 36
+ Last: 2419 55
+ Min: 2025 1
+ Max: 2284 100
+ Avg: 51.168
+NHUAVXFANV
+ Total: 25120
+ Years: 497
+ 2419: 42
+ First: 1920 94
+ Last: 2419 42
+ Min: 1985 1
+ Max: 2296 100
+ Avg: 50.24
+CLEUSYFOZG
+ Total: 25022
+ Years: 493
+ 2419: 24
+ First: 1920 30
+ Last: 2419 24
+ Min: 2130 1
+ Max: 2365 100
+ Avg: 50.044
+OHTUOZZWXZ
+ Total: 24744
+ Years: 492
+ 2419: 12
+ First: 1920 21
+ Last: 2419 12
+ Min: 1992 1
+ Max: 2356 100
+ Avg: 49.488
+XCFVPZOMDH
+ Total: 24702
+ Years: 496
+ 2419: 5
+ First: 1920 87
+ Last: 2419 5
+ Min: 2262 1
+ Max: 2409 100
+ Avg: 49.404
+LGWSROIVZQ
+ Total: 26256
+ Years: 498
+ 2419: 9
+ First: 1920 66
+ Last: 2419 9
+ Min: 1955 1
+ Max: 2366 100
+ Avg: 52.512
+WNZWRKKKNE
+ Total: 25666
+ Years: 498
+ 2419: 22
+ First: 1920 20
+ Last: 2419 22
+ Min: 2083 1
+ Max: 2417 100
+ Avg: 51.332
+VFMKDWVJVS
+ Total: 25196
+ Years: 494
+ 2419: 52
+ First: 1920 86
+ Last: 2419 52
+ Min: 2072 1
+ Max: 2411 100
+ Avg: 50.392
+GAKZBFQUJT
+ Total: 25112
+ Years: 497
+ 2419: 59
+ First: 1920 100
+ Last: 2419 59
+ Min: 2272 1
+ Max: 2346 100
+ Avg: 50.224
+KDWIOGKVUG
+ Total: 24505
+ Years: 496
+ 2419: 6
+ First: 1920 53
+ Last: 2419 6
+ Min: 2059 1
+ Max: 2366 100
+ Avg: 49.01
+WRVAMCJRQR
+ Total: 23996
+ Years: 496
+ 2419: 23
+ First: 1920 48
+ Last: 2419 23
+ Min: 1954 1
+ Max: 2331 100
+ Avg: 47.992
+RBDTNPUMSU
+ Total: 25206
+ Years: 496
+ 2419: 72
+ First: 1920 81
+ Last: 2419 72
+ Min: 1996 1
+ Max: 2179 100
+ Avg: 50.412
+RLJCBGZCBN
+ Total: 25460
+ Years: 494
+ 2419: 46
+ First: 1920 12
+ Last: 2419 46
+ Min: 1923 1
+ Max: 2416 100
+ Avg: 50.92
+VPUYFBARVN
+ Total: 24741
+ Years: 499
+ 2419: 89
+ First: 1920 30
+ Last: 2419 89
+ Min: 1977 1
+ Max: 2290 100
+ Avg: 49.482
+KIDTDKELMI
+ Total: 25737
+ Years: 493
+ 2419: 21
+ First: 1920 85
+ Last: 2419 21
+ Min: 1978 1
+ Max: 2310 100
+ Avg: 51.474
+DYYPNWNPPY
+ Total: 24527
+ Years: 496
+ 2419: 93
+ First: 1920 89
+ Last: 2419 93
+ Min: 2127 1
+ Max: 2369 100
+ Avg: 49.054
+LJYYAYQDEU
+ Total: 26140
+ Years: 495
+ 2419: 23
+ First: 1920 96
+ Last: 2419 23
+ Min: 2164 1
+ Max: 2356 100
+ Avg: 52.28
+RHFHORKKNF
+ Total: 25587
+ Years: 499
+ 2419: 52
+ First: 1920 86
+ Last: 2419 52
+ Min: 2013 1
+ Max: 2214 100
+ Avg: 51.174
+XTFUPFTCGN
+ Total: 25409
+ Years: 496
+ 2419: 89
+ First: 1920 9
+ Last: 2419 89
+ Min: 1967 1
+ Max: 2252 100
+ Avg: 50.818
+SBLHPKAPHF
+ Total: 25200
+ Years: 495
+ 2419: 25
+ First: 1920 41
+ Last: 2419 25
+ Min: 1922 1
+ Max: 2293 100
+ Avg: 50.4
+LALUZXERPZ
+ Total: 25298
+ Years: 493
+ 2419: 70
+ First: 1920 74
+ Last: 2419 70
+ Min: 2155 1
+ Max: 2385 100
+ Avg: 50.596
+NRYHAGNGLM
+ Total: 24922
+ Years: 496
+ 2419: 90
+ First: 1920 18
+ Last: 2419 90
+ Min: 2152 2
+ Max: 2397 100
+ Avg: 49.844
+URURTJNZWF
+ Total: 24492
+ Years: 496
+ 2419: 25
+ First: 1920 95
+ Last: 2419 25
+ Min: 2057 1
+ Max: 2153 100
+ Avg: 48.984
+JMHHAQZRSA
+ Total: 24066
+ Years: 492
+ 2419: 38
+ First: 1920 33
+ Last: 2419 38
+ Min: 1923 1
+ Max: 2336 100
+ Avg: 48.132
+GHDJGHONQI
+ Total: 25786
+ Years: 497
+ 2419: 64
+ First: 1920 13
+ Last: 2419 64
+ Min: 2174 1
+ Max: 2345 100
+ Avg: 51.572
+CPKJLDPBPN
+ Total: 25540
+ Years: 494
+ 2419: 71
+ First: 1920 78
+ Last: 2419 71
+ Min: 1966 1
+ Max: 2320 100
+ Avg: 51.08
+QVYBPTMSKQ
+ Total: 23994
+ Years: 494
+ 2419: 59
+ First: 1920 73
+ Last: 2419 59
+ Min: 1932 1
+ Max: 2399 100
+ Avg: 47.988
+MDHODNAUTV
+ Total: 24661
+ Years: 493
+ 2419: 100
+ First: 1920 65
+ Last: 2419 100
+ Min: 2346 1
+ Max: 2419 100
+ Avg: 49.322
+ZJDIKVVTUE
+ Total: 25232
+ Years: 494
+ 2419: 51
+ First: 1920 89
+ Last: 2419 51
+ Min: 2190 1
+ Max: 2236 100
+ Avg: 50.464
+WAMWFICOUA
+ Total: 23783
+ Years: 493
+ 2419: 18
+ First: 1920 41
+ Last: 2419 18
+ Min: 1987 1
+ Max: 2099 100
+ Avg: 47.566
+FECJUTUFZG
+ Total: 24971
+ Years: 498
+ 2419: 45
+ First: 1920 35
+ Last: 2419 45
+ Min: 1924 1
+ Max: 2326 100
+ Avg: 49.942
+WKXHOXPAGO
+ Total: 24001
+ Years: 493
+ 2419: 0
+ First: 1920 62
+ Last: 2418 65
+ Min: 2099 1
+ Max: 2300 100
+ Avg: 48.002
+AQRLQDCQQJ
+ Total: 24612
+ Years: 495
+ 2419: 43
+ First: 1920 29
+ Last: 2419 43
+ Min: 1975 1
+ Max: 2389 100
+ Avg: 49.224
+FLFRAJYBNW
+ Total: 24916
+ Years: 494
+ 2419: 61
+ First: 1920 11
+ Last: 2419 61
+ Min: 2034 1
+ Max: 2285 100
+ Avg: 49.832
+ARXWSKSWVD
+ Total: 23355
+ Years: 494
+ 2419: 9
+ First: 1920 32
+ Last: 2419 9
+ Min: 1982 1
+ Max: 2346 100
+ Avg: 46.71
+PCMGKEARQD
+ Total: 24823
+ Years: 494
+ 2419: 59
+ First: 1920 66
+ Last: 2419 59
+ Min: 2010 1
+ Max: 2413 100
+ Avg: 49.646
+ZOFFGURKCG
+ Total: 23884
+ Years: 496
+ 2419: 80
+ First: 1921 83
+ Last: 2419 80
+ Min: 1953 1
+ Max: 2418 100
+ Avg: 47.768
+SCPIHOBLGH
+ Total: 24027
+ Years: 498
+ 2419: 50
+ First: 1920 48
+ Last: 2419 50
+ Min: 1924 1
+ Max: 2181 100
+ Avg: 48.054
+VCVHAYPFUR
+ Total: 25101
+ Years: 498
+ 2419: 90
+ First: 1920 22
+ Last: 2419 90
+ Min: 1937 1
+ Max: 2381 100
+ Avg: 50.202
+ORDCBONTHT
+ Total: 24333
+ Years: 495
+ 2419: 82
+ First: 1920 71
+ Last: 2419 82
+ Min: 1922 1
+ Max: 2264 100
+ Avg: 48.666
+GSTMOBSZVQ
+ Total: 25578
+ Years: 497
+ 2419: 54
+ First: 1920 83
+ Last: 2419 54
+ Min: 2050 1
+ Max: 2418 100
+ Avg: 51.156
+UPRLKOGDDQ
+ Total: 24874
+ Years: 496
+ 2419: 91
+ First: 1920 59
+ Last: 2419 91
+ Min: 1939 1
+ Max: 2411 100
+ Avg: 49.748
+WXECILKYZG
+ Total: 25539
+ Years: 499
+ 2419: 7
+ First: 1920 81
+ Last: 2419 7
+ Min: 1985 1
+ Max: 2400 100
+ Avg: 51.078
+UTNXBKEQTL
+ Total: 25201
+ Years: 494
+ 2419: 65
+ First: 1920 52
+ Last: 2419 65
+ Min: 2161 1
+ Max: 2384 100
+ Avg: 50.402
+WNFKNCREQE
+ Total: 23312
+ Years: 495
+ 2419: 29
+ First: 1920 63
+ Last: 2419 29
+ Min: 1999 1
+ Max: 2274 100
+ Avg: 46.624
+JZXYBTNJPZ
+ Total: 24266
+ Years: 497
+ 2419: 100
+ First: 1920 92
+ Last: 2419 100
+ Min: 2058 1
+ Max: 2419 100
+ Avg: 48.532
+KEIBRTQDZX
+ Total: 24716
+ Years: 495
+ 2419: 28
+ First: 1920 67
+ Last: 2419 28
+ Min: 2289 1
+ Max: 2189 100
+ Avg: 49.432
+ODKBBMGNON
+ Total: 26056
+ Years: 494
+ 2419: 29
+ First: 1920 81
+ Last: 2419 29
+ Min: 2209 1
+ Max: 2418 100
+ Avg: 52.112
+DXRMPZFYIG
+ Total: 25034
+ Years: 498
+ 2419: 29
+ First: 1920 81
+ Last: 2419 29
+ Min: 1957 1
+ Max: 2387 100
+ Avg: 50.068
+TQAMWJKNFM
+ Total: 25260
+ Years: 499
+ 2419: 51
+ First: 1920 50
+ Last: 2419 51
+ Min: 2048 1
+ Max: 2397 100
+ Avg: 50.52
+JHXPQDIAWJ
+ Total: 25218
+ Years: 496
+ 2419: 0
+ First: 1920 98
+ Last: 2418 11
+ Min: 1982 1
+ Max: 2366 100
+ Avg: 50.436
+JDMAAADSWJ
+ Total: 24745
+ Years: 496
+ 2419: 18
+ First: 1920 72
+ Last: 2419 18
+ Min: 2077 1
+ Max: 2406 100
+ Avg: 49.49
+RENVVVXDGX
+ Total: 25411
+ Years: 493
+ 2419: 2
+ First: 1920 1
+ Last: 2419 2
+ Min: 1920 1
+ Max: 2394 100
+ Avg: 50.822
+KCYFIOFYQA
+ Total: 24382
+ Years: 496
+ 2419: 92
+ First: 1920 14
+ Last: 2419 92
+ Min: 2086 1
+ Max: 2360 100
+ Avg: 48.764
+YJJPPXCVWJ
+ Total: 25563
+ Years: 499
+ 2419: 49
+ First: 1920 68
+ Last: 2419 49
+ Min: 2116 1
+ Max: 2370 100
+ Avg: 51.126
+XTDCOSOOYJ
+ Total: 23269
+ Years: 494
+ 2419: 52
+ First: 1920 81
+ Last: 2419 52
+ Min: 2022 1
+ Max: 2295 100
+ Avg: 46.538
+YDKKELXPSI
+ Total: 25305
+ Years: 495
+ 2419: 48
+ First: 1920 16
+ Last: 2419 48
+ Min: 1985 1
+ Max: 2227 100
+ Avg: 50.61
+KIKLQXXZQN
+ Total: 24623
+ Years: 498
+ 2419: 47
+ First: 1920 59
+ Last: 2419 47
+ Min: 1992 1
+ Max: 2417 100
+ Avg: 49.246
+NXHAPQZMGU
+ Total: 24537
+ Years: 497
+ 2419: 45
+ First: 1920 5
+ Last: 2419 45
+ Min: 1939 1
+ Max: 2281 100
+ Avg: 49.074
+EVQGNBMQJO
+ Total: 25248
+ Years: 494
+ 2419: 32
+ First: 1920 97
+ Last: 2419 32
+ Min: 2095 1
+ Max: 2388 100
+ Avg: 50.496
+JDISAEIEPK
+ Total: 24813
+ Years: 499
+ 2419: 31
+ First: 1920 29
+ Last: 2419 31
+ Min: 2059 1
+ Max: 2396 100
+ Avg: 49.626
+OXRJMRCUEO
+ Total: 25559
+ Years: 497
+ 2419: 17
+ First: 1920 30
+ Last: 2419 17
+ Min: 1962 1
+ Max: 2390 100
+ Avg: 51.118
+NVUFVFSOCJ
+ Total: 24509
+ Years: 498
+ 2419: 52
+ First: 1920 37
+ Last: 2419 52
+ Min: 2031 1
+ Max: 2355 100
+ Avg: 49.018
+CTGOAZHCQB
+ Total: 25882
+ Years: 494
+ 2419: 65
+ First: 1920 7
+ Last: 2419 65
+ Min: 2101 1
+ Max: 2365 100
+ Avg: 51.764
+QBYKYAZXHW
+ Total: 25158
+ Years: 497
+ 2419: 86
+ First: 1920 97
+ Last: 2419 86
+ Min: 1952 1
+ Max: 2264 100
+ Avg: 50.316
+UKMTCHXZKD
+ Total: 24921
+ Years: 493
+ 2419: 96
+ First: 1920 90
+ Last: 2419 96
+ Min: 1937 1
+ Max: 2382 100
+ Avg: 49.842
+AZSDTCMUTH
+ Total: 25241
+ Years: 497
+ 2419: 10
+ First: 1920 55
+ Last: 2419 10
+ Min: 2169 1
+ Max: 2377 100
+ Avg: 50.482
+HUFOYMZQUF
+ Total: 25030
+ Years: 497
+ 2419: 0
+ First: 1920 44
+ Last: 2418 1
+ Min: 1962 1
+ Max: 2157 100
+ Avg: 50.06
+PYNGTNJOLD
+ Total: 24124
+ Years: 493
+ 2419: 80
+ First: 1920 47
+ Last: 2419 80
+ Min: 2015 1
+ Max: 2285 100
+ Avg: 48.248
+JJDWUXQTVQ
+ Total: 23994
+ Years: 490
+ 2419: 56
+ First: 1920 10
+ Last: 2419 56
+ Min: 2085 1
+ Max: 2411 100
+ Avg: 47.988
+ILXUIJCOYV
+ Total: 25102
+ Years: 494
+ 2419: 79
+ First: 1920 47
+ Last: 2419 79
+ Min: 1955 1
+ Max: 2182 100
+ Avg: 50.204
+OKDEYWVDDQ
+ Total: 23411
+ Years: 496
+ 2419: 70
+ First: 1920 86
+ Last: 2419 70
+ Min: 1941 1
+ Max: 2387 100
+ Avg: 46.822
+BXKZMYAYJZ
+ Total: 26374
+ Years: 499
+ 2419: 89
+ First: 1920 84
+ Last: 2419 89
+ Min: 1964 1
+ Max: 2208 100
+ Avg: 52.748
+FIFIIDYBYI
+ Total: 25961
+ Years: 494
+ 2419: 65
+ First: 1920 18
+ Last: 2419 65
+ Min: 2196 1
+ Max: 2409 100
+ Avg: 51.922
+PWUFEFPSFR
+ Total: 23936
+ Years: 491
+ 2419: 31
+ First: 1920 45
+ Last: 2419 31
+ Min: 2021 1
+ Max: 2341 100
+ Avg: 47.872
+QJEQCNIOLD
+ Total: 24239
+ Years: 494
+ 2419: 50
+ First: 1920 40
+ Last: 2419 50
+ Min: 1931 1
+ Max: 2386 100
+ Avg: 48.478
+NETVPVFKDF
+ Total: 24626
+ Years: 495
+ 2419: 35
+ First: 1920 85
+ Last: 2419 35
+ Min: 2055 1
+ Max: 2406 100
+ Avg: 49.252
+ROCCTCTJJM
+ Total: 25554
+ Years: 491
+ 2419: 24
+ First: 1920 50
+ Last: 2419 24
+ Min: 2202 1
+ Max: 2417 100
+ Avg: 51.108
+ZNOIXOAMJN
+ Total: 24867
+ Years: 496
+ 2419: 42
+ First: 1920 100
+ Last: 2419 42
+ Min: 2038 1
+ Max: 2319 100
+ Avg: 49.734
+YCVPGESGOV
+ Total: 24692
+ Years: 497
+ 2419: 37
+ First: 1920 29
+ Last: 2419 37
+ Min: 1990 1
+ Max: 2417 100
+ Avg: 49.384
+YZQGUQVIRR
+ Total: 25089
+ Years: 494
+ 2419: 88
+ First: 1920 89
+ Last: 2419 88
+ Min: 1941 1
+ Max: 2384 100
+ Avg: 50.178
+IHYQFWOILV
+ Total: 24329
+ Years: 495
+ 2419: 88
+ First: 1920 26
+ Last: 2419 88
+ Min: 2024 1
+ Max: 2415 100
+ Avg: 48.658
+RSNRJOZTEC
+ Total: 24414
+ Years: 494
+ 2419: 72
+ First: 1920 46
+ Last: 2419 72
+ Min: 2102 1
+ Max: 2405 100
+ Avg: 48.828
+UEXUUFQMAF
+ Total: 24678
+ Years: 495
+ 2419: 45
+ First: 1920 44
+ Last: 2419 45
+ Min: 1926 1
+ Max: 2359 100
+ Avg: 49.356
+TLYMLXUCKW
+ Total: 24371
+ Years: 496
+ 2419: 65
+ First: 1920 76
+ Last: 2419 65
+ Min: 2070 1
+ Max: 2189 100
+ Avg: 48.742
+WIKTUBPWXM
+ Total: 24789
+ Years: 498
+ 2419: 97
+ First: 1920 29
+ Last: 2419 97
+ Min: 2181 1
+ Max: 2335 100
+ Avg: 49.578
+GQUAEBSDJI
+ Total: 24932
+ Years: 496
+ 2419: 28
+ First: 1920 2
+ Last: 2419 28
+ Min: 2071 1
+ Max: 2292 100
+ Avg: 49.864
+AAJVRULJJC
+ Total: 25074
+ Years: 495
+ 2419: 32
+ First: 1920 10
+ Last: 2419 32
+ Min: 1995 1
+ Max: 2301 100
+ Avg: 50.148
+MDHAPAHDGK
+ Total: 25002
+ Years: 494
+ 2419: 51
+ First: 1920 85
+ Last: 2419 51
+ Min: 2003 1
+ Max: 2405 100
+ Avg: 50.004
+QRJZLOLZQC
+ Total: 24760
+ Years: 495
+ 2419: 39
+ First: 1920 29
+ Last: 2419 39
+ Min: 1981 1
+ Max: 2401 100
+ Avg: 49.52
+WXPJREZIAH
+ Total: 24288
+ Years: 496
+ 2419: 93
+ First: 1920 46
+ Last: 2419 93
+ Min: 2050 1
+ Max: 2395 100
+ Avg: 48.576
+LJZWFSXLEL
+ Total: 24995
+ Years: 495
+ 2419: 7
+ First: 1920 92
+ Last: 2419 7
+ Min: 1967 1
+ Max: 2368 100
+ Avg: 49.99
+GTDIPOUSOI
+ Total: 26555
+ Years: 496
+ 2419: 42
+ First: 1920 67
+ Last: 2419 42
+ Min: 1927 1
+ Max: 2382 100
+ Avg: 53.11
+UINEBRLPKB
+ Total: 25178
+ Years: 498
+ 2419: 38
+ First: 1920 40
+ Last: 2419 38
+ Min: 1947 1
+ Max: 2165 100
+ Avg: 50.356
+MUWVVASFMT
+ Total: 25344
+ Years: 495
+ 2419: 38
+ First: 1920 55
+ Last: 2419 38
+ Min: 1984 1
+ Max: 2397 100
+ Avg: 50.688
+GYXLKZTVOY
+ Total: 24561
+ Years: 494
+ 2419: 88
+ First: 1920 99
+ Last: 2419 88
+ Min: 1942 1
+ Max: 2390 100
+ Avg: 49.122
+BMBQRUUNJU
+ Total: 24406
+ Years: 494
+ 2419: 48
+ First: 1920 80
+ Last: 2419 48
+ Min: 1964 1
+ Max: 2407 100
+ Avg: 48.812
+OQJHXFVALH
+ Total: 26188
+ Years: 497
+ 2419: 96
+ First: 1920 93
+ Last: 2419 96
+ Min: 2103 1
+ Max: 2195 100
+ Avg: 52.376
+OWAUVGGPHG
+ Total: 24138
+ Years: 495
+ 2419: 22
+ First: 1920 36
+ Last: 2419 22
+ Min: 2063 1
+ Max: 2352 100
+ Avg: 48.276
+QCSQSBNQEA
+ Total: 24756
+ Years: 496
+ 2419: 88
+ First: 1920 6
+ Last: 2419 88
+ Min: 1950 1
+ Max: 2387 100
+ Avg: 49.512
+GIQKBRVNXG
+ Total: 25082
+ Years: 491
+ 2419: 82
+ First: 1920 1
+ Last: 2419 82
+ Min: 1920 1
+ Max: 2276 100
+ Avg: 50.164
+HVOEPATLAF
+ Total: 25147
+ Years: 495
+ 2419: 22
+ First: 1920 7
+ Last: 2419 22
+ Min: 1925 1
+ Max: 2244 100
+ Avg: 50.294
+HPRNRFPVKP
+ Total: 24505
+ Years: 496
+ 2419: 62
+ First: 1920 39
+ Last: 2419 62
+ Min: 2227 1
+ Max: 2169 100
+ Avg: 49.01
+EIGNJYAFWC
+ Total: 24577
+ Years: 496
+ 2419: 46
+ First: 1920 22
+ Last: 2419 46
+ Min: 1953 1
+ Max: 2288 100
+ Avg: 49.154
+IZHVPFRVBK
+ Total: 25605
+ Years: 497
+ 2419: 26
+ First: 1920 13
+ Last: 2419 26
+ Min: 2065 1
+ Max: 2366 100
+ Avg: 51.21
+TXFEBARTUJ
+ Total: 24972
+ Years: 493
+ 2419: 62
+ First: 1920 28
+ Last: 2419 62
+ Min: 1975 1
+ Max: 2392 100
+ Avg: 49.944
+YTFOILDXNJ
+ Total: 25340
+ Years: 499
+ 2419: 67
+ First: 1920 41
+ Last: 2419 67
+ Min: 1984 1
+ Max: 2299 100
+ Avg: 50.68
+YZHDKVMUUG
+ Total: 24560
+ Years: 497
+ 2419: 20
+ First: 1920 62
+ Last: 2419 20
+ Min: 2029 1
+ Max: 2138 100
+ Avg: 49.12
+LVENYDEDCW
+ Total: 25450
+ Years: 497
+ 2419: 42
+ First: 1920 47
+ Last: 2419 42
+ Min: 1938 1
+ Max: 2331 100
+ Avg: 50.9
+BBRFTEIDCZ
+ Total: 24021
+ Years: 490
+ 2419: 16
+ First: 1920 84
+ Last: 2419 16
+ Min: 2048 1
+ Max: 2205 100
+ Avg: 48.042
+TQESQUJRAD
+ Total: 25475
+ Years: 498
+ 2419: 96
+ First: 1920 85
+ Last: 2419 96
+ Min: 2003 1
+ Max: 2368 100
+ Avg: 50.95
+CQNZJFRWRT
+ Total: 25671
+ Years: 497
+ 2419: 88
+ First: 1920 66
+ Last: 2419 88
+ Min: 1969 1
+ Max: 2390 100
+ Avg: 51.342
+TEYPNYJIVF
+ Total: 25559
+ Years: 498
+ 2419: 69
+ First: 1920 37
+ Last: 2419 69
+ Min: 2089 1
+ Max: 2102 100
+ Avg: 51.118
+UEETXAWLQP
+ Total: 25748
+ Years: 497
+ 2419: 69
+ First: 1920 56
+ Last: 2419 69
+ Min: 1951 1
+ Max: 2413 100
+ Avg: 51.496
+XGQNLSEYYX
+ Total: 25943
+ Years: 490
+ 2419: 20
+ First: 1920 71
+ Last: 2419 20
+ Min: 1996 1
+ Max: 2404 100
+ Avg: 51.886
+QYCPNHPAVO
+ Total: 24713
+ Years: 495
+ 2419: 33
+ First: 1920 8
+ Last: 2419 33
+ Min: 2007 1
+ Max: 2414 100
+ Avg: 49.426
+ZQIKQSICWN
+ Total: 24991
+ Years: 495
+ 2419: 41
+ First: 1920 56
+ Last: 2419 41
+ Min: 2036 1
+ Max: 2406 100
+ Avg: 49.982
+GYCYYUIZLG
+ Total: 24902
+ Years: 495
+ 2419: 58
+ First: 1920 51
+ Last: 2419 58
+ Min: 1945 1
+ Max: 2253 100
+ Avg: 49.804
+CYNRERJBSY
+ Total: 24117
+ Years: 493
+ 2419: 98
+ First: 1920 70
+ Last: 2419 98
+ Min: 1964 1
+ Max: 2408 100
+ Avg: 48.234
+VKMJIIKPUX
+ Total: 24622
+ Years: 494
+ 2419: 14
+ First: 1920 85
+ Last: 2419 14
+ Min: 1941 1
+ Max: 2250 100
+ Avg: 49.244
+AFSFTDNIDH
+ Total: 25485
+ Years: 498
+ 2419: 98
+ First: 1920 23
+ Last: 2419 98
+ Min: 2051 1
+ Max: 2254 100
+ Avg: 50.97
+CGEYSZRGHS
+ Total: 25078
+ Years: 494
+ 2419: 80
+ First: 1920 31
+ Last: 2419 80
+ Min: 2135 1
+ Max: 2390 100
+ Avg: 50.156
+EMWDJSQQTD
+ Total: 25108
+ Years: 496
+ 2419: 90
+ First: 1920 89
+ Last: 2419 90
+ Min: 1972 1
+ Max: 2221 100
+ Avg: 50.216
+FJBJWPPCDK
+ Total: 25709
+ Years: 498
+ 2419: 6
+ First: 1920 11
+ Last: 2419 6
+ Min: 2024 1
+ Max: 2234 100
+ Avg: 51.418
+NQGZWSYMCY
+ Total: 25114
+ Years: 495
+ 2419: 54
+ First: 1920 28
+ Last: 2419 54
+ Min: 2145 1
+ Max: 2411 100
+ Avg: 50.228
+CDZKVFYXGY
+ Total: 25238
+ Years: 499
+ 2419: 5
+ First: 1920 31
+ Last: 2419 5
+ Min: 1934 1
+ Max: 2409 100
+ Avg: 50.476
+LXZMFQASLL
+ Total: 24694
+ Years: 488
+ 2419: 98
+ First: 1920 81
+ Last: 2419 98
+ Min: 2092 1
+ Max: 2380 100
+ Avg: 49.388
+ZESAAJKHTH
+ Total: 25257
+ Years: 493
+ 2419: 50
+ First: 1920 3
+ Last: 2419 50
+ Min: 1922 1
+ Max: 2408 100
+ Avg: 50.514
+NFAKQGIHIL
+ Total: 24728
+ Years: 497
+ 2419: 32
+ First: 1920 12
+ Last: 2419 32
+ Min: 1990 1
+ Max: 2398 100
+ Avg: 49.456
+XDATYSTLUM
+ Total: 24902
+ Years: 496
+ 2419: 38
+ First: 1920 48
+ Last: 2419 38
+ Min: 1936 1
+ Max: 2389 100
+ Avg: 49.804
+LEURXCYQNG
+ Total: 25657
+ Years: 499
+ 2419: 45
+ First: 1920 19
+ Last: 2419 45
+ Min: 1928 1
+ Max: 2331 100
+ Avg: 51.314
+JGBCPFRBPN
+ Total: 25233
+ Years: 496
+ 2419: 87
+ First: 1920 19
+ Last: 2419 87
+ Min: 2019 1
+ Max: 2383 100
+ Avg: 50.466
+XMMWYIWWHH
+ Total: 24216
+ Years: 491
+ 2419: 83
+ First: 1920 77
+ Last: 2419 83
+ Min: 1961 1
+ Max: 2407 100
+ Avg: 48.432
+UQRHHUJDGO
+ Total: 24898
+ Years: 493
+ 2419: 36
+ First: 1920 41
+ Last: 2419 36
+ Min: 1926 1
+ Max: 2354 100
+ Avg: 49.796
+ZFIIQZFILI
+ Total: 25699
+ Years: 497
+ 2419: 28
+ First: 1920 96
+ Last: 2419 28
+ Min: 2017 1
+ Max: 2412 100
+ Avg: 51.398
+SZGPBMSTWE
+ Total: 24837
+ Years: 496
+ 2419: 74
+ First: 1920 46
+ Last: 2419 74
+ Min: 1950 1
+ Max: 2315 100
+ Avg: 49.674
+VIWYRTMNYS
+ Total: 25226
+ Years: 493
+ 2419: 4
+ First: 1920 88
+ Last: 2419 4
+ Min: 1965 1
+ Max: 2298 100
+ Avg: 50.452
+FWOKCCUAPS
+ Total: 24184
+ Years: 495
+ 2419: 93
+ First: 1920 74
+ Last: 2419 93
+ Min: 1934 1
+ Max: 2209 100
+ Avg: 48.368
+ELBRGYQHFJ
+ Total: 24881
+ Years: 495
+ 2419: 100
+ First: 1920 4
+ Last: 2419 100
+ Min: 2029 1
+ Max: 2419 100
+ Avg: 49.762
+GLPGGAGJWU
+ Total: 25325
+ Years: 489
+ 2419: 0
+ First: 1920 29
+ Last: 2418 57
+ Min: 2126 1
+ Max: 2313 100
+ Avg: 50.65
+ITCXEPZANL
+ Total: 25245
+ Years: 496
+ 2419: 58
+ First: 1920 54
+ Last: 2419 58
+ Min: 1965 1
+ Max: 2149 100
+ Avg: 50.49
+KXNEQCFAZC
+ Total: 23517
+ Years: 495
+ 2419: 35
+ First: 1920 30
+ Last: 2419 35
+ Min: 2223 1
+ Max: 2377 100
+ Avg: 47.034
+DZRAVEINIS
+ Total: 23629
+ Years: 496
+ 2419: 68
+ First: 1920 95
+ Last: 2419 68
+ Min: 1985 1
+ Max: 2404 100
+ Avg: 47.258
+AXTSYJVFEN
+ Total: 25364
+ Years: 496
+ 2419: 2
+ First: 1920 34
+ Last: 2419 2
+ Min: 2072 1
+ Max: 2365 100
+ Avg: 50.728
+WWZLOFBMFO
+ Total: 24335
+ Years: 490
+ 2419: 27
+ First: 1920 70
+ Last: 2419 27
+ Min: 2099 1
+ Max: 2377 100
+ Avg: 48.67
+AIOKRTTNOC
+ Total: 26419
+ Years: 497
+ 2419: 81
+ First: 1920 1
+ Last: 2419 81
+ Min: 1920 1
+ Max: 2400 100
+ Avg: 52.838
+PNQIQBSNGR
+ Total: 24424
+ Years: 494
+ 2419: 52
+ First: 1920 2
+ Last: 2419 52
+ Min: 1966 1
+ Max: 2172 100
+ Avg: 48.848
+GALGCDQYPU
+ Total: 25351
+ Years: 497
+ 2419: 84
+ First: 1920 18
+ Last: 2419 84
+ Min: 1931 1
+ Max: 2226 100
+ Avg: 50.702
+GRDNWDVFGF
+ Total: 25744
+ Years: 496
+ 2419: 43
+ First: 1920 7
+ Last: 2419 43
+ Min: 1941 1
+ Max: 2367 100
+ Avg: 51.488
+RNCNHNDLYD
+ Total: 25421
+ Years: 494
+ 2419: 74
+ First: 1920 69
+ Last: 2419 74
+ Min: 1975 1
+ Max: 2392 100
+ Avg: 50.842
+RLIRSBNJIR
+ Total: 24565
+ Years: 497
+ 2419: 97
+ First: 1920 76
+ Last: 2419 97
+ Min: 1937 1
+ Max: 2345 100
+ Avg: 49.13
+FYSCLDNFCY
+ Total: 25193
+ Years: 495
+ 2419: 9
+ First: 1920 24
+ Last: 2419 9
+ Min: 2293 1
+ Max: 2401 100
+ Avg: 50.386
+SKWISRIOJO
+ Total: 25473
+ Years: 496
+ 2419: 9
+ First: 1920 74
+ Last: 2419 9
+ Min: 2198 1
+ Max: 2298 100
+ Avg: 50.946
+ISGPGASSZD
+ Total: 25127
+ Years: 493
+ 2419: 29
+ First: 1920 13
+ Last: 2419 29
+ Min: 1965 1
+ Max: 2411 100
+ Avg: 50.254
+ATHIZDJOIZ
+ Total: 25615
+ Years: 495
+ 2419: 18
+ First: 1920 53
+ Last: 2419 18
+ Min: 1921 1
+ Max: 2385 100
+ Avg: 51.23
+SZBTSOUXDG
+ Total: 25094
+ Years: 495
+ 2419: 56
+ First: 1920 76
+ Last: 2419 56
+ Min: 1946 1
+ Max: 2403 100
+ Avg: 50.188
+YJYWLFLRPE
+ Total: 25354
+ Years: 498
+ 2419: 99
+ First: 1920 67
+ Last: 2419 99
+ Min: 2108 1
+ Max: 2402 100
+ Avg: 50.708
+SVIVWEWSXH
+ Total: 24389
+ Years: 494
+ 2419: 35
+ First: 1920 77
+ Last: 2419 35
+ Min: 1975 1
+ Max: 2251 100
+ Avg: 48.778
+ISRMFVPMUZ
+ Total: 24700
+ Years: 492
+ 2419: 38
+ First: 1920 83
+ Last: 2419 38
+ Min: 2140 1
+ Max: 2188 100
+ Avg: 49.4
+UBOSXMGYXZ
+ Total: 24778
+ Years: 497
+ 2419: 18
+ First: 1920 4
+ Last: 2419 18
+ Min: 2081 1
+ Max: 2406 100
+ Avg: 49.556
+QQEJMKIKZI
+ Total: 24131
+ Years: 493
+ 2419: 69
+ First: 1920 5
+ Last: 2419 69
+ Min: 2065 1
+ Max: 2342 100
+ Avg: 48.262
+HHKNWUJKIR
+ Total: 26200
+ Years: 498
+ 2419: 14
+ First: 1920 66
+ Last: 2419 14
+ Min: 1925 1
+ Max: 2384 100
+ Avg: 52.4
+OCDTSVDLOV
+ Total: 24077
+ Years: 493
+ 2419: 45
+ First: 1920 60
+ Last: 2419 45
+ Min: 1958 1
+ Max: 2398 100
+ Avg: 48.154
+ZXNUIMTFQD
+ Total: 24907
+ Years: 497
+ 2419: 88
+ First: 1920 79
+ Last: 2419 88
+ Min: 2026 1
+ Max: 2353 100
+ Avg: 49.814
+HYQCPXYVSF
+ Total: 24758
+ Years: 498
+ 2419: 17
+ First: 1920 88
+ Last: 2419 17
+ Min: 1931 1
+ Max: 2070 100
+ Avg: 49.516
+FIWQVWRIRW
+ Total: 24778
+ Years: 493
+ 2419: 61
+ First: 1920 94
+ Last: 2419 61
+ Min: 1993 1
+ Max: 2400 100
+ Avg: 49.556
+YVPBCFJXYF
+ Total: 25280
+ Years: 496
+ 2419: 9
+ First: 1920 84
+ Last: 2419 9
+ Min: 2077 1
+ Max: 2399 100
+ Avg: 50.56
+PUDEYPAFRI
+ Total: 24756
+ Years: 494
+ 2419: 82
+ First: 1920 72
+ Last: 2419 82
+ Min: 2025 1
+ Max: 2110 100
+ Avg: 49.512
+WCGLPAASEK
+ Total: 25374
+ Years: 496
+ 2419: 84
+ First: 1920 64
+ Last: 2419 84
+ Min: 2026 1
+ Max: 2352 100
+ Avg: 50.748
+EJGLDHQCVD
+ Total: 25780
+ Years: 496
+ 2419: 41
+ First: 1920 3
+ Last: 2419 41
+ Min: 1921 1
+ Max: 2213 100
+ Avg: 51.56
+RVXUGFYMEE
+ Total: 26598
+ Years: 495
+ 2419: 19
+ First: 1920 97
+ Last: 2419 19
+ Min: 1990 1
+ Max: 2396 100
+ Avg: 53.196
+LGEKAIHBFE
+ Total: 25211
+ Years: 498
+ 2419: 4
+ First: 1920 11
+ Last: 2419 4
+ Min: 2099 1
+ Max: 2204 100
+ Avg: 50.422
+PIFPTVEJMF
+ Total: 24112
+ Years: 490
+ 2419: 61
+ First: 1920 90
+ Last: 2419 61
+ Min: 2193 1
+ Max: 2370 100
+ Avg: 48.224
+LVNYRJNDWX
+ Total: 25922
+ Years: 495
+ 2419: 40
+ First: 1920 34
+ Last: 2419 40
+ Min: 1924 1
+ Max: 2382 100
+ Avg: 51.844
+RXEAGGKVBW
+ Total: 24628
+ Years: 496
+ 2419: 59
+ First: 1920 30
+ Last: 2419 59
+ Min: 1999 1
+ Max: 2209 100
+ Avg: 49.256
+LVLVNNXAOP
+ Total: 24582
+ Years: 496
+ 2419: 81
+ First: 1920 38
+ Last: 2419 81
+ Min: 1930 1
+ Max: 2157 100
+ Avg: 49.164
+MHOSHNUIYY
+ Total: 25048
+ Years: 495
+ 2419: 93
+ First: 1920 32
+ Last: 2419 93
+ Min: 2061 1
+ Max: 2254 100
+ Avg: 50.096
+UVNZDDOMBZ
+ Total: 25132
+ Years: 495
+ 2419: 77
+ First: 1920 61
+ Last: 2419 77
+ Min: 1949 1
+ Max: 2352 100
+ Avg: 50.264
+VUDTLDMZPH
+ Total: 25146
+ Years: 498
+ 2419: 59
+ First: 1920 87
+ Last: 2419 59
+ Min: 1959 1
+ Max: 2407 100
+ Avg: 50.292
+CNZLMRCJPX
+ Total: 24768
+ Years: 494
+ 2419: 60
+ First: 1920 95
+ Last: 2419 60
+ Min: 2061 1
+ Max: 2277 100
+ Avg: 49.536
+PFQZKVAHOQ
+ Total: 25106
+ Years: 497
+ 2419: 38
+ First: 1920 7
+ Last: 2419 38
+ Min: 1969 1
+ Max: 2363 100
+ Avg: 50.212
+KMUVFFYTSX
+ Total: 26051
+ Years: 495
+ 2419: 97
+ First: 1920 62
+ Last: 2419 97
+ Min: 2019 1
+ Max: 2269 100
+ Avg: 52.102
+SEVVSFJMWL
+ Total: 25700
+ Years: 495
+ 2419: 73
+ First: 1920 73
+ Last: 2419 73
+ Min: 2132 1
+ Max: 2409 100
+ Avg: 51.4
+YEHCFNNNRL
+ Total: 24640
+ Years: 496
+ 2419: 5
+ First: 1920 22
+ Last: 2419 5
+ Min: 1931 1
+ Max: 2378 100
+ Avg: 49.28
+NBDEWNARYI
+ Total: 24342
+ Years: 495
+ 2419: 4
+ First: 1920 48
+ Last: 2419 4
+ Min: 2026 1
+ Max: 2230 100
+ Avg: 48.684
+OHYHDXDFXE
+ Total: 24709
+ Years: 497
+ 2419: 92
+ First: 1920 59
+ Last: 2419 92
+ Min: 2020 1
+ Max: 2258 100
+ Avg: 49.418
+VXGBYCEJWI
+ Total: 24258
+ Years: 493
+ 2419: 31
+ First: 1920 21
+ Last: 2419 31
+ Min: 2059 1
+ Max: 2355 100
+ Avg: 48.516
+KZOXYCBSVE
+ Total: 24347
+ Years: 495
+ 2419: 49
+ First: 1920 60
+ Last: 2419 49
+ Min: 2238 1
+ Max: 2416 100
+ Avg: 48.694
+VIOIBHKMFU
+ Total: 24344
+ Years: 494
+ 2419: 2
+ First: 1920 20
+ Last: 2419 2
+ Min: 1922 1
+ Max: 2264 100
+ Avg: 48.688
+KYLNADITGV
+ Total: 25579
+ Years: 498
+ 2419: 18
+ First: 1920 87
+ Last: 2419 18
+ Min: 1999 1
+ Max: 2405 100
+ Avg: 51.158
+CZGFDQOYXZ
+ Total: 25731
+ Years: 492
+ 2419: 16
+ First: 1920 85
+ Last: 2419 16
+ Min: 2095 1
+ Max: 2267 100
+ Avg: 51.462
+BYRZKGMMUW
+ Total: 24777
+ Years: 498
+ 2419: 93
+ First: 1920 97
+ Last: 2419 93
+ Min: 1953 1
+ Max: 2376 100
+ Avg: 49.554
+UEKOJDNVTT
+ Total: 24598
+ Years: 496
+ 2419: 72
+ First: 1920 28
+ Last: 2419 72
+ Min: 1962 1
+ Max: 2386 100
+ Avg: 49.196
+ESTCFOUTIS
+ Total: 24918
+ Years: 491
+ 2419: 100
+ First: 1920 52
+ Last: 2419 100
+ Min: 2102 1
+ Max: 2419 100
+ Avg: 49.836
+WIJPOJCGSW
+ Total: 24852
+ Years: 498
+ 2419: 11
+ First: 1920 94
+ Last: 2419 11
+ Min: 1957 1
+ Max: 2324 100
+ Avg: 49.704
+YIWYLXLDCY
+ Total: 25811
+ Years: 499
+ 2419: 84
+ First: 1920 40
+ Last: 2419 84
+ Min: 2267 1
+ Max: 2380 100
+ Avg: 51.622
+FDSQVTFRZR
+ Total: 25421
+ Years: 499
+ 2419: 34
+ First: 1920 22
+ Last: 2419 34
+ Min: 2097 1
+ Max: 2328 100
+ Avg: 50.842
+OLLXKITCBU
+ Total: 25634
+ Years: 496
+ 2419: 60
+ First: 1920 78
+ Last: 2419 60
+ Min: 1962 1
+ Max: 2410 100
+ Avg: 51.268
+SSVYWNDFEB
+ Total: 24647
+ Years: 496
+ 2419: 90
+ First: 1920 35
+ Last: 2419 90
+ Min: 1987 1
+ Max: 2378 100
+ Avg: 49.294
+MJXFZKGDLL
+ Total: 25425
+ Years: 495
+ 2419: 36
+ First: 1920 58
+ Last: 2419 36
+ Min: 1947 1
+ Max: 2391 100
+ Avg: 50.85
+WXFRWLCSTG
+ Total: 24428
+ Years: 495
+ 2419: 84
+ First: 1920 99
+ Last: 2419 84
+ Min: 1952 1
+ Max: 2414 100
+ Avg: 48.856
+XAQDZRACZA
+ Total: 24754
+ Years: 495
+ 2419: 3
+ First: 1920 83
+ Last: 2419 3
+ Min: 1961 1
+ Max: 2295 100
+ Avg: 49.508
+BCHHHCNHNM
+ Total: 25448
+ Years: 495
+ 2419: 87
+ First: 1920 7
+ Last: 2419 87
+ Min: 2167 1
+ Max: 2137 99
+ Avg: 50.896
+VQGJWAMPPA
+ Total: 25673
+ Years: 497
+ 2419: 44
+ First: 1920 57
+ Last: 2419 44
+ Min: 1921 1
+ Max: 2393 100
+ Avg: 51.346
+POIWLVSKQF
+ Total: 23955
+ Years: 497
+ 2419: 73
+ First: 1920 76
+ Last: 2419 73
+ Min: 1983 1
+ Max: 2389 100
+ Avg: 47.91
+VBMOYOAISN
+ Total: 24728
+ Years: 498
+ 2419: 63
+ First: 1920 77
+ Last: 2419 63
+ Min: 1975 1
+ Max: 2326 100
+ Avg: 49.456
+XJJIVZDUVD
+ Total: 25468
+ Years: 495
+ 2419: 7
+ First: 1920 9
+ Last: 2419 7
+ Min: 1979 1
+ Max: 2336 100
+ Avg: 50.936
+TYMVYHHWWA
+ Total: 25647
+ Years: 494
+ 2419: 57
+ First: 1920 68
+ Last: 2419 57
+ Min: 2001 1
+ Max: 2364 100
+ Avg: 51.294
+WBSLOAAJLA
+ Total: 25108
+ Years: 495
+ 2419: 32
+ First: 1920 60
+ Last: 2419 32
+ Min: 1944 1
+ Max: 2385 100
+ Avg: 50.216
+KUUUHORATN
+ Total: 24270
+ Years: 490
+ 2419: 15
+ First: 1920 98
+ Last: 2419 15
+ Min: 1927 1
+ Max: 2292 100
+ Avg: 48.54
+LXIEFYIIPH
+ Total: 24538
+ Years: 495
+ 2419: 68
+ First: 1920 56
+ Last: 2419 68
+ Min: 1965 1
+ Max: 2342 100
+ Avg: 49.076
+SUWHKPQQYH
+ Total: 24994
+ Years: 497
+ 2419: 47
+ First: 1920 29
+ Last: 2419 47
+ Min: 1969 1
+ Max: 2418 100
+ Avg: 49.988
+MRZAKFYFJJ
+ Total: 23185
+ Years: 495
+ 2419: 30
+ First: 1920 73
+ Last: 2419 30
+ Min: 2012 1
+ Max: 2311 100
+ Avg: 46.37
+XMEBUXMCQR
+ Total: 24966
+ Years: 489
+ 2419: 16
+ First: 1920 90
+ Last: 2419 16
+ Min: 1924 1
+ Max: 2221 100
+ Avg: 49.932
+ESIBGWANLS
+ Total: 24520
+ Years: 495
+ 2419: 48
+ First: 1920 4
+ Last: 2419 48
+ Min: 2008 1
+ Max: 2369 100
+ Avg: 49.04
+TGZVWJTUHK
+ Total: 26153
+ Years: 496
+ 2419: 6
+ First: 1920 28
+ Last: 2419 6
+ Min: 2065 1
+ Max: 2415 100
+ Avg: 52.306
+BONINRNFKU
+ Total: 25354
+ Years: 495
+ 2419: 2
+ First: 1920 92
+ Last: 2419 2
+ Min: 1923 1
+ Max: 2406 100
+ Avg: 50.708
+YTPPSJCGJW
+ Total: 25495
+ Years: 492
+ 2419: 23
+ First: 1920 81
+ Last: 2419 23
+ Min: 2025 1
+ Max: 2290 100
+ Avg: 50.99
+IGQRMXQZLJ
+ Total: 25217
+ Years: 497
+ 2419: 2
+ First: 1920 25
+ Last: 2419 2
+ Min: 2054 1
+ Max: 2393 100
+ Avg: 50.434
+HABXAYKCCV
+ Total: 25131
+ Years: 498
+ 2419: 48
+ First: 1920 94
+ Last: 2419 48
+ Min: 2126 1
+ Max: 2413 100
+ Avg: 50.262
+GSTYWSCZOR
+ Total: 25060
+ Years: 496
+ 2419: 77
+ First: 1920 59
+ Last: 2419 77
+ Min: 1947 1
+ Max: 2391 100
+ Avg: 50.12
+DNKXMNLWOD
+ Total: 24880
+ Years: 498
+ 2419: 13
+ First: 1920 95
+ Last: 2419 13
+ Min: 1943 1
+ Max: 2316 100
+ Avg: 49.76
+UZBWBECJRM
+ Total: 25938
+ Years: 494
+ 2419: 19
+ First: 1920 44
+ Last: 2419 19
+ Min: 1933 1
+ Max: 2172 100
+ Avg: 51.876
+TRPVMTMVLK
+ Total: 25483
+ Years: 495
+ 2419: 70
+ First: 1920 65
+ Last: 2419 70
+ Min: 2007 1
+ Max: 2368 100
+ Avg: 50.966
+JMBFWGQVPW
+ Total: 24380
+ Years: 498
+ 2419: 26
+ First: 1920 96
+ Last: 2419 26
+ Min: 1937 1
+ Max: 2392 100
+ Avg: 48.76
+EMRBVFHTCA
+ Total: 23757
+ Years: 494
+ 2419: 23
+ First: 1920 76
+ Last: 2419 23
+ Min: 2084 1
+ Max: 2353 100
+ Avg: 47.514
+JWZTWKKDTE
+ Total: 25448
+ Years: 498
+ 2419: 1
+ First: 1920 62
+ Last: 2419 1
+ Min: 1933 1
+ Max: 2326 100
+ Avg: 50.896
+YMKJEKACDQ
+ Total: 25790
+ Years: 497
+ 2419: 43
+ First: 1920 37
+ Last: 2419 43
+ Min: 2060 1
+ Max: 2387 100
+ Avg: 51.58
+KBKKMRYYQW
+ Total: 24898
+ Years: 494
+ 2419: 64
+ First: 1920 58
+ Last: 2419 64
+ Min: 1967 1
+ Max: 2343 100
+ Avg: 49.796
+RYXQBZOZAG
+ Total: 25398
+ Years: 500
+ 2419: 67
+ First: 1920 91
+ Last: 2419 67
+ Min: 1944 1
+ Max: 2356 100
+ Avg: 50.796
+VSPWKOPWYS
+ Total: 24550
+ Years: 493
+ 2419: 68
+ First: 1920 12
+ Last: 2419 68
+ Min: 2051 1
+ Max: 2350 100
+ Avg: 49.1
+NYEFHDJEUC
+ Total: 24055
+ Years: 496
+ 2419: 61
+ First: 1920 46
+ Last: 2419 61
+ Min: 2051 1
+ Max: 2401 100
+ Avg: 48.11
+HCRECRDCKO
+ Total: 24009
+ Years: 495
+ 2419: 13
+ First: 1920 56
+ Last: 2419 13
+ Min: 1962 1
+ Max: 2273 100
+ Avg: 48.018
+BCANGPMUFN
+ Total: 24613
+ Years: 492
+ 2419: 56
+ First: 1921 93
+ Last: 2419 56
+ Min: 1960 1
+ Max: 2124 100
+ Avg: 49.226
+HAMNUVMKRN
+ Total: 24586
+ Years: 496
+ 2419: 42
+ First: 1920 94
+ Last: 2419 42
+ Min: 1966 1
+ Max: 2351 100
+ Avg: 49.172
+ZLTSTQFELL
+ Total: 24363
+ Years: 494
+ 2419: 27
+ First: 1920 29
+ Last: 2419 27
+ Min: 1938 1
+ Max: 2356 100
+ Avg: 48.726
+ZOXJEWZGEL
+ Total: 23983
+ Years: 491
+ 2419: 92
+ First: 1921 32
+ Last: 2419 92
+ Min: 2034 1
+ Max: 2348 100
+ Avg: 47.966
+YPNIVTPMHE
+ Total: 23287
+ Years: 497
+ 2419: 13
+ First: 1920 58
+ Last: 2419 13
+ Min: 1953 1
+ Max: 2256 100
+ Avg: 46.574
+IJLQWNZBMK
+ Total: 24987
+ Years: 494
+ 2419: 67
+ First: 1920 25
+ Last: 2419 67
+ Min: 2012 1
+ Max: 1983 100
+ Avg: 49.974
+JMBCXGHRGI
+ Total: 25196
+ Years: 493
+ 2419: 100
+ First: 1921 47
+ Last: 2419 100
+ Min: 1935 1
+ Max: 2419 100
+ Avg: 50.392
+ZNTRYJJWUY
+ Total: 25848
+ Years: 498
+ 2419: 37
+ First: 1920 3
+ Last: 2419 37
+ Min: 1928 1
+ Max: 2411 100
+ Avg: 51.696
+DLWRLEGLWZ
+ Total: 25154
+ Years: 496
+ 2419: 42
+ First: 1920 77
+ Last: 2419 42
+ Min: 2006 1
+ Max: 2373 100
+ Avg: 50.308
+WFGDMWABRW
+ Total: 25595
+ Years: 495
+ 2419: 38
+ First: 1920 23
+ Last: 2419 38
+ Min: 1967 1
+ Max: 2370 100
+ Avg: 51.19
+ZKVGCTDHRE
+ Total: 25346
+ Years: 495
+ 2419: 35
+ First: 1920 23
+ Last: 2419 35
+ Min: 2051 1
+ Max: 2024 100
+ Avg: 50.692
+SQYSCLCOGS
+ Total: 24101
+ Years: 492
+ 2419: 51
+ First: 1920 16
+ Last: 2419 51
+ Min: 1952 1
+ Max: 2220 100
+ Avg: 48.202
+EKSATRGZAB
+ Total: 24699
+ Years: 494
+ 2419: 45
+ First: 1920 51
+ Last: 2419 45
+ Min: 2296 1
+ Max: 2365 100
+ Avg: 49.398
+PZIJLCOMGP
+ Total: 24706
+ Years: 497
+ 2419: 71
+ First: 1920 27
+ Last: 2419 71
+ Min: 1973 1
+ Max: 2170 100
+ Avg: 49.412
+EBADHEPAUR
+ Total: 24909
+ Years: 497
+ 2419: 24
+ First: 1920 60
+ Last: 2419 24
+ Min: 1927 1
+ Max: 2393 100
+ Avg: 49.818
+RCVAYHYQXM
+ Total: 23555
+ Years: 495
+ 2419: 27
+ First: 1920 6
+ Last: 2419 27
+ Min: 1960 1
+ Max: 2418 100
+ Avg: 47.11
+JMCCUZWCNO
+ Total: 25246
+ Years: 493
+ 2419: 48
+ First: 1920 57
+ Last: 2419 48
+ Min: 2039 1
+ Max: 2414 100
+ Avg: 50.492
+KIROVEVLSX
+ Total: 26191
+ Years: 494
+ 2419: 91
+ First: 1920 20
+ Last: 2419 91
+ Min: 2374 1
+ Max: 2228 100
+ Avg: 52.382
+TKGWYSLLLQ
+ Total: 24499
+ Years: 493
+ 2419: 11
+ First: 1920 9
+ Last: 2419 11
+ Min: 2131 1
+ Max: 2233 100
+ Avg: 48.998
+SFLUIIRIXL
+ Total: 24298
+ Years: 496
+ 2419: 33
+ First: 1920 60
+ Last: 2419 33
+ Min: 1923 1
+ Max: 2408 100
+ Avg: 48.596
+IZQUWJFZPR
+ Total: 24174
+ Years: 492
+ 2419: 85
+ First: 1920 18
+ Last: 2419 85
+ Min: 1943 1
+ Max: 2386 100
+ Avg: 48.348
+AZCHMERMFR
+ Total: 25858
+ Years: 492
+ 2419: 90
+ First: 1920 58
+ Last: 2419 90
+ Min: 1978 1
+ Max: 2282 100
+ Avg: 51.716
+GRALZAVKVV
+ Total: 26317
+ Years: 499
+ 2419: 87
+ First: 1920 23
+ Last: 2419 87
+ Min: 2105 1
+ Max: 2331 100
+ Avg: 52.634
+NPTONBJBPD
+ Total: 25620
+ Years: 498
+ 2419: 10
+ First: 1920 56
+ Last: 2419 10
+ Min: 1982 1
+ Max: 2287 100
+ Avg: 51.24
+TQLWVAWTBX
+ Total: 25437
+ Years: 497
+ 2419: 81
+ First: 1920 42
+ Last: 2419 81
+ Min: 1963 1
+ Max: 2085 100
+ Avg: 50.874
+WANNMOVGKN
+ Total: 24583
+ Years: 496
+ 2419: 14
+ First: 1920 10
+ Last: 2419 14
+ Min: 1960 1
+ Max: 2192 100
+ Avg: 49.166
+QDOENQHJTB
+ Total: 24367
+ Years: 495
+ 2419: 39
+ First: 1921 4
+ Last: 2419 39
+ Min: 2216 1
+ Max: 2318 100
+ Avg: 48.734
+GUAPUUKPKR
+ Total: 24989
+ Years: 499
+ 2419: 62
+ First: 1920 58
+ Last: 2419 62
+ Min: 1970 1
+ Max: 2250 100
+ Avg: 49.978
+WEFSJCRWWN
+ Total: 25161
+ Years: 497
+ 2419: 49
+ First: 1920 96
+ Last: 2419 49
+ Min: 1983 1
+ Max: 2370 100
+ Avg: 50.322
+EJCSWPVXLF
+ Total: 24795
+ Years: 493
+ 2419: 22
+ First: 1920 5
+ Last: 2419 22
+ Min: 1921 1
+ Max: 2331 100
+ Avg: 49.59
+ZEHFSYEQIF
+ Total: 25680
+ Years: 495
+ 2419: 41
+ First: 1920 16
+ Last: 2419 41
+ Min: 1936 1
+ Max: 2222 100
+ Avg: 51.36
+GWDEBOEIOF
+ Total: 24900
+ Years: 495
+ 2419: 96
+ First: 1920 47
+ Last: 2419 96
+ Min: 2076 1
+ Max: 2366 100
+ Avg: 49.8
+IRNWYYFWJG
+ Total: 25474
+ Years: 498
+ 2419: 19
+ First: 1920 69
+ Last: 2419 19
+ Min: 2119 1
+ Max: 2367 100
+ Avg: 50.948
+LOEJKQWXYR
+ Total: 24658
+ Years: 494
+ 2419: 90
+ First: 1920 28
+ Last: 2419 90
+ Min: 1923 1
+ Max: 2081 100
+ Avg: 49.316
+QWZJIXVYLS
+ Total: 24759
+ Years: 499
+ 2419: 86
+ First: 1920 27
+ Last: 2419 86
+ Min: 1941 1
+ Max: 2224 100
+ Avg: 49.518
+DLECQHTLON
+ Total: 24634
+ Years: 497
+ 2419: 72
+ First: 1920 78
+ Last: 2419 72
+ Min: 1963 1
+ Max: 2403 100
+ Avg: 49.268
+LMQVPGLSJE
+ Total: 24531
+ Years: 495
+ 2419: 24
+ First: 1920 85
+ Last: 2419 24
+ Min: 2000 1
+ Max: 2394 100
+ Avg: 49.062
+NYSEIGUPDC
+ Total: 25556
+ Years: 496
+ 2419: 16
+ First: 1920 67
+ Last: 2419 16
+ Min: 1994 1
+ Max: 2418 100
+ Avg: 51.112
+WKDQKABACF
+ Total: 25583
+ Years: 495
+ 2419: 2
+ First: 1920 71
+ Last: 2419 2
+ Min: 2024 1
+ Max: 2363 100
+ Avg: 51.166
+GZJLTTNMSJ
+ Total: 24707
+ Years: 495
+ 2419: 40
+ First: 1920 77
+ Last: 2419 40
+ Min: 1941 1
+ Max: 2263 100
+ Avg: 49.414
+IRONUOAWTA
+ Total: 25244
+ Years: 497
+ 2419: 44
+ First: 1920 7
+ Last: 2419 44
+ Min: 2095 1
+ Max: 2343 100
+ Avg: 50.488
+TIHAZTVLRQ
+ Total: 25571
+ Years: 499
+ 2419: 12
+ First: 1920 37
+ Last: 2419 12
+ Min: 1962 1
+ Max: 2367 100
+ Avg: 51.142
+XRMTRHQEGT
+ Total: 25028
+ Years: 497
+ 2419: 81
+ First: 1920 35
+ Last: 2419 81
+ Min: 1995 1
+ Max: 2264 100
+ Avg: 50.056
+PEXUIQFKOB
+ Total: 24689
+ Years: 498
+ 2419: 73
+ First: 1920 96
+ Last: 2419 73
+ Min: 2087 1
+ Max: 2230 100
+ Avg: 49.378
+YFHFAGUBEV
+ Total: 25628
+ Years: 492
+ 2419: 61
+ First: 1920 14
+ Last: 2419 61
+ Min: 1988 1
+ Max: 2392 100
+ Avg: 51.256
+WIROWLVNDB
+ Total: 25032
+ Years: 493
+ 2419: 4
+ First: 1920 74
+ Last: 2419 4
+ Min: 1994 1
+ Max: 2298 100
+ Avg: 50.064
+WCIUYIDFPT
+ Total: 25430
+ Years: 494
+ 2419: 95
+ First: 1920 71
+ Last: 2419 95
+ Min: 2251 1
+ Max: 2192 100
+ Avg: 50.86
+JZKYEAEMJF
+ Total: 24660
+ Years: 495
+ 2419: 25
+ First: 1920 82
+ Last: 2419 25
+ Min: 1959 1
+ Max: 2417 100
+ Avg: 49.32
+RPVTGTSHWY
+ Total: 26793
+ Years: 494
+ 2419: 75
+ First: 1920 60
+ Last: 2419 75
+ Min: 2340 1
+ Max: 2410 100
+ Avg: 53.586
+FBGOWUEUKB
+ Total: 24352
+ Years: 496
+ 2419: 82
+ First: 1920 19
+ Last: 2419 82
+ Min: 1934 1
+ Max: 2362 100
+ Avg: 48.704
+VZHBGLQZEW
+ Total: 25768
+ Years: 495
+ 2419: 45
+ First: 1920 86
+ Last: 2419 45
+ Min: 2011 1
+ Max: 2362 100
+ Avg: 51.536
+UGIJSNKEHY
+ Total: 25243
+ Years: 496
+ 2419: 8
+ First: 1920 4
+ Last: 2419 8
+ Min: 2003 1
+ Max: 2403 100
+ Avg: 50.486
+PHBVJNHKNQ
+ Total: 25189
+ Years: 495
+ 2419: 34
+ First: 1920 85
+ Last: 2419 34
+ Min: 1924 1
+ Max: 2363 100
+ Avg: 50.378
+LVFJMCYZCQ
+ Total: 24464
+ Years: 494
+ 2419: 12
+ First: 1920 52
+ Last: 2419 12
+ Min: 1985 1
+ Max: 2331 100
+ Avg: 48.928
+DZNHMLWGUG
+ Total: 25622
+ Years: 491
+ 2419: 77
+ First: 1920 77
+ Last: 2419 77
+ Min: 2013 1
+ Max: 2369 100
+ Avg: 51.244
+JXKRSEOQBA
+ Total: 25327
+ Years: 498
+ 2419: 29
+ First: 1920 1
+ Last: 2419 29
+ Min: 1920 1
+ Max: 2361 100
+ Avg: 50.654
+CLUEFCFWIE
+ Total: 25559
+ Years: 496
+ 2419: 58
+ First: 1920 61
+ Last: 2419 58
+ Min: 1928 1
+ Max: 2389 100
+ Avg: 51.118
+HSPWDXAFMH
+ Total: 25400
+ Years: 498
+ 2419: 6
+ First: 1920 53
+ Last: 2419 6
+ Min: 1992 1
+ Max: 2406 100
+ Avg: 50.8
+PAAQKCUYHU
+ Total: 24496
+ Years: 497
+ 2419: 50
+ First: 1920 77
+ Last: 2419 50
+ Min: 1921 1
+ Max: 2032 100
+ Avg: 48.992
+EMUKGNFWBP
+ Total: 25405
+ Years: 496
+ 2419: 86
+ First: 1920 36
+ Last: 2419 86
+ Min: 2034 1
+ Max: 2346 100
+ Avg: 50.81
+ZMVBHQVIYL
+ Total: 24918
+ Years: 493
+ 2419: 22
+ First: 1920 41
+ Last: 2419 22
+ Min: 2045 1
+ Max: 2055 100
+ Avg: 49.836
+UAPMUPDYVM
+ Total: 24277
+ Years: 493
+ 2419: 9
+ First: 1920 63
+ Last: 2419 9
+ Min: 1932 1
+ Max: 2341 100
+ Avg: 48.554
+KZPHTMDRBD
+ Total: 24999
+ Years: 497
+ 2419: 7
+ First: 1920 65
+ Last: 2419 7
+ Min: 2109 1
+ Max: 2194 100
+ Avg: 49.998
+XTUDXQMGFS
+ Total: 26300
+ Years: 495
+ 2419: 87
+ First: 1920 74
+ Last: 2419 87
+ Min: 1980 1
+ Max: 2340 100
+ Avg: 52.6
+FCSPNGZQOO
+ Total: 23737
+ Years: 497
+ 2419: 5
+ First: 1920 30
+ Last: 2419 5
+ Min: 1956 1
+ Max: 2245 100
+ Avg: 47.474
+RVXBVECANZ
+ Total: 24334
+ Years: 492
+ 2419: 70
+ First: 1920 35
+ Last: 2419 70
+ Min: 2115 1
+ Max: 2312 100
+ Avg: 48.668
+ZYROAXRKPQ
+ Total: 24924
+ Years: 495
+ 2419: 97
+ First: 1920 82
+ Last: 2419 97
+ Min: 1945 1
+ Max: 2404 100
+ Avg: 49.848
+SWBLEQQVES
+ Total: 24796
+ Years: 495
+ 2419: 14
+ First: 1920 82
+ Last: 2419 14
+ Min: 2033 1
+ Max: 2355 100
+ Avg: 49.592
+JPVNORZYFI
+ Total: 25338
+ Years: 494
+ 2419: 37
+ First: 1920 12
+ Last: 2419 37
+ Min: 2025 1
+ Max: 2216 100
+ Avg: 50.676
+YAKLSRSQGZ
+ Total: 24850
+ Years: 497
+ 2419: 55
+ First: 1920 89
+ Last: 2419 55
+ Min: 1969 1
+ Max: 2404 100
+ Avg: 49.7
+CMUQBONSLP
+ Total: 25698
+ Years: 496
+ 2419: 77
+ First: 1920 72
+ Last: 2419 77
+ Min: 1931 1
+ Max: 2204 100
+ Avg: 51.396
+PGKHZUZXWX
+ Total: 24485
+ Years: 498
+ 2419: 55
+ First: 1920 41
+ Last: 2419 55
+ Min: 1925 1
+ Max: 2034 100
+ Avg: 48.97
+DAHYEGTOPH
+ Total: 25017
+ Years: 494
+ 2419: 91
+ First: 1920 47
+ Last: 2419 91
+ Min: 1976 1
+ Max: 2381 100
+ Avg: 50.034
+KDXPTUDLXV
+ Total: 24669
+ Years: 497
+ 2419: 59
+ First: 1920 91
+ Last: 2419 59
+ Min: 1990 1
+ Max: 2233 100
+ Avg: 49.338
+XUDSMTGIHW
+ Total: 26479
+ Years: 499
+ 2419: 90
+ First: 1920 6
+ Last: 2419 90
+ Min: 1966 1
+ Max: 2399 100
+ Avg: 52.958
+CRPVHOHXHD
+ Total: 25908
+ Years: 494
+ 2419: 42
+ First: 1920 19
+ Last: 2419 42
+ Min: 2084 1
+ Max: 2394 100
+ Avg: 51.816
+DNHRKDDRQU
+ Total: 25586
+ Years: 498
+ 2419: 34
+ First: 1920 79
+ Last: 2419 34
+ Min: 1951 1
+ Max: 2409 100
+ Avg: 51.172
+YIGPHXEROR
+ Total: 24984
+ Years: 495
+ 2419: 29
+ First: 1920 87
+ Last: 2419 29
+ Min: 2055 1
+ Max: 2239 100
+ Avg: 49.968
+ECQVAESLEU
+ Total: 25334
+ Years: 496
+ 2419: 77
+ First: 1920 46
+ Last: 2419 77
+ Min: 2033 1
+ Max: 2309 100
+ Avg: 50.668
+GZSUQKAZIC
+ Total: 25298
+ Years: 495
+ 2419: 82
+ First: 1920 83
+ Last: 2419 82
+ Min: 1938 1
+ Max: 2392 100
+ Avg: 50.596
+RSOUSBRXNV
+ Total: 24936
+ Years: 493
+ 2419: 3
+ First: 1920 12
+ Last: 2419 3
+ Min: 2109 1
+ Max: 2244 100
+ Avg: 49.872
+JENVCLMYYO
+ Total: 25168
+ Years: 495
+ 2419: 50
+ First: 1920 38
+ Last: 2419 50
+ Min: 2001 1
+ Max: 2340 100
+ Avg: 50.336
+TOVJLIHXBJ
+ Total: 25117
+ Years: 495
+ 2419: 86
+ First: 1920 78
+ Last: 2419 86
+ Min: 1944 1
+ Max: 2207 100
+ Avg: 50.234
+CHVVXCRINS
+ Total: 25035
+ Years: 492
+ 2419: 41
+ First: 1920 47
+ Last: 2419 41
+ Min: 2097 1
+ Max: 2415 100
+ Avg: 50.07
+HTDYSEETNR
+ Total: 24674
+ Years: 492
+ 2419: 30
+ First: 1920 22
+ Last: 2419 30
+ Min: 1974 1
+ Max: 2402 100
+ Avg: 49.348
+PRASVYQPQL
+ Total: 25015
+ Years: 492
+ 2419: 97
+ First: 1920 43
+ Last: 2419 97
+ Min: 2083 1
+ Max: 2289 100
+ Avg: 50.03
+TBMDMJJIQJ
+ Total: 24022
+ Years: 495
+ 2419: 65
+ First: 1920 77
+ Last: 2419 65
+ Min: 1969 1
+ Max: 2298 100
+ Avg: 48.044
+FOQXIQZYMR
+ Total: 24654
+ Years: 494
+ 2419: 32
+ First: 1920 77
+ Last: 2419 32
+ Min: 1932 1
+ Max: 2404 100
+ Avg: 49.308
+HPRHETGFZK
+ Total: 25733
+ Years: 497
+ 2419: 56
+ First: 1920 65
+ Last: 2419 56
+ Min: 1976 1
+ Max: 2279 100
+ Avg: 51.466
+SXXRFEJOFQ
+ Total: 24478
+ Years: 494
+ 2419: 14
+ First: 1920 13
+ Last: 2419 14
+ Min: 2060 1
+ Max: 2211 100
+ Avg: 48.956
+MFDYGSWZWK
+ Total: 25496
+ Years: 490
+ 2419: 43
+ First: 1920 46
+ Last: 2419 43
+ Min: 2056 1
+ Max: 2381 100
+ Avg: 50.992
+OEOAHABFKB
+ Total: 25626
+ Years: 495
+ 2419: 31
+ First: 1920 84
+ Last: 2419 31
+ Min: 1960 1
+ Max: 2392 100
+ Avg: 51.252
+FIOLDAHXII
+ Total: 25843
+ Years: 497
+ 2419: 75
+ First: 1920 55
+ Last: 2419 75
+ Min: 1983 1
+ Max: 2407 100
+ Avg: 51.686
+TTFXOYEBPB
+ Total: 24968
+ Years: 494
+ 2419: 95
+ First: 1920 16
+ Last: 2419 95
+ Min: 1923 1
+ Max: 2269 100
+ Avg: 49.936
+VVCSVYRNEI
+ Total: 24753
+ Years: 494
+ 2419: 40
+ First: 1920 24
+ Last: 2419 40
+ Min: 1971 1
+ Max: 2124 100
+ Avg: 49.506
+XRUQKBISNC
+ Total: 25775
+ Years: 494
+ 2419: 57
+ First: 1920 18
+ Last: 2419 57
+ Min: 1971 1
+ Max: 2384 100
+ Avg: 51.55
+GTMTXUWSQT
+ Total: 25127
+ Years: 496
+ 2419: 56
+ First: 1920 6
+ Last: 2419 56
+ Min: 1988 1
+ Max: 2365 100
+ Avg: 50.254
+PRUZVFEXEO
+ Total: 25004
+ Years: 497
+ 2419: 3
+ First: 1920 52
+ Last: 2419 3
+ Min: 1969 1
+ Max: 2387 100
+ Avg: 50.008
+HJKVYUGXWB
+ Total: 25004
+ Years: 494
+ 2419: 27
+ First: 1920 68
+ Last: 2419 27
+ Min: 2065 1
+ Max: 2375 100
+ Avg: 50.008
+HZQSXJBGHM
+ Total: 25465
+ Years: 491
+ 2419: 29
+ First: 1920 99
+ Last: 2419 29
+ Min: 2003 1
+ Max: 2388 100
+ Avg: 50.93
+YUPNFAUSTX
+ Total: 24795
+ Years: 495
+ 2419: 64
+ First: 1920 44
+ Last: 2419 64
+ Min: 1965 1
+ Max: 2171 100
+ Avg: 49.59
+ZGXKYMYMJL
+ Total: 27040
+ Years: 495
+ 2419: 77
+ First: 1920 37
+ Last: 2419 77
+ Min: 2196 1
+ Max: 2143 100
+ Avg: 54.08
+TOOSNUZKMD
+ Total: 25390
+ Years: 495
+ 2419: 27
+ First: 1920 84
+ Last: 2419 27
+ Min: 1967 1
+ Max: 2271 100
+ Avg: 50.78
+RPQUODGUQZ
+ Total: 26359
+ Years: 496
+ 2419: 90
+ First: 1920 6
+ Last: 2419 90
+ Min: 1943 1
+ Max: 2188 100
+ Avg: 52.718
+JSLURSOWJB
+ Total: 25798
+ Years: 498
+ 2419: 96
+ First: 1920 10
+ Last: 2419 96
+ Min: 1934 1
+ Max: 2363 100
+ Avg: 51.596
+BGOTHXHAKD
+ Total: 25009
+ Years: 496
+ 2419: 100
+ First: 1920 11
+ Last: 2419 100
+ Min: 2032 1
+ Max: 2419 100
+ Avg: 50.018
+RNWISVMKOT
+ Total: 24915
+ Years: 495
+ 2419: 10
+ First: 1920 3
+ Last: 2419 10
+ Min: 2041 1
+ Max: 2409 100
+ Avg: 49.83
+FKBDGLAXIO
+ Total: 24692
+ Years: 497
+ 2419: 63
+ First: 1920 67
+ Last: 2419 63
+ Min: 1921 1
+ Max: 2318 100
+ Avg: 49.384
+BJNBEIFYQL
+ Total: 24771
+ Years: 496
+ 2419: 49
+ First: 1920 34
+ Last: 2419 49
+ Min: 2053 1
+ Max: 2391 100
+ Avg: 49.542
+RXHXTGVBGX
+ Total: 24545
+ Years: 496
+ 2419: 17
+ First: 1920 3
+ Last: 2419 17
+ Min: 2026 1
+ Max: 2257 100
+ Avg: 49.09
+MTZTLCDOML
+ Total: 24765
+ Years: 492
+ 2419: 21
+ First: 1920 41
+ Last: 2419 21
+ Min: 1943 1
+ Max: 2339 100
+ Avg: 49.53
+AGZWUTWXWX
+ Total: 25194
+ Years: 497
+ 2419: 7
+ First: 1920 53
+ Last: 2419 7
+ Min: 1921 1
+ Max: 2256 100
+ Avg: 50.388
+TZZHZCFETF
+ Total: 23519
+ Years: 494
+ 2419: 34
+ First: 1920 63
+ Last: 2419 34
+ Min: 1931 1
+ Max: 2309 100
+ Avg: 47.038
+POPKRNTHXN
+ Total: 24409
+ Years: 493
+ 2419: 63
+ First: 1920 45
+ Last: 2419 63
+ Min: 1984 1
+ Max: 2398 100
+ Avg: 48.818
+KTXDLNENJT
+ Total: 25201
+ Years: 494
+ 2419: 72
+ First: 1920 26
+ Last: 2419 72
+ Min: 2128 1
+ Max: 2332 100
+ Avg: 50.402
+TADKNTJDWF
+ Total: 24574
+ Years: 494
+ 2419: 70
+ First: 1920 9
+ Last: 2419 70
+ Min: 2149 1
+ Max: 2412 100
+ Avg: 49.148
+XJNBSIWRKR
+ Total: 24993
+ Years: 493
+ 2419: 93
+ First: 1920 80
+ Last: 2419 93
+ Min: 2013 1
+ Max: 1995 100
+ Avg: 49.986
+LAEXFRXNAX
+ Total: 24747
+ Years: 492
+ 2419: 20
+ First: 1920 38
+ Last: 2419 20
+ Min: 1985 1
+ Max: 2340 100
+ Avg: 49.494
+GYITAMJPTE
+ Total: 24989
+ Years: 492
+ 2419: 67
+ First: 1920 33
+ Last: 2419 67
+ Min: 2011 1
+ Max: 2413 100
+ Avg: 49.978
+IHFSMNONWG
+ Total: 24424
+ Years: 493
+ 2419: 73
+ First: 1920 29
+ Last: 2419 73
+ Min: 1922 1
+ Max: 2295 100
+ Avg: 48.848
+DUMSFPKROW
+ Total: 25335
+ Years: 498
+ 2419: 88
+ First: 1920 20
+ Last: 2419 88
+ Min: 1921 1
+ Max: 2122 100
+ Avg: 50.67
+UVKCJUTDIA
+ Total: 25329
+ Years: 494
+ 2419: 87
+ First: 1920 16
+ Last: 2419 87
+ Min: 2079 1
+ Max: 2417 100
+ Avg: 50.658
+YNFWNCDEET
+ Total: 25874
+ Years: 495
+ 2419: 31
+ First: 1920 19
+ Last: 2419 31
+ Min: 2274 1
+ Max: 2401 100
+ Avg: 51.748
+JKOVHFSMPX
+ Total: 25577
+ Years: 497
+ 2419: 63
+ First: 1920 72
+ Last: 2419 63
+ Min: 2274 1
+ Max: 2366 100
+ Avg: 51.154
+UFTVZKMTDV
+ Total: 25557
+ Years: 498
+ 2419: 51
+ First: 1920 9
+ Last: 2419 51
+ Min: 2004 1
+ Max: 2385 100
+ Avg: 51.114
+CELVIQUIMA
+ Total: 25699
+ Years: 497
+ 2419: 49
+ First: 1920 37
+ Last: 2419 49
+ Min: 1932 1
+ Max: 2395 100
+ Avg: 51.398
+FIWUTOBMPM
+ Total: 26059
+ Years: 495
+ 2419: 78
+ First: 1920 63
+ Last: 2419 78
+ Min: 2062 1
+ Max: 2095 100
+ Avg: 52.118
+OSYNTXSQBD
+ Total: 25332
+ Years: 494
+ 2419: 54
+ First: 1920 44
+ Last: 2419 54
+ Min: 2001 1
+ Max: 2304 100
+ Avg: 50.664
+RXTHYYFTXN
+ Total: 25100
+ Years: 495
+ 2419: 83
+ First: 1920 80
+ Last: 2419 83
+ Min: 1931 1
+ Max: 2393 100
+ Avg: 50.2
+MUYNTBMJUT
+ Total: 24410
+ Years: 493
+ 2419: 18
+ First: 1920 79
+ Last: 2419 18
+ Min: 1925 1
+ Max: 2365 100
+ Avg: 48.82
+UOKGFUUGGX
+ Total: 25088
+ Years: 494
+ 2419: 16
+ First: 1920 67
+ Last: 2419 16
+ Min: 2088 1
+ Max: 2413 100
+ Avg: 50.176
+IDIEXUSLLW
+ Total: 25074
+ Years: 494
+ 2419: 61
+ First: 1920 6
+ Last: 2419 61
+ Min: 2164 1
+ Max: 2374 100
+ Avg: 50.148
+BHDHCPHWHZ
+ Total: 24534
+ Years: 496
+ 2419: 33
+ First: 1920 87
+ Last: 2419 33
+ Min: 2050 1
+ Max: 2350 100
+ Avg: 49.068
+LABWPGUDKF
+ Total: 25183
+ Years: 492
+ 2419: 80
+ First: 1920 93
+ Last: 2419 80
+ Min: 1921 1
+ Max: 2386 100
+ Avg: 50.366
+GWQURFJLEC
+ Total: 24957
+ Years: 494
+ 2419: 11
+ First: 1920 93
+ Last: 2419 11
+ Min: 1952 1
+ Max: 2393 100
+ Avg: 49.914
+TBRDZCAQDX
+ Total: 24039
+ Years: 495
+ 2419: 62
+ First: 1920 34
+ Last: 2419 62
+ Min: 1938 1
+ Max: 2266 100
+ Avg: 48.078
+QJRNQLLVQT
+ Total: 23764
+ Years: 498
+ 2419: 89
+ First: 1920 45
+ Last: 2419 89
+ Min: 2108 1
+ Max: 2310 100
+ Avg: 47.528
+QLWQOFRLPU
+ Total: 24942
+ Years: 495
+ 2419: 85
+ First: 1920 38
+ Last: 2419 85
+ Min: 1973 1
+ Max: 2384 100
+ Avg: 49.884
+IBSKBFKLBN
+ Total: 25459
+ Years: 493
+ 2419: 6
+ First: 1920 41
+ Last: 2419 6
+ Min: 1927 1
+ Max: 2404 100
+ Avg: 50.918
+DCRIGCABRQ
+ Total: 25497
+ Years: 495
+ 2419: 30
+ First: 1920 59
+ Last: 2419 30
+ Min: 2014 1
+ Max: 2101 100
+ Avg: 50.994
+BCHOFXVOQO
+ Total: 24865
+ Years: 497
+ 2419: 77
+ First: 1920 54
+ Last: 2419 77
+ Min: 1986 1
+ Max: 2141 100
+ Avg: 49.73
+LWPUOWERKL
+ Total: 25573
+ Years: 498
+ 2419: 56
+ First: 1920 59
+ Last: 2419 56
+ Min: 2065 1
+ Max: 2266 100
+ Avg: 51.146
+TGMLIQQYYN
+ Total: 24953
+ Years: 495
+ 2419: 58
+ First: 1920 58
+ Last: 2419 58
+ Min: 2022 1
+ Max: 2406 100
+ Avg: 49.906
+BRQUYRVQTY
+ Total: 25393
+ Years: 494
+ 2419: 35
+ First: 1920 12
+ Last: 2419 35
+ Min: 1970 1
+ Max: 2313 100
+ Avg: 50.786
+ZZHXBFYUAV
+ Total: 23889
+ Years: 495
+ 2419: 76
+ First: 1920 11
+ Last: 2419 76
+ Min: 2002 1
+ Max: 2226 100
+ Avg: 47.778
+KGKCMQCQAB
+ Total: 25036
+ Years: 493
+ 2419: 97
+ First: 1920 72
+ Last: 2419 97
+ Min: 1928 1
+ Max: 2171 100
+ Avg: 50.072
+FPOSPVZBOI
+ Total: 24423
+ Years: 495
+ 2419: 81
+ First: 1920 83
+ Last: 2419 81
+ Min: 1927 1
+ Max: 2387 100
+ Avg: 48.846
+OTGXQWCBZT
+ Total: 24835
+ Years: 496
+ 2419: 63
+ First: 1920 72
+ Last: 2419 63
+ Min: 1927 1
+ Max: 2397 100
+ Avg: 49.67
+CQZSZTSYEZ
+ Total: 23628
+ Years: 496
+ 2419: 91
+ First: 1920 12
+ Last: 2419 91
+ Min: 2128 1
+ Max: 2293 100
+ Avg: 47.256
+IESDOVLLFC
+ Total: 24517
+ Years: 497
+ 2419: 42
+ First: 1920 50
+ Last: 2419 42
+ Min: 2056 1
+ Max: 2359 100
+ Avg: 49.034
+WEPHKGGZZI
+ Total: 25015
+ Years: 498
+ 2419: 3
+ First: 1920 40
+ Last: 2419 3
+ Min: 1957 1
+ Max: 2285 100
+ Avg: 50.03
+VDYABLAGCM
+ Total: 24525
+ Years: 498
+ 2419: 44
+ First: 1920 22
+ Last: 2419 44
+ Min: 1959 1
+ Max: 2333 100
+ Avg: 49.05
+AVJYEZZGKS
+ Total: 25680
+ Years: 497
+ 2419: 80
+ First: 1920 78
+ Last: 2419 80
+ Min: 1990 1
+ Max: 2397 100
+ Avg: 51.36
+KMPATJKIID
+ Total: 24598
+ Years: 492
+ 2419: 57
+ First: 1920 8
+ Last: 2419 57
+ Min: 1950 1
+ Max: 2283 100
+ Avg: 49.196
+TTXKFYQRYL
+ Total: 24637
+ Years: 497
+ 2419: 21
+ First: 1920 10
+ Last: 2419 21
+ Min: 1940 1
+ Max: 2373 100
+ Avg: 49.274
+BAKNAPXCLZ
+ Total: 24601
+ Years: 497
+ 2419: 91
+ First: 1920 78
+ Last: 2419 91
+ Min: 1947 1
+ Max: 2143 100
+ Avg: 49.202
+OLCNEYTKID
+ Total: 24308
+ Years: 496
+ 2419: 38
+ First: 1920 12
+ Last: 2419 38
+ Min: 1960 1
+ Max: 2374 100
+ Avg: 48.616
+EGRSQZUCYG
+ Total: 25312
+ Years: 497
+ 2419: 39
+ First: 1920 3
+ Last: 2419 39
+ Min: 1924 1
+ Max: 2367 100
+ Avg: 50.624
+FLTDUIJQJE
+ Total: 25250
+ Years: 495
+ 2419: 54
+ First: 1920 6
+ Last: 2419 54
+ Min: 1925 1
+ Max: 2313 100
+ Avg: 50.5
+ZDQEVURAZR
+ Total: 25605
+ Years: 494
+ 2419: 26
+ First: 1920 1
+ Last: 2419 26
+ Min: 1920 1
+ Max: 2331 100
+ Avg: 51.21
+EVZZDNEYHJ
+ Total: 24419
+ Years: 496
+ 2419: 63
+ First: 1920 19
+ Last: 2419 63
+ Min: 1968 1
+ Max: 2303 100
+ Avg: 48.838
+VQCBIOWWAC
+ Total: 24947
+ Years: 493
+ 2419: 82
+ First: 1920 45
+ Last: 2419 82
+ Min: 2016 1
+ Max: 2418 100
+ Avg: 49.894
+VMCNRELVCJ
+ Total: 24150
+ Years: 492
+ 2419: 65
+ First: 1920 85
+ Last: 2419 65
+ Min: 1975 1
+ Max: 2329 100
+ Avg: 48.3
+SLNHDVYLOL
+ Total: 25241
+ Years: 495
+ 2419: 82
+ First: 1920 37
+ Last: 2419 82
+ Min: 2092 1
+ Max: 2412 100
+ Avg: 50.482
+WPJINKQQHH
+ Total: 24492
+ Years: 495
+ 2419: 80
+ First: 1920 80
+ Last: 2419 80
+ Min: 2007 1
+ Max: 2218 100
+ Avg: 48.984
+THUGRPTKHL
+ Total: 24800
+ Years: 494
+ 2419: 70
+ First: 1920 50
+ Last: 2419 70
+ Min: 1937 1
+ Max: 2335 100
+ Avg: 49.6
+WZFGIORUSQ
+ Total: 25328
+ Years: 496
+ 2419: 61
+ First: 1920 32
+ Last: 2419 61
+ Min: 1933 1
+ Max: 2093 100
+ Avg: 50.656
+SIVILVGXTQ
+ Total: 24575
+ Years: 499
+ 2419: 49
+ First: 1920 11
+ Last: 2419 49
+ Min: 2118 1
+ Max: 2283 100
+ Avg: 49.15
+RFFTIBQOUG
+ Total: 25063
+ Years: 488
+ 2419: 90
+ First: 1920 7
+ Last: 2419 90
+ Min: 2074 1
+ Max: 2161 100
+ Avg: 50.126
+QHDRWLUWRY
+ Total: 25246
+ Years: 495
+ 2419: 19
+ First: 1920 68
+ Last: 2419 19
+ Min: 2006 1
+ Max: 2338 100
+ Avg: 50.492
+NPAHYRLYDI
+ Total: 25070
+ Years: 491
+ 2419: 36
+ First: 1920 36
+ Last: 2419 36
+ Min: 1926 1
+ Max: 2410 100
+ Avg: 50.14
+ACUWVZRYTN
+ Total: 25588
+ Years: 493
+ 2419: 58
+ First: 1920 74
+ Last: 2419 58
+ Min: 2022 1
+ Max: 2391 100
+ Avg: 51.176
+ZXCQFZFGSQ
+ Total: 24658
+ Years: 496
+ 2419: 70
+ First: 1920 1
+ Last: 2419 70
+ Min: 1920 1
+ Max: 2022 100
+ Avg: 49.316
+TVKHGCFKST
+ Total: 25662
+ Years: 498
+ 2419: 71
+ First: 1920 68
+ Last: 2419 71
+ Min: 2057 1
+ Max: 2228 100
+ Avg: 51.324
+JAAIAYKIAK
+ Total: 25299
+ Years: 495
+ 2419: 58
+ First: 1920 94
+ Last: 2419 58
+ Min: 1984 1
+ Max: 2376 100
+ Avg: 50.598
+ACUANHVPYE
+ Total: 24167
+ Years: 497
+ 2419: 92
+ First: 1920 42
+ Last: 2419 92
+ Min: 1975 1
+ Max: 1943 100
+ Avg: 48.334
+ZQKNLSNPYF
+ Total: 24528
+ Years: 493
+ 2419: 46
+ First: 1920 6
+ Last: 2419 46
+ Min: 1995 1
+ Max: 2416 100
+ Avg: 49.056
+IGDETCCVUK
+ Total: 24742
+ Years: 494
+ 2419: 3
+ First: 1920 35
+ Last: 2419 3
+ Min: 2261 1
+ Max: 2281 100
+ Avg: 49.484
+PMZTEKUNOU
+ Total: 24612
+ Years: 495
+ 2419: 52
+ First: 1920 74
+ Last: 2419 52
+ Min: 1995 1
+ Max: 2328 100
+ Avg: 49.224
+NTCLPKJFPH
+ Total: 24945
+ Years: 498
+ 2419: 80
+ First: 1920 60
+ Last: 2419 80
+ Min: 1965 1
+ Max: 2354 100
+ Avg: 49.89
+BZZXGXMBBT
+ Total: 25307
+ Years: 496
+ 2419: 57
+ First: 1920 44
+ Last: 2419 57
+ Min: 2021 1
+ Max: 2408 100
+ Avg: 50.614
+RSAMLAYPPA
+ Total: 25174
+ Years: 499
+ 2419: 25
+ First: 1920 7
+ Last: 2419 25
+ Min: 1961 1
+ Max: 2415 100
+ Avg: 50.348
+KDUBLUPQIK
+ Total: 24896
+ Years: 497
+ 2419: 85
+ First: 1920 70
+ Last: 2419 85
+ Min: 1953 1
+ Max: 2377 100
+ Avg: 49.792
+TWXXGBMLHE
+ Total: 24016
+ Years: 492
+ 2419: 47
+ First: 1920 33
+ Last: 2419 47
+ Min: 1973 1
+ Max: 2386 100
+ Avg: 48.032
+RAMRWBBARQ
+ Total: 25410
+ Years: 493
+ 2419: 48
+ First: 1920 94
+ Last: 2419 48
+ Min: 2238 1
+ Max: 2220 100
+ Avg: 50.82
+QNCAQHWDFA
+ Total: 24234
+ Years: 496
+ 2419: 47
+ First: 1920 42
+ Last: 2419 47
+ Min: 1982 1
+ Max: 2351 100
+ Avg: 48.468
+XTSATLVNYX
+ Total: 25336
+ Years: 496
+ 2419: 32
+ First: 1920 19
+ Last: 2419 32
+ Min: 2021 1
+ Max: 2367 100
+ Avg: 50.672
+ABEZVZFYUP
+ Total: 24365
+ Years: 495
+ 2419: 9
+ First: 1920 39
+ Last: 2419 9
+ Min: 2018 1
+ Max: 2230 100
+ Avg: 48.73
+EQREXWUBKH
+ Total: 26268
+ Years: 494
+ 2419: 94
+ First: 1920 88
+ Last: 2419 94
+ Min: 2028 1
+ Max: 2382 100
+ Avg: 52.536
+RVSQICKJFH
+ Total: 24973
+ Years: 498
+ 2419: 33
+ First: 1920 87
+ Last: 2419 33
+ Min: 2133 1
+ Max: 2335 100
+ Avg: 49.946
+LDVWROCTJT
+ Total: 25976
+ Years: 494
+ 2419: 73
+ First: 1920 97
+ Last: 2419 73
+ Min: 1946 1
+ Max: 2300 100
+ Avg: 51.952
+BFAFIFNBXY
+ Total: 25004
+ Years: 494
+ 2419: 76
+ First: 1920 34
+ Last: 2419 76
+ Min: 1997 1
+ Max: 2315 100
+ Avg: 50.008
+ROUPUBSZFA
+ Total: 24951
+ Years: 495
+ 2419: 40
+ First: 1920 57
+ Last: 2419 40
+ Min: 1979 1
+ Max: 2092 100
+ Avg: 49.902
+ZLUILZCOYD
+ Total: 24916
+ Years: 497
+ 2419: 62
+ First: 1920 70
+ Last: 2419 62
+ Min: 2131 1
+ Max: 2391 100
+ Avg: 49.832
+LSOJQRJIFZ
+ Total: 25308
+ Years: 495
+ 2419: 1
+ First: 1920 12
+ Last: 2419 1
+ Min: 2051 1
+ Max: 2163 100
+ Avg: 50.616
+EMSZTBXNVE
+ Total: 25265
+ Years: 496
+ 2419: 10
+ First: 1921 6
+ Last: 2419 10
+ Min: 1964 1
+ Max: 2161 100
+ Avg: 50.53
+EHAJLWWRNE
+ Total: 24818
+ Years: 494
+ 2419: 90
+ First: 1920 69
+ Last: 2419 90
+ Min: 1939 1
+ Max: 2268 100
+ Avg: 49.636
+AACLTKIBOX
+ Total: 25385
+ Years: 497
+ 2419: 27
+ First: 1920 67
+ Last: 2419 27
+ Min: 1944 1
+ Max: 2104 100
+ Avg: 50.77
+OGFQFVHMMS
+ Total: 25667
+ Years: 497
+ 2419: 81
+ First: 1920 26
+ Last: 2419 81
+ Min: 1923 1
+ Max: 2315 100
+ Avg: 51.334
+SVHDDTMOLX
+ Total: 25097
+ Years: 495
+ 2419: 9
+ First: 1920 13
+ Last: 2419 9
+ Min: 1999 1
+ Max: 2395 100
+ Avg: 50.194
+VYXJMNXQXU
+ Total: 26862
+ Years: 499
+ 2419: 89
+ First: 1920 89
+ Last: 2419 89
+ Min: 1932 1
+ Max: 2325 100
+ Avg: 53.724
+EBWXXMOEBZ
+ Total: 24415
+ Years: 494
+ 2419: 7
+ First: 1920 46
+ Last: 2419 7
+ Min: 1928 1
+ Max: 2263 100
+ Avg: 48.83
+LPTCTAPXTJ
+ Total: 24300
+ Years: 494
+ 2419: 76
+ First: 1920 52
+ Last: 2419 76
+ Min: 2003 1
+ Max: 2250 100
+ Avg: 48.6
