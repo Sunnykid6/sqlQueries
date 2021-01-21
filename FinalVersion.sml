@@ -29,12 +29,14 @@ fun babies_program (fileName, yearSt) =
       val firstYear = yearSt
       val totalYears = (getLength(splitTextAgain) -2)
       val lastYear = valOf(fromString(yearSt)) + totalYears - 1
-
+      (* Main function to parse through the babylist and find data given by the name to check *)
       fun parseInfo(parseList : string list, nameToCheck : string list)=
         if null(nameToCheck)
         then print("")
         else
           let
+            
+            (* Recursively find the max: Help from dan grossman's code *)
             fun getMax(foundBabyNameList: string list)=
               if null(tl (tl foundBabyNameList))
               then hd foundBabyNameList
@@ -46,7 +48,8 @@ fun babies_program (fileName, yearSt) =
                   then hd foundBabyNameList
                   else tl_ans
                 end
-
+            
+            (* Helper function for getMax to get the year: comparing findthis string to find the last occurence*) 
             fun findLastOccuring(foundBabyNameList: string list, findThis:string, final:int, count: int)=
               if null(tl (tl  foundBabyNameList))
               then 
@@ -58,6 +61,7 @@ fun babies_program (fileName, yearSt) =
                 then findLastOccuring(tl foundBabyNameList, findThis, final +(count - final), count + 1)
                 else findLastOccuring(tl foundBabyNameList, findThis, final, count + 1)
             
+            (* Recursively find the min: help from dan grossman's max function*)
             fun getMin(foundBabyNameList: string list, seenNumber: string)=
               if null(tl (tl foundBabyNameList))
               then
@@ -76,18 +80,19 @@ fun babies_program (fileName, yearSt) =
                     else tl_ans
                 end
 
-
+            (* Helper function for getMin to get the year: comparing findthis string to find the first occurence*)
             fun findFirstOccuring(foundBabyNameList: string list, findThis: string, final:int)=
               if hd foundBabyNameList = findThis
               then final
               else findFirstOccuring(tl foundBabyNameList, findThis, final+1)
             
+            (* Helper function to format min and max strings as well as add the years*)
             fun minMaxString(minMax: string, count: int, flag: int)=
               if flag = 0
               then " Min: " ^ int_to_string(valOf(fromString(firstYear)) + count) ^ " " ^ minMax ^ "\n"
               else " Max: " ^ int_to_string(valOf(fromString(firstYear)) + count) ^ " " ^ minMax ^ "\n"
 
-
+            (* Recursively find the last non zero and store the it as a pair (string int value, index) *)      
             fun getLastNonZero(foundBabyNameList: string list, final: int, count: int, seenNumber: string)=
               if null(tl(tl foundBabyNameList))
               then
@@ -99,17 +104,19 @@ fun babies_program (fileName, yearSt) =
                 then getLastNonZero(tl foundBabyNameList, final, count + 1, seenNumber)
                 else getLastNonZero(tl foundBabyNameList, final + (count - final), count + 1, hd foundBabyNameList)
 
-
+            (* Recursively find the first non zero and store it as a pair (string int value, index) *)
             fun getfirstNonZero(foundBabyNameList: string list, count: int)=
               if hd foundBabyNameList = int_to_string(0)
               then (getfirstNonZero(tl foundBabyNameList, count + 1))
               else (hd foundBabyNameList, count)
             
+            (* Helper function to format strings for First and Last*)
             fun firstString(tuples: string*int, flag: int)=
               if flag = 0
               then" First: " ^ int_to_string((valOf(fromString(firstYear))) + #2 tuples) ^ " " ^ #1 tuples ^ "\n"
               else" Last: " ^ int_to_string((valOf(fromString(firstYear))) + #2 tuples) ^ " " ^ #1 tuples ^ "\n"
-
+            
+            (* Recursively find the total, the lastYears value, and the number of non zero values stored as a (string*string*int) *)
             fun getTotal(foundBabyNameList : string list, lastYear: string,totalNonZero: int)=
               if null(tl (tl foundBabyNameList))
               then 
@@ -120,15 +127,19 @@ fun babies_program (fileName, yearSt) =
                 if hd foundBabyNameList = int_to_string(0)
                 then getTotal(tl foundBabyNameList, hd foundBabyNameList,totalNonZero)
                 else getTotal(tl foundBabyNameList, hd foundBabyNameList,totalNonZero + 1)
-
+            
+            (* Helper function for getMax to get the year: comparing findthis string to find the last occurence*)
             fun totalString(tuples: string*string*int)=
               (" Total: " ^ int_to_string(valOf(fromString(#1 tuples))) ^ "\n" ^ " Years: " ^ int_to_string(#3
               tuples) ^ "\n" ^ " " ^ int_to_string(lastYear) ^ ": " ^ #2 tuples ^ "\n")
             
+            (* Function to calculate the avg and format the string for it*)
             fun calcAvg(tuples: string*string*int)=
               " Avg: "  ^ real_to_string(int_to_real(valOf(fromString(#1 tuples))) /
               int_to_real(totalYears)) ^ "\n" 
-
+            
+            (* Function to go through the babies text and compare it to a name to determine if it exists*)
+            (* if it does not exist then print "baby was not found else call function above to print info*)
             fun getInfo(anybabyList: string list, name: string)=
               if hd (split_at(hd anybabyList, comma)) = name
               then hd (split_at(hd anybabyList,comma)) ^ "\n" ^
@@ -159,7 +170,8 @@ fun babies_program (fileName, yearSt) =
                        calcAvg(getTotal(tl(split_at(hd anybabyList, comma)), "", 0))
                   else name ^ "\n" ^ "Baby name [" ^ name ^ "] was not found" ^ "\n"
                 else getInfo(tl anybabyList, name)
-
+            
+            (* go through the stdin names and call the getInfo checker for each name*)
             fun cycleThrough(nameList: string list)=  
               if null (tl nameList)
               then getInfo(parseList, hd nameList)
