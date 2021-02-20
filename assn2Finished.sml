@@ -78,38 +78,27 @@ fun insert_into_set(s,v) =
    EmptySet(compare) => Set([v], compare)
    | Set(list,compare) => let 
                             fun insertHelper(v, list, compare)=
-                              if in_set(s,v)
+                              if in_set(s, v)
                               then list
                               else
-                                if null(tl list)
-                                then
-                                  let
-                                    val x = hd list
-                                    val y =  v
-                                    val result = case compare(x, y) of 
-                                                 GREATER => y
-                                                 | LESS => x
-                                                 | EQUAL => x
-                                  in
-                                    if compare(result, x) = EQUAL
-                                    then list@[y]
-                                    else y::list
-                                  end                                 
-                                else
-                                  let
-                                    val x = hd list
-                                    val y =  v
-                                    val result = case compare(x, y) of 
-                                                 GREATER => y
-                                                 | LESS => x
-                                                 | EQUAL => x
-                                  in
-                                    if compare(result, x) = EQUAL
-                                    then result::insertHelper(y, tl list, compare)
-                                    else y::list
-                                  end                      
+                                let
+                                  val result = case comp_list_any([hd list], [v], compare) of
+                                               GREATER => v
+                                               | LESS => hd list
+                                               | EQUAL => hd list
+                                in
+                                  if null(tl list)
+                                  then
+                                    if comp_list_any([result], [hd list], compare) = EQUAL
+                                    then list@[v]
+                                    else v::list
+                                  else
+                                    if comp_list_any([result], [hd list], compare) = EQUAL 
+                                    then result::insertHelper(v, tl list, compare)
+                                    else v::list
+                                end           
                             in
-                              Set(insertHelper(v, list, compare), compare)
+                              list_to_set(insertHelper(v, list, compare), compare)
                             end
 
 fun list_to_set(lst, f) =
@@ -292,34 +281,13 @@ fun s IS_SUBSET_OF t = is_subset_of(s, t)
 
 
 fun comp_list_any (a: 'a list, b: 'a list, fcomp : ('a * 'a) -> order) =
-      case (a, b) of
-           ([], []) => EQUAL
-         | ([], head::tail) => LESS
-         | (head::tail, []) => GREATER
-         | (a_head::a_tail, b_head::b_tail) => let
-                                                 fun compHelper(a_head, a_tail,
-                                                   b_head, b_tail, fcomp)=
-                                                   if null(a_tail)
-                                                   then 
-                                                     if null(b_tail)
-                                                     then 
-                                                       if fcomp(a_head, b_head)
-                                                       = EQUAL
-                                                       then EQUAL
-                                                       else fcomp(a_head,
-                                                       b_head)
-                                                     else LESS
-                                                   else
-                                                     if fcomp(a_head, b_head) =
-                                                     EQUAL
-                                                     then compHelper(hd a_tail,
-                                                     tl a_tail, hd b_tail, tl
-                                                     b_tail, fcomp)
-                                                     else fcomp(a_head, b_head)
-                                               in
-                                                 compHelper(a_head, a_tail,
-                                                 b_head, b_tail, fcomp)
-                                               end
+  case (a,b) of
+  ([],[]) => EQUAL
+  | ([], head::tail) => LESS
+  | (head::tail, []) => GREATER
+  | (a_head::a_tail, b_head::b_tail) => if fcomp(a_head, b_head) = EQUAL
+                                        then comp_list_any(a_tail, b_tail,fcomp)
+                                        else fcomp(a_head, b_head)
                           
 end
 end    

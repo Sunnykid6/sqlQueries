@@ -31,24 +31,23 @@ fun is_empty_set s =
 fun min_in_set s =
     case s of 
     EmptySet(_) => raise SetIsEmpty  
-    | Set(list, compare) => let
-                                 fun minHelper(list)=
-                                   hd list
-                            in
-                              minHelper(list)
-                            end 
+    | Set(head::tail, compare) => head
+    | Set([], compare) => raise SetIsEmpty
 
 fun max_in_set s =
     case s of 
     EmptySet(_) => raise SetIsEmpty  
-    | Set(list, compare) => let
-                                 fun maxHelper(list)=
-                                   if null(tl list)
-                                   then hd list
-                                   else maxHelper(tl list)
-                            in
-                              maxHelper(list)
-                            end
+    | Set(head::tail, compare) => let
+                                    fun maxHelper(tail)=
+                                      case tail of
+                                      head::[] => head
+                                      | (head::list) => maxHelper(list)
+                                      |  [] => raise Empty
+
+                                  in
+                                    maxHelper(tail)
+                                  end
+    | Set([], compare) => raise SetIsEmpty
 
 fun comp_list_any (a: 'a list, b: 'a list, fcomp : ('a * 'a) -> order) =
   case (a,b) of
@@ -58,11 +57,6 @@ fun comp_list_any (a: 'a list, b: 'a list, fcomp : ('a * 'a) -> order) =
   | (a_head::a_tail, b_head::b_tail) => if fcomp(a_head, b_head) = EQUAL
                                         then comp_list_any(a_tail, b_tail,fcomp)
                                         else fcomp(a_head, b_head)
-
-fun list_to_set(lst, f) =
-    if null lst
-    then EmptySet f
-    else Set(lst, f)
 
 fun in_set(s, v) =
     case s of
@@ -112,8 +106,21 @@ fun insert_into_set(s,v) =
                                     else v::list
                                 end           
                             in
-                              list_to_set(insertHelper(v, list, compare), compare)
+                              Set(insertHelper(v, list, compare), compare)
                             end
+
+fun list_to_set(lst, f) =
+ case lst of
+ [] => EmptySet(f)
+ | head::tail => let
+            val setToAdd = EmptySet(f)
+            fun listHelper(head, tail, setToAdd)=
+              case (head, tail) of
+              (head, newHead::newTail) => listHelper(newHead, newTail, insert_into_set(setToAdd, head))
+              | (head, []) => insert_into_set(setToAdd, head)
+          in
+            listHelper(head, tail, setToAdd)
+          end
 
 fun remove_from_set(s,v) =
     case s of 
