@@ -1,6 +1,6 @@
 (*
-Your name:
-Your student id:
+Victor Sun
+V00894734
 *)
 
 structure Patterns =
@@ -37,7 +37,6 @@ fun tree_insert_in_order (t, v) =
 fun tree_height t =
   case t of
   emptyTree => 0
-  | nodeTree(n1, emptyTree, emptyTree) => 0
   | nodeTree(n1, l1, r1) => let
                               val left = tree_height(l1) + 1
                               val right = tree_height(r1) + 1
@@ -109,16 +108,16 @@ fun all_answers f lst =
 
 fun check_pattern p =
   let
-    fun functionHelper(f, acc, list)=
+    fun functionHelper f acc list=
       case list of
       [] => acc
       | head::tail => case head of
-                      Wildcard => functionHelper(f, acc, tail)
-                      | Variable s => functionHelper(f, f(s, acc), tail)
-                      | UnitP => functionHelper(f, acc, tail)
-                      | ConstP i => functionHelper(f, acc, tail)
-                      | TupleP ps => functionHelper(f, functionHelper(f, acc, ps), tail) 
-                      | ConstructorP (s1, p) => functionHelper(f, functionHelper(f, f(s1, acc), [p]), tail)           
+                      Wildcard => functionHelper f acc tail
+                      | Variable s => functionHelper f (foldl f acc [s]) tail
+                      | UnitP => functionHelper f acc tail
+                      | ConstP i => functionHelper f acc tail
+                      | TupleP ps => functionHelper f (functionHelper f acc ps) tail 
+                      | ConstructorP (s1, p) => functionHelper f (functionHelper f (foldl f acc [s1]) [p]) tail           
     
     fun stringHelper(list: string list)=
       case list of
@@ -126,14 +125,15 @@ fun check_pattern p =
       | head::tail => if List.exists (fn y => y = head) tail
                       then false
                       else stringHelper(tail)
+
   in
     case p of
     Wildcard => true
     | Variable s => true
     | UnitP => true
     | ConstP i => true  
-    | TupleP ps => stringHelper (functionHelper((fn (v, acc) => if null acc then v::acc else acc@[v]), [], ps))
-    | ConstructorP (s1, p) => stringHelper (functionHelper((fn (v, acc) => acc@[v]), [s1], [p]))
+    | TupleP ps => stringHelper (functionHelper (fn (v, acc) => acc@[v]) [] ps)
+    | ConstructorP (s1, p) => stringHelper (functionHelper (fn (v, acc) => acc@[v]) [s1] [p])
   end
 
 fun match (v, p) =
