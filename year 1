@@ -1,0 +1,53 @@
+Year 1:
+---------------------------------------
+check			csc 110
+check			csc 115
+check			math 100		
+check			math 101
+check			math 122
+check			engr 110
+				1: Phys 110
+				2: Phys 111
+				3: Chem 101
+				4: Engr 141
+
+Year 2:
+---------------------------------------
+check			csc 225
+check			csc 226
+check			csc 230
+check			seng 265
+check			math 202
+check			math 211
+check			stat 260
+check			engr 240
+				1: seng 275
+REDO			2: ece 260
+
+Year 3:
+---------------------------------------
+check			CSC 320
+check			CSC 360
+check			CSC 370
+check			1: CSC 361
+check			2: CSC 355
+				3: csc 305
+
+check			seng 310
+				1: BIOL 150a 
+				2:
+				3:
+Year 4:
+---------------------------------------
+				1 csc 429
+				2 csc 421
+				3 seng 460
+
+				1 seng 371
+				2 seng 321
+				3 csc 330
+				4 AHVS 373a
+
+				1 work term?
+				2
+				3

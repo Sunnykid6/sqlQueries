@@ -1,0 +1,348 @@
+PART A:
+__________________________________________________________________________________________________________________________________
+
+1) Select * from persons where first name = 'Laura'
+
+      imdb=> explain analyze select * from persons where firstname = 'Laura';
+                                                               QUERY PLAN
+      -----------------------------------------------------------------------------------------------------------------------------
+       Gather  (cost=1000.00..54747.69 rows=6774 width=34) (actual time=0.552..348.526 rows=8254 loops=1)
+         Workers Planned: 2
+         Workers Launched: 2
+         ->  Parallel Seq Scan on persons  (cost=0.00..53070.29 rows=2822 width=34) (actual time=0.829..332.228 rows=2751 loops=3)
+               Filter: ((firstname)::text = 'Laura'::text)
+               Rows Removed by Filter: 1325523
+       Planning time: 88.250 ms
+       Execution time: 349.077 ms
+      (8 rows)
+
+      expected = 6774     actual = 8254
+
+2) Computation of selectivity and expected output
+
+      imdb=> select reltuples from pg_class where relname = 'persons';
+        reltuples
+      -------------
+       3.98482e+06
+      (1 row)
+
+      imdb=> with A as (select unnest(most_common_vals::text::text[]) as value, unnest(most_common_freqs::text::text[]) as frequency from pg_stats where tablename='persons' and attname='firstname') select * from A whe
+      re value = 'Laura';
+       value | frequency
+      -------+-----------
+       Laura | 0.0017
+      (1 row)
+
+
+      imdb=> select 0.0017 * 3.98482e+06;
+       ?column?
+      -----------
+       6774.1940
+      (1 row)
+
+
+      imdb=> select round(0.0017 * 3.98482e+06);
+       round
+      -------
+        6774
+      (1 row)
+
+      expected output = 6774 rounded to closest integer
+__________________________________________________________________________________________________________________________________
+
+1) select * from persons where firstname is NULL
+
+      imdb=> explain analyze select * from persons where firstname is NULL;
+                                                                QUERY PLAN
+      -------------------------------------------------------------------------------------------------------------------------------
+       Gather  (cost=1000.00..57849.23 rows=79298 width=34) (actual time=0.621..397.373 rows=80185 loops=1)
+         Workers Planned: 2
+         Workers Launched: 2
+         ->  Parallel Seq Scan on persons  (cost=0.00..48919.43 rows=33041 width=34) (actual time=0.558..344.634 rows=26728 loops=3)
+               Filter: (firstname IS NULL)
+               Rows Removed by Filter: 1301546
+       Planning time: 3.514 ms
+       Execution time: 402.182 ms
+      (8 rows)
+
+      expected = 79298     actual = 80185
+
+2) Computation of selectivity and expected output
+
+      Total Number in relation
+      imdb=> select reltuples from pg_class where relname = 'persons';
+        reltuples
+      -------------
+       3.98482e+06
+      (1 row)
+
+      imdb=> select null_frac from pg_stats where tablename='persons' and attname='firstname';
+       null_frac
+      -----------
+          0.0199
+      (1 row)
+
+      imdb=> select 0.0199 * 3.98482e+06;
+        ?column?
+      ------------
+       79297.9180
+      (1 row)
+
+      imdb=> select round(0.0199 * 3.98482e+06);
+       round
+      -------
+       79298
+      (1 row)
+
+      expected: 79298 rounded to nearest integer
+__________________________________________________________________________________________________________________________________
+
+1) select * from persons where firstname = 'Alejandro'
+
+      imdb=> explain analyze select * from persons where firstname = 'Alejandro';
+                                                              QUERY PLAN
+      --------------------------------------------------------------------------------------------------------------------------
+       Gather  (cost=1000.00..54091.59 rows=213 width=34) (actual time=1.408..382.811 rows=2246 loops=1)
+         Workers Planned: 2
+         Workers Launched: 2
+         ->  Parallel Seq Scan on persons  (cost=0.00..53070.29 rows=89 width=34) (actual time=7.561..338.356 rows=749 loops=3)
+               Filter: ((firstname)::text = 'Alejandro'::text)
+               Rows Removed by Filter: 1327526
+       Planning time: 4.019 ms
+       Execution time: 383.084 ms
+      (8 rows)
+
+      expected = 213     actual = 2246
+
+2) Computation of selectivity and expected output
+
+      imdb=> select reltuples from pg_class where relname = 'persons';
+        reltuples
+      -------------
+       3.98482e+06
+      (1 row)
+      
+      imdb=> select null_frac, n_distinct from pg_stats where tablename='persons' and attname='firstname';
+       null_frac | n_distinct
+      -----------+------------
+          0.0199 |      14399
+      (1 row)
+
+      imdb=> select (select SUM(s) from unnest(most_common_freqs::text::float[])s) as total from pg_stats where tablename='persons' and attname='firstname';
+         total
+      ------------
+       0.21716667
+      (1 row)
+      
+
+      imdb=> select unnest(most_common_vals::text::text[]) from pg_stats where tablenam'persons' and attname='firstname'
+         unnest
+      -------------
+       David
+       John
+       Michael
+       James
+       Chris
+       Robert
+       Paul
+       ...
+        Jan
+       Linda
+       Brad
+       Craig
+      (100 rows)
+
+      imdb=> select (1 - 0.21716667 - 0.0199)/(14399 - 100);
+                ?column?
+      ----------------------------
+       0.000053355712287572557522
+      (1 row)
+
+      imdb=> select (0.000053355712287572557522 * 3.98482e+06);
+                 ?column?
+      ------------------------------
+       212.612909437764878664816040
+      (1 row)
+
+      imdb=> select round(0.000053355712287572557522 * 3.98482e+06);
+       round
+      -------
+         213
+      (1 row)
+      expected: 213 rounded to nearest integer
+
+__________________________________________________________________________________________________________________________________
+
+1) select * from persons where firstname is NULL or firstname = 'Alejandro'
+
+      imdb=> explain analyze select * from persons where firstname is NULL or firstname = 'Alejandro';
+                                                                  QUERY PLAN
+      ----------------------------------------------------------------------------------------------------------------------------------
+       Gather  (cost=1000.00..62020.89 rows=79506 width=34) (actual time=28.721..11476.338 rows=82431 loops=1)
+         Workers Planned: 2
+         Workers Launched: 2
+         ->  Parallel Seq Scan on persons  (cost=0.00..53070.29 rows=33128 width=34) (actual time=16.366..11443.532 rows=27477 loops=3)
+               Filter: ((firstname IS NULL) OR ((firstname)::text = 'Alejandro'::text))
+               Rows Removed by Filter: 1300798
+       Planning time: 2.451 ms
+       Execution time: 11481.559 ms
+      (8 rows)
+
+      expected = 79506     actual = 82431
+
+2) Computation of selectivity and expected output
+
+      imdb=> select reltuples from pg_class where relname = 'persons';
+        reltuples
+      -------------
+       3.98482e+06
+      (1 row)
+
+      from above! (null_frac and selectivity calculated)
+
+      imdb=> select (0.0199 + 0.000053355712287572557522) - (0.0199 * 0.000053355712287572557522);
+                  ?column?
+      --------------------------------
+       0.0199522939336130498636273122
+
+
+       imdb=> select 0.0199522939336130498636273122 * 3.98482e+06;
+                    ?column?
+      ------------------------------------
+       79506.2999125399533575793862008040
+      (1 row)
+      
+      imdb=> select round(0.0199522939336130498636273122 * 3.98482e+06);
+       round
+      -------
+       79506
+      (1 row)
+
+      expected: 79506 rounded to nearest integer
+__________________________________________________________________________________________________________________________________
+
+1) select * from persons where firstname < 'Alejandro'
+
+      imdb=> explain analyze select * from persons where firstname < 'Alejandro';
+                                                                QUERY PLAN
+      -------------------------------------------------------------------------------------------------------------------------------
+       Gather  (cost=1000.00..62049.99 rows=79797 width=34) (actual time=0.431..353.035 rows=81547 loops=1)
+         Workers Planned: 2
+         Workers Launched: 2
+         ->  Parallel Seq Scan on persons  (cost=0.00..53070.29 rows=33249 width=34) (actual time=0.387..317.749 rows=27182 loops=3)
+               Filter: ((firstname)::text < 'Alejandro'::text)
+               Rows Removed by Filter: 1301092
+       Planning time: 10.405 ms
+       Execution time: 357.126 ms
+      (8 rows)	
+      
+      expected = 79797     actual = 81547
+
+2) Computation of selectivity and expected output
+
+      mcv_selectivity
+      
+          imdb=> select 0.00243333 + 0.0012 + 0.00113333;
+            ?column?
+          ------------
+           0.00476666
+          (1 row)
+
+      histogram_fraction
+      
+            imdb=> select (select SUM(s) from unnest(most_common_freqs::text::float[])s) as total from pg_stats where tablename='persons' and attname='firstname';
+               total
+            ------------
+             0.21716667
+            (1 row)
+
+            imdb=> select 1 - 0.21716667 - 0.0199;
+              ?column?
+            ------------
+             0.762933330277161
+            (1 row)
+
+      histogram_selectivity
+
+            imdb=> select (array_position(histogram_bounds::text::text[], 'Alejandro') - 1.0)/100.0 as histogram_selectivity from pg_stats where tablename='persons' and attname='firstname';
+             histogram_selectivity
+            ------------------------
+             0.02000000000000000000
+            (1 row)
+
+      imdb=> select 0.00476666 + (0.02000000000000000000 * 0.762933330277161);
+                     ?column?
+      ---------------------------------------
+       0.02002532660554322000000000000000000
+      (1 row)
+
+      imdb=> select 0.02002532660554322000000000000000000 * 3.98482e+06;
+                       ?column?
+      -------------------------------------------
+       79797.32196430073392040000000000000000000
+      (1 row)
+
+      imdb=> select round(0.02002532660554322000000000000000000 * 3.98482e+06);
+       round
+      -------
+       79797
+      (1 row)
+
+      expected: 79797 rounded to nearest integer
+
+BONUS:
+
+with A as (select null_frac, (select 1 - null_frac - SUM(s) from unnest(most_common_freqs::text::float[])s) as histogram_fraction from pg_stats where tablename='persons' and attname='firstname'), with B as (select unnest(most_common_vals::text::text[]) as value, unnest(most_common_freqs::text::float[]) as frequency from pg_stats where tablename='persons' and attname='firstname'), c as (select SUM(frequency) as mcv_selectivity from B where value < 'Alejandro'), D as (select (array_position(histogram_bounds::text::text[], 'Alejandro') - 1.0)/100.0 as histogram_selectivity from pg_stats where tablename='persons' and attname='firstname'), E as (select reltuples from pg_class where relname='persons') select round((mcv_selectivity + histogram_selectivity * histogram_fraction) * reltuples) from A natural join C natural join D natural join E;
+
+Example in productions using < Dodgeball 2 example: (You would have to change the tablename, attnames and relname to get reltuples as well as the title of the movie)
+
+with A as (select null_frac, (select 1 - null_frac - SUM(s) from unnest(most_common_freqs::text::float[])s) as histogram_fraction from pg_stats where tablename='productions' and attname='title'), B as (select unnest(most_common_vals::text::text[]) as value, unnest(most_common_freqs::text::float[]) as frequency from pg_stats where tablename='productions' and attname='title'), c as (select SUM(frequency) as mcv_selectivity from B where value < 'Dodgeball 2'), D as (select (array_position(histogram_bounds::text::text[], 'Dodgeball 2') - 1.0)/100.0 as histogram_selectivity from pg_stats where tablename='productions' and attname='title'), E as (select reltuples from pg_class where relname='productions') select round((mcv_selectivity + histogram_selectivity * histogram_fraction) * reltuples) from A natural join C natural join D natural join E;
+
+
+PART B:
+__________________________________________________________________________________________________________________________________
+
+for sequential  scan
+
+imdb=> explain select * from persons where pid > 'James' and pid < 'Spock';
+                                 QUERY PLAN
+-----------------------------------------------------------------------------
+ Seq Scan on persons  (cost=0.00..92087.16 rows=1642320 width=34)
+   Filter: (((pid)::text > 'James'::text) AND ((pid)::text < 'Spock'::text))
+(2 rows)
+
+selectivity for Seq Scan is 1642320 / 0.41214408680944183175
+
+for index dense
+
+imdb=> With A as (select unnest(histogram_bounds::text::text[]) as value from pg_stats where tablename='persons' and  attname='pid') select count(value) from A where value > 'James' and value < 'Spock';
+ count
+-------
+    42
+(1 row)
+
+42/101 rows 
+
+
+imdb=> with B as (select unnest(most_common_vals::text::text[]) as value, unnest(most_common_freqs::text::float[]) as frequency from pg_stats where tablename='persons' and attname='firstname') select SUM(frequency) as mcv_selectivity from B where value > 'James';
+ mcv_selectivity
+-----------------
+       0.1317667
+(1 row)
+
+imdb=> select 42.0/101.0;
+        ?column?
+------------------------
+ 0.41584158415841584158
+
+h -1 + 42/100 of the blocks of the leaves of the index and 3.98482e+06/(42/100) ~ 
+
+imdb=> select 3.98482e+06 / (42.0/100.0);
+           ?column?
+------------------------------
+ 9487666.66666666666666666667
+
+(1 row) We're reading way more rows
+
+Indexes have a cost to create and maintain on writes and use on reads. 
+When an index is usedin a query, first the position of the requested rows is fetched from the index, then the actual rwos are fetched from the table. Where as in a aequential scan, it reads the whole table to find the right tuples/values. Its more efficient to fetch all rows rather than having an extra step of fetching the positions of those rows. Espcially in this case where we're comparing pid twice and not just once. We're looking at a range.

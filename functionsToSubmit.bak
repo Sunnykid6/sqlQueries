@@ -34,14 +34,14 @@
 (define (add-pointwise-lists-2 l1)
   (if (list? l1)
       (foldl add-pointwise '() l1)
-      (error "illegal parameter")))
+      (error "illegal paramer")))
 
 ;#4
 (define (stream-for-n-steps s n)
+  (let ([s1 (s)])
         (if (= n 0)
             null
-            (let ([s1 (s)])
-              (cons (car s1) (stream-for-n-steps (cdr s1) (- n 1))))))
+            (cons (car s1) (stream-for-n-steps (cdr s1) (- n 1))))))
 
 ;#5
 (define fibo-stream
@@ -62,9 +62,9 @@
 ;#8 macro create-stream
 (define-syntax create-stream
   (syntax-rules (using starting at with increment)
-    [(create-stream name using f starting at i0 with increment delta)
-     (define name (letrec ([g (lambda (x) (cons (f x) (lambda() (g (+ x delta)))))])
-                    (lambda () (g i0))))]))
+    [(create-stream e1 using e2 starting at e3 with increment e4)
+     (define e1 (letrec ([f (lambda (x) (cons (e2 x) (lambda () (f (+ x e4)))))])
+                  (lambda () (f e3))))]))
 ; part 2
 
 ;#1
